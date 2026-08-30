@@ -2,13 +2,14 @@
 
 ## Source of truth
 
-- The `main` branch is the authoritative source for Sacratus canon.
-- Human-facing canon lives in top-level lore Markdown files rather than under a `canon/` directory.
-- `README.md`, `AGENTS.md`, and repository configuration are metadata, not lore canon.
-- The `working/` directory is non-canonical scratch space for AI-managed notes, unresolved questions, summaries, alternatives, and other material derived from ongoing chats.
-- Chat context, model memory, and prior brainstorming are useful context but are not authoritative when they conflict with `main`.
-- Before making claims about established lore, read the relevant top-level canon files when available.
-- New brainstorming does not become canon until it is accepted by the user and merged into `main`.
+- The `main` branch is the authoritative source for Sacratus.
+- Everything in the repository on `main` is authoritative **except material under `working/`**, which is explicitly non-canonical scratch space.
+- Lore content outside `working/` is canon. This includes lore organized in subdirectories such as `palatinae/`; canon is not restricted to top-level files.
+- Repository instructions and navigation files such as `AGENTS.md` and `README.md` are authoritative for how the repository is interpreted and maintained.
+- A canonical document may contain **PROVISIONAL**, **OPEN**, **UNKNOWN IN-UNIVERSE**, or **REJECTED** material. In those cases, the *status itself* is canonical even when the underlying question is unsettled.
+- Chat context, model memory, and prior brainstorming are useful context but are not authoritative when they conflict with merged repository content.
+- Before making claims about established lore, read the relevant canonical repository files when available.
+- New brainstorming does not become canon merely because it appears in chat or model context. It becomes canon when it is deliberately written outside `working/`, reviewed by the user, and merged into `main`.
 
 ## Canon status vocabulary
 
@@ -18,7 +19,7 @@ Use these statuses consistently when a fact or section is not simply ordinary es
 - **PROVISIONAL** — Current working decision that may still move. It may be questioned or revised, but its provisional status should be preserved until changed.
 - **OPEN** — Question not yet decided. Do not silently resolve it.
 - **UNKNOWN IN-UNIVERSE** — Deliberately unresolved within the setting. Do not invent a definitive answer unless the user explicitly changes this status.
-- **REJECTED** — Previously considered idea that should not be reintroduced as canon unless explicitly reconsidered. Rejected ideas generally belong under `working/` rather than in human-facing canon files.
+- **REJECTED** — Previously considered idea that should not be reintroduced as canon unless explicitly reconsidered. Rejected ideas generally belong under `working/`; when recorded in canon, the rejection itself is authoritative.
 
 Statuses may apply to an individual fact, section, date, interpretation, or whole topic; they do not require one file per status.
 
@@ -40,16 +41,19 @@ The general rule is: if an AI action could reasonably be mistaken for an action 
 
 ## Canon changes
 
-For AI-generated changes to canon or repository metadata:
+For AI-generated changes to anything outside `working/`:
 
 - Do not push directly to `main`.
 - Open a pull request for all changes.
-- Summarize meaningful canon additions, removals, and status changes in the pull request description.
+- Summarize meaningful canon additions, removals, reorganizations, and status changes in the pull request description.
 - Do not treat an unmerged pull request as accepted canon.
+- When reorganizing canon, preserve meaning and status rather than silently strengthening provisional material into settled fact.
 
 ## Working material
 
-- Material under `working/` is explicitly non-canonical and may be revised, reorganized, summarized, or discarded by AI as the discussion evolves.
-- The intended workflow is for AI to maintain `working/` without requiring human approval for each scratch-space update, while promotion from `working/` into top-level canon always requires a reviewed pull request to `main`.
+- Material under `working/` is the sole explicitly non-canonical area of the repository.
+- It may be revised, reorganized, summarized, or discarded by AI as the discussion evolves.
+- `working/` may contain unresolved questions, provisional alternatives, rejected ideas, continuity concerns, summaries of active discussions, and possible future developments.
 - Do not promote working material into canon merely because it has persisted for a long time or appears internally consistent.
 - When working notes conflict with merged canon, merged canon wins.
+- Promotion from `working/` into any other repository path is a canon change and requires user review through a pull request.
