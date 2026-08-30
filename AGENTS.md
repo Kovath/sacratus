@@ -79,6 +79,32 @@ If two canonical files genuinely conflict and no status or context resolves the 
 - when making a repository change, resolve the inconsistency only when the user's decision or already-established canon clearly determines the answer;
 - update all affected summaries and cross-references when a conflict is deliberately resolved.
 
+## Lore compliance review during discussion
+
+When discussing new lore, revisions, interpretations, or expansions, perform a lightweight **lore compliance review** against the relevant repository canon before treating the idea as fitting the setting.
+
+The review should check, as applicable:
+
+- **Internal continuity** — Does the idea conflict with established dates, people, institutions, geography, manpower, causality, or status labels?
+- **Character continuity** — Does it fit the established motives, personality, capabilities, relationships, and historical role of the people involved?
+- **Institutional continuity** — Does it respect how the Palatinae, Concordat, Mechanicus, Sororitas, mortal military, and other institutions are established to function?
+- **Thematic continuity** — Does it preserve the setting's established tone, constraints, and major thematic choices rather than weakening them through convenience or escalation?
+- **Warhammer 40,000 compatibility** — Does it fit known 40k lore, scale, institutions, technology, Warp behavior, Astartes capabilities, and Imperial norms without requiring an unsupported exception?
+- **Specialness budget** — Does it add another major mystery, unique privilege, legendary connection, irreplaceable relic, or exceptional capability where the setting is already deliberately restrained?
+- **Uncertainty preservation** — Does it accidentally answer something marked `OPEN` or `UNKNOWN IN-UNIVERSE`, or strengthen a `PROVISIONAL` idea into certainty?
+- **Knock-on effects** — If accepted, what existing documents, relationships, chronology, or later events would logically need to change?
+
+The review does not need to be presented as a rigid checklist in every conversational response. Integrate it naturally into critique and development. When an idea fits cleanly, say so without manufacturing objections. When there is a meaningful issue, identify whether it is:
+
+- a **hard conflict** with established canon or external 40k lore;
+- a **soft tension** that can work but needs explanation or tradeoffs;
+- an **open design choice** not currently constrained by canon;
+- or a **deliberate revision** that is viable if existing canon is changed knowingly.
+
+Do not reject an idea merely because it changes canon. The purpose of the review is to make the consequences explicit so the user can choose whether to preserve, adapt, or revise the existing material.
+
+When external Warhammer 40,000 lore is materially uncertain, edition-sensitive, or likely to have changed, verify it before presenting a compliance judgment as fact.
+
 ## AI identity and attribution
 
 GitHub actions performed by AI through the user's account must not be presented as though the user personally wrote or performed them.
