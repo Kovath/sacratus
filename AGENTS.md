@@ -44,8 +44,6 @@ For AI-generated changes to canon or repository metadata:
 
 - Do not push directly to `main`.
 - Open a pull request for all changes.
-- Add the required `AI-Generated-By: ChatGPT` trailer to AI-generated commits.
-- Identify AI-authored pull requests clearly in the PR description.
 - Summarize meaningful canon additions, removals, and status changes in the pull request description.
 - Do not treat an unmerged pull request as accepted canon.
 
