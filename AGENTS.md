@@ -23,6 +23,62 @@ Use these statuses consistently when a fact or section is not simply ordinary es
 
 Statuses may apply to an individual fact, section, date, interpretation, or whole topic; they do not require one file per status.
 
+## Navigation and document roles
+
+Treat `README.md` as the primary navigation map for the repository. When the repository structure changes, keep its navigation links and document descriptions current.
+
+Canonical documents should have distinct jobs. For the Palatinae material, use these roles unless the repository later establishes a more specific structure:
+
+- `overview.md` — **What is this subject?** A concise synthesis and entry point. It may repeat important facts for readability, but should not become the detailed canonical home for every topic it mentions.
+- `history.md` — **How and why did this subject become what it is?** The primary narrative and causal historical account. It explains developments, transitions, consequences, and historical context rather than serving as a fact dump.
+- `timeline.md` — **When did things happen?** A chronological reference optimized for dates, sequence, reigns, periods, and quick continuity checks. It should not carry long narrative explanations better suited to `history.md`.
+- `constantines.md` — **Who held the Constantinian office and how did each shape the Chapter?** The current biographical and reign-focused canonical home. Split it into a directory of biographies only when the material warrants it.
+- `organization.md` — **How does the Chapter function?** The primary home for companies, offices, command relationships, recruitment, manpower structure, specialist bodies, and other institutional mechanics.
+- `culture.md` — **How does the Chapter understand itself and live?** The primary home for beliefs, traditions, memory, religion, generational identity, customs, attitudes, and lived Chapter culture.
+- `heraldry.md` — **What does the Chapter look like, and what do its visual traditions mean?** The primary home for colors, badges, markings, armor provenance, visual distinctions, and modeling-relevant heraldic rules.
+
+These categories may overlap at a summary level. Their distinction is by **purpose**, not by forbidding a fact from ever being mentioned in more than one document.
+
+## Referential consistency and canonical ownership
+
+Each detailed subject should have one **primary canonical home**. Other files may summarize the subject when necessary for comprehension, but should link or defer to the primary home for detailed treatment.
+
+When reading canon:
+
+1. Start with `README.md` to identify the relevant subject area and likely governing documents.
+2. Read the subject overview when broad context is needed.
+3. Read the most specific canonical document governing the question before making a detailed claim. Do not rely solely on an overview when a specialized document exists.
+4. For historical questions, distinguish narrative causation (`history.md`) from chronological precision (`timeline.md`). Consult both when the answer depends on both.
+5. For a Constantine's motives, personality, career, or succession, prefer the Constantine material; for the wider consequences of the reign, consult the relevant history and specialized subject files as needed.
+6. Consult cross-cutting documents together when a question spans domains rather than assuming one file contains the entire answer.
+
+When writing or reorganizing canon:
+
+- Put new detailed material in the document whose role most directly owns the subject.
+- Keep summaries concise outside the primary home. Avoid maintaining multiple independent detailed versions of the same lore.
+- When moving detailed material to a more appropriate canonical home, update or shorten older copies so they do not become competing authorities.
+- Preserve useful cross-references between documents when a reader would reasonably need to move from one subject to another.
+- When creating, renaming, moving, splitting, or deleting canonical files, update `README.md` navigation in the same change.
+- When a large file is split, preserve an overview or index at the old conceptual entry point when that improves discoverability.
+- Do not create a new file merely because a possible category exists. Split material when the new document has a clear purpose and enough substance to justify independent navigation.
+
+## Resolving apparent conflicts
+
+Do not silently choose between contradictory canonical statements.
+
+First determine whether the apparent conflict is intentional:
+
+- a more specific document may elaborate on a summary without contradicting it;
+- a `PROVISIONAL`, `OPEN`, `UNKNOWN IN-UNIVERSE`, or `REJECTED` label may explain the difference;
+- two statements may represent different eras, perspectives, or in-universe interpretations.
+
+If two canonical files genuinely conflict and no status or context resolves the conflict:
+
+- surface the inconsistency rather than inventing a reconciliation;
+- prefer neither file solely because it is longer, newer, or more specific unless the repository explicitly establishes that precedence;
+- when making a repository change, resolve the inconsistency only when the user's decision or already-established canon clearly determines the answer;
+- update all affected summaries and cross-references when a conflict is deliberately resolved.
+
 ## AI identity and attribution
 
 GitHub actions performed by AI through the user's account must not be presented as though the user personally wrote or performed them.
@@ -48,6 +104,7 @@ For AI-generated changes to anything outside `working/`:
 - Summarize meaningful canon additions, removals, reorganizations, and status changes in the pull request description.
 - Do not treat an unmerged pull request as accepted canon.
 - When reorganizing canon, preserve meaning and status rather than silently strengthening provisional material into settled fact.
+- Before completing a structural change, check that navigation, relative links, document-role descriptions, and primary canonical homes remain consistent.
 
 ## Working material
 
