@@ -67,9 +67,9 @@ The Palatinae suffer catastrophic casualties across multiple fronts. Justinian, 
 
 John and the defenders around him make **Constantine's Stand** on the approach to Repository VIII. The defending veterans die. John is catastrophically wounded and publicly believed dead.
 
-Secretly, he is interred in a Dreadnought and becomes the Repository's final guardian.
+A senior Librarian named **Theophanes** reaches John in his final moments. John entrusts him with the Repository key and the responsibility of carrying its charge to Justinian. Theophanes then arranges John's secret interment in a Dreadnought, giving the former Chapter Master one final role as Repository VIII's last guardian.
 
-The Chapter does not know this as an institution. Justinian dies centuries later still believing John was killed during the Breaking.
+Theophanes does not reveal John's survival to Justinian. The Chapter does not know the truth as an institution, and Justinian dies centuries later still believing John was killed during the Breaking.
 
 The Marines who survive from before the catastrophe later become known as the **Unbroken**.
 
@@ -123,9 +123,11 @@ The Palatinae remain recognizably Codex-derived. The later severe company suspen
 
 The Palatinae and Sacratan forces attack the Chaos staging nexus at Dara.
 
-Dara is a real offensive victory and proves that the rebuilt system can project force deliberately. It also kills Justinian.
+Dara is a real offensive victory, but an exceptionally costly one. Significant Palatinae and Sacratan forces are lost in destroying the staging nexus and the corridor of pressure it supports. Justinian is among the dead.
 
-Cassian succeeds him.
+The strategic gain is nevertheless enormous: Dara buys Sacratus substantial breathing room after centuries of pressure. That respite becomes one of the conditions that allows the next era to turn from consolidation toward outward expansion rather than immediately spending its strength on another defensive emergency. Dara proves that the rebuilt system can project force deliberately, but also that a victory on that scale cannot be purchased casually.
+
+Cassian succeeds Justinian.
 
 After Justinian's death, Theophanes reveals the truth of John Constantine's survival to Cassian. John is awakened and learns that Justinian ruled for 317 years and died without ever knowing that his predecessor remained alive.
 
@@ -133,7 +135,7 @@ This becomes the first full successor awakening of John after the secret establi
 
 ## 417–703.M40 — Mature High Vigil
 
-Under Cassian, the Chapter's strategic posture becomes more proactive.
+Under Cassian, the Chapter's strategic posture becomes more proactive. The breathing room won at Dara gives Sacratus time and space in which that posture can matter.
 
 The Palatinae participate in the expansion of the Chrysopolis defenses and the pushing of violence outward from the central system. Cassian's leadership style favors finding new options rather than choosing only between already-defined alternatives.
 
@@ -155,7 +157,7 @@ The loss is a deep rupture in Palatinae identity. A Chapter culture built around
 
 The High Vigil ends.
 
-The later **Ash-Born** culture develops in the world that follows Ravenna.
+The later **Ash-Born** culture develops in the world that follows Ravenna. During the Low Vigil, the Chi-Sword also develops its later fully radiant form, adding richer sacred ornament as the material circumstances of Sacratus grow poorer.
 
 ## 703–761.M40 — Basilios and Stabilization
 
@@ -204,9 +206,9 @@ The Chapter's scarcity is therefore increasingly demographic rather than purely 
 
 The First Company retains the concentrated veteran tradition because it cannot be recreated merely by distributing old suits among younger Marines.
 
-Every First Company battle-brother has an assigned Terminator suit and Crux Terminatus, though assignment does not guarantee immediate serviceability or deployment in Terminator plate.
+During the Low Vigil, veteran numbers fall far enough that surviving Terminator suits can outnumber the qualified brothers available to wear them. In this period every serving First Company battle-brother can therefore have a Terminator suit assigned, even though not every assigned suit is necessarily serviceable at a given moment and not every mission calls for Terminator plate.
 
-By the later Vigil, surviving Terminator armor can outnumber qualified veterans.
+This is a consequence of Low-Vigil demographic collapse, not a permanent entitlement or a rule that necessarily survives into the Chapter's current organization.
 
 ### Melitene
 
