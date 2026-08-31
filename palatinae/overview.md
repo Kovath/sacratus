@@ -10,6 +10,8 @@ Their predecessors were a XIII Legion detachment stationed at Sacratus during th
 
 > **DEFEND SACRATUS.**
 
+Separate from that public mandate, the first Palatinae Chapter Master also inherits the secret charge of **Repository VIII**, a hidden trust whose contents remain **UNKNOWN IN-UNIVERSE**. The Repository is not the public reason the Chapter was assigned to Sacratus.
+
 The mandate is strategic rather than narrowly geographic. The Chapter may campaign beyond the system when doing so is necessary to protect Sacratus, but it is not free to expose the system recklessly in pursuit of unrelated glory.
 
 The Palatinae do **not** formally rule Sacratus. The Forge World, civil authorities, Ecclesiarchy, military institutions, and other Imperial bodies retain their own jurisdictions. The Chapter nevertheless becomes deeply entangled in nearly every major Sacratan decision because defense intersects logistics, food, transport, industry, population, fortification, intelligence, and interinstitutional coordination.
@@ -125,8 +127,6 @@ It is a generational category rather than a specific ideological faction. By the
 
 It refers to Marines and Sacratans formed by a society in which deprivation, reclamation, and managed contraction have become normal. The name also overlaps with popular gallows language around the grey-black processed nutrient compounds common in the poorest periods of the Vigil.
 
-There is no formal "Ravenna Generation."
-
 ## Chapter Culture
 
 ### Accounting as responsibility
@@ -169,7 +169,7 @@ The Long Vigil gradually changes the meaning of several formations because the C
 
 During Constantine V Leontios's reign, the Chapter applies the same contraction imposed on Sacratus to itself.
 
-At the beginning of his reign, Chapter strength is approximately **324 full battle-brothers** — **PROVISIONAL** as an exact figure.
+By the Low Vigil, Chapter strength has fallen into the low hundreds and the Palatinae can no longer sustain a full ten-company structure.
 
 The **5th, 8th, and 9th Companies are suspended**. Their identities and standards are retained rather than abolished, but there are no longer enough Marines to justify maintaining them as independent formations.
 
@@ -203,11 +203,11 @@ A useful shorthand is:
 
 The Palatinae retain an unusually large stock of Terminator armour relative to their late-Vigil manpower because ancient equipment accumulates while the number of qualified veterans falls.
 
-Every First Company battle-brother has an assigned Terminator suit and Crux Terminatus. This does not mean every mission is fought in Terminator armour, nor that every assigned suit is simultaneously serviceable.
+During the Low Vigil, veteran numbers become low enough that every serving First Company battle-brother can have a Terminator suit assigned. This is a consequence of the suits outnumbering the veterans available to wear them, not a permanent entitlement of First Company service and not a rule that necessarily survives into current times.
 
-By the Low Vigil, the Chapter can plausibly possess more surviving or repairable Terminator suits than veterans available to wear them.
+Assignment does not mean every mission is fought in Terminator armour, nor that every assigned suit is simultaneously serviceable. The Chapter can plausibly possess more surviving or repairable suits than veterans available to wear them without possessing any special manufacturing capability.
 
-This is not the result of a secret manufacturing capability. It is accumulated old stock preserved through aggressive maintenance and reclamation.
+The broader late-Vigil pattern is simple: the Chapter becomes better at preserving ancient wargear than at replacing the battle-brothers who use it. Armouria can remain stocked while barracks stand empty.
 
 ## The Varangian Guard
 
@@ -227,26 +227,6 @@ The Varangians are created after the Breaking when the Chapter recognizes that R
 
 Only a tiny number of Palatinae know the Repository's significance. The contents of Repository VIII remain **UNKNOWN IN-UNIVERSE**.
 
-## Manpower During the Low Vigil
-
-Palatinae strength during the Low Vigil must be understood as a fluctuating population rather than a straight decline.
-
-Hundreds of Marines can die and hundreds of neophytes can be elevated across several centuries while the Chapter remains numerically trapped in the low hundreds. Recruitment never stops; throughput simply struggles to exceed casualties.
-
-Important current benchmarks are:
-
-- approximately **324 full battle-brothers** at Leontios's accession — **PROVISIONAL exact figure**;
-- roughly the mid-to-high 200s around the transition into Manuel's era — **PROVISIONAL range**;
-- approximately **217 full battle-brothers** at Alexios's accession — **PROVISIONAL exact figure**;
-- gradual recovery during the Quiet Vigil as neophytes finally have time to mature without being consumed immediately by emergencies.
-
-The Chapter's late-Vigil problem is therefore often summarized as the inverse of Sacratus's wider scarcity:
-
-> Sacratus has people and is running out of things.  
-> The Palatinae have things and are running out of people.
-
-The Armourium can contain ancient wargear while the barracks remain empty.
-
 ## Reintegration
 
 The return of the wider Imperium changes the conditions that created many Palatinae adaptations.
@@ -258,5 +238,3 @@ The intended direction is:
 - restore the **4th** and **5th** as Battle Companies when numbers permit;
 - eventually restore the **8th** and **9th** as specialized reserve formations;
 - retain much of the 6th and 7th Companies' generalized training identity because it has become a useful Palatinae institution in its own right.
-
-The central post-Vigil problem is therefore not whether the Chapter can preserve every emergency adaptation. It is whether it can recognize which adaptations remain useful once scarcity, isolation, and legal emergency are no longer permanent facts.
