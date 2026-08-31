@@ -36,7 +36,9 @@ Palatinae culture places unusual weight on provenance, recovery, and continued s
 
 ## Terminator heraldry
 
-Every First Company battle-brother is entitled to the Crux Terminatus and has an assigned Terminator suit, though assignment does not guarantee immediate serviceability or deployment.
+During the Low Vigil, the number of surviving Terminator suits eventually exceeds the number of qualified First Company battle-brothers. In that period, every serving First Company brother can therefore have a suit assigned to him as a practical consequence of the Chapter's demographic collapse.
+
+This is not a permanent entitlement and does not describe the Chapter in all eras or in current times. Assignment also does not guarantee that a particular suit is immediately serviceable or that its wearer deploys in Terminator plate on every mission.
 
 **OPEN:** Detailed Terminator, First Company, and individual suit heraldry remains to be developed.
 
