@@ -26,9 +26,11 @@ During Reintegration, suspended companies can be restored as manpower permits. T
 
 ## First Company
 
-The First Company preserves the Chapter's veteran concentration and Terminator tradition. Every First Company battle-brother has an assigned Terminator suit and bears the Crux Terminatus, although veterans may deploy in power armor when the mission requires it.
+The First Company preserves the Chapter's veteran concentration and Terminator tradition. The Palatinae retain a large stock of Terminator armor relative to their late-Vigil manpower, but access to a suit is not a permanent entitlement of First Company service and not every First Company brother has an assigned suit in current times.
 
-The Chapter can possess more extant Terminator suits than it has veterans available to wear them. Ancient material abundance and later demographic collapse therefore coexist.
+During the Low Vigil, veteran numbers fall far enough that surviving Terminator suits can outnumber the qualified brothers available to wear them. Under those conditions every serving First Company battle-brother can naturally have a suit assigned, though assignment does not guarantee immediate serviceability or deployment in Terminator plate.
+
+The Low-Vigil abundance of suits relative to veterans therefore reflects demographic collapse and preservation of ancient wargear rather than a special manufacturing capability or timeless Chapter rule.
 
 ## Varangian Guard
 
