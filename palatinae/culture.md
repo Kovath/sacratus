@@ -32,6 +32,12 @@ Palatinae culture treats duty as obligation under conditions that may offer no s
 
 This outlook is strongly shaped by the Constantinian history of the Chapter, particularly the contrast between the expansion of the High Vigil and the necessary destruction and contraction that follow Ravenna.
 
+During the Low Vigil, especially under Leontios, preservation increasingly comes to mean preserving the capacity to continue rather than refusing every loss. A formulation associated with that period is:
+
+> **We preserve nothing by dying beside it.**
+
+The phrase expresses a harsh Leontian lesson rather than an ancient timeless maxim: a position, institution, or community may still be defensible in the immediate sense and nevertheless cost more to preserve than Sacratus can survive spending.
+
 ## Knowledge and accounting
 
 An old Palatinae maxim holds:
