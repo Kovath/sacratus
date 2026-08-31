@@ -2,14 +2,15 @@
 
 ## Source of truth
 
-- The `main` branch is the authoritative source for Sacratus.
-- Everything in the repository on `main` is authoritative **except material under `working/`**, which is explicitly non-canonical scratch space.
-- Lore content outside `working/` is canon. This includes lore organized in subdirectories such as `palatinae/`; canon is not restricted to top-level files.
-- Repository instructions and navigation files such as `AGENTS.md` and `README.md` are authoritative for how the repository is interpreted and maintained.
+- The `main` branch is the authoritative source for Sacratus lore and repository instructions.
+- Lore content on `main` outside `working/` is canon. This includes lore organized in subdirectories such as `palatinae/`; canon is not restricted to top-level files.
+- `AGENTS.md` and repository configuration are authoritative operational instructions, not in-universe lore.
+- `README.md` is a human-facing navigation aid only. It is not an authoritative source for canon or repository policy; when it conflicts with canonical lore or `AGENTS.md`, defer to those sources.
+- Material under `working/` is explicitly non-canonical scratch space.
 - A canonical document may contain **PROVISIONAL**, **OPEN**, **UNKNOWN IN-UNIVERSE**, or **REJECTED** material. In those cases, the *status itself* is canonical even when the underlying question is unsettled.
-- Chat context, model memory, and prior brainstorming are useful context but are not authoritative when they conflict with merged repository content.
+- Chat context, model memory, prior brainstorming, and README summaries are useful context but are not authoritative when they conflict with merged canonical lore.
 - Before making claims about established lore, read the relevant canonical repository files when available.
-- New brainstorming does not become canon merely because it appears in chat or model context. It becomes canon when it is deliberately written outside `working/`, reviewed by the user, and merged into `main`.
+- New brainstorming does not become canon merely because it appears in chat or model context. It becomes canon when it is deliberately written into a lore document outside `working/`, reviewed by the user, and merged into `main`.
 
 ## Canon status vocabulary
 
@@ -25,7 +26,7 @@ Statuses may apply to an individual fact, section, date, interpretation, or whol
 
 ## Navigation and document roles
 
-Treat `README.md` as the primary navigation map for the repository. When the repository structure changes, keep its navigation links and document descriptions current.
+Use `README.md` as the human-facing navigation map for the repository. It can help identify likely files, but it does not establish canon or policy. When the repository structure changes, keep its navigation links and document descriptions current for human readers.
 
 Canonical documents should have distinct jobs. For the Palatinae material, use these roles unless the repository later establishes a more specific structure:
 
@@ -45,7 +46,7 @@ Each detailed subject should have one **primary canonical home**. Other files ma
 
 When reading canon:
 
-1. Start with `README.md` to identify the relevant subject area and likely governing documents.
+1. Use `README.md` only to identify the relevant subject area and likely governing documents.
 2. Read the subject overview when broad context is needed.
 3. Read the most specific canonical document governing the question before making a detailed claim. Do not rely solely on an overview when a specialized document exists.
 4. For historical questions, distinguish narrative causation (`history.md`) from chronological precision (`timeline.md`). Consult both when the answer depends on both.
@@ -123,7 +124,7 @@ The general rule is: if an AI action could reasonably be mistaken for an action 
 
 ## Canon changes
 
-For AI-generated changes to anything outside `working/`:
+For AI-generated changes to canon or repository metadata:
 
 - Do not push directly to `main`.
 - Open a pull request for all changes.
@@ -139,4 +140,4 @@ For AI-generated changes to anything outside `working/`:
 - `working/` may contain unresolved questions, provisional alternatives, rejected ideas, continuity concerns, summaries of active discussions, and possible future developments.
 - Do not promote working material into canon merely because it has persisted for a long time or appears internally consistent.
 - When working notes conflict with merged canon, merged canon wins.
-- Promotion from `working/` into any other repository path is a canon change and requires user review through a pull request.
+- Promotion from `working/` into a canonical lore path is a canon change and requires user review through a pull request.
