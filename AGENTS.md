@@ -4,6 +4,7 @@
 
 - `main` is authoritative for Sacratus lore and repository instructions.
 - Lore on `main` outside `working/` is canon, including lore in subdirectories. `working/` is explicitly non-canonical scratch space.
+- `working/` may change freely; promoting material from it into canon requires explicit user review.
 - `README.md` is human-facing navigation only; it does not establish canon or policy.
 - Chat, model memory, brainstorming, README summaries, and unmerged PRs are not authoritative when they conflict with merged canon.
 - Before asserting established lore, read the relevant canonical files.
