@@ -1,4 +1,4 @@
-# Constantine III — Cassian
+# Constantine III — Cassian of Ravenna
 
 ## Dates
 
