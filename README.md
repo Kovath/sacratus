@@ -1,74 +1,41 @@
 # Sacratus
 
-The story of Sacratus and the Palatinae.
+A Warhammer 40,000 homebrew setting centered on the Sacratus system, its history, institutions, factions, and the Long Vigil.
 
-This README is a human-facing guide to the repository: where to start, what each document is for, and where to find deeper material.
+This README is a human-facing map of the repository. It is intended to help readers find material, not to establish canon or repository policy.
 
 ## Start here
 
-For a new reader:
+- [`timeline.md`](timeline.md) — setting-wide chronology and major historical periods.
+- [`palatinae/`](palatinae/) — lore concerning the Palatinae Chapter.
+- [`working/`](working/) — non-canonical scratch material, unresolved ideas, alternatives, and development notes.
 
-1. [`palatinae/overview.md`](palatinae/overview.md) — what the Palatinae are;
-2. [`timeline.md`](timeline.md) — the broad chronology of Sacratus;
-3. [`palatinae/history.md`](palatinae/history.md) — how the Chapter became what it is.
+As the setting expands, other factions, institutions, places, and major subjects may receive their own directories.
 
-For quick chronological checking, use [`palatinae/timeline.md`](palatinae/timeline.md). For individual Chapter Masters, use [`palatinae/constantines.md`](palatinae/constantines.md).
+## Repository organization
 
-## Repository navigation
+Setting-wide material belongs at the repository root when it genuinely spans the setting. More focused material should live under the relevant subject or faction directory.
 
-### Setting-wide
+Major directories may contain their own `README.md` as a local navigation page. Those local READMEs can describe the documents within that subject without requiring the root README to duplicate their structure.
 
-- [`timeline.md`](timeline.md) — grand chronology of Sacratus, including political, military, institutional, and Palatinae developments.
-
-### Palatinae
-
-- [`palatinae/overview.md`](palatinae/overview.md) — high-level Chapter identity and front door to Palatinae lore;
-- [`palatinae/history.md`](palatinae/history.md) — narrative and causal history: how and why the Chapter changes over time;
-- [`palatinae/timeline.md`](palatinae/timeline.md) — chronological reference focused specifically on Palatinae development;
-- [`palatinae/constantines.md`](palatinae/constantines.md) — current combined record of the Constantines; intended to split into biographies when useful;
-- [`palatinae/organization.md`](palatinae/organization.md) — companies, command, Varangians, Librarius, recruitment, manpower, and other institutional structure;
-- [`palatinae/culture.md`](palatinae/culture.md) — beliefs, traditions, generational identity, memory, religion, and lived Chapter culture;
-- [`palatinae/heraldry.md`](palatinae/heraldry.md) — colors, Chi-Sword variants, markings, armor provenance, and visual identity.
-
-### Working material
-
-- [`working/`](working/) — non-canonical scratch material, unresolved questions, alternatives, rejected ideas, and migration notes.
-
-## Document roles
-
-The Palatinae documents intentionally overlap at a high level but answer different questions:
-
-- **Overview:** What are the Palatinae?
-- **History:** How and why did they become that?
-- **Timeline:** When did it happen?
-- **Constantines:** Who held the office, and how did each shape the Chapter?
-- **Organization:** How does the Chapter function?
-- **Culture:** How does the Chapter understand itself and live?
-- **Heraldry:** What does the Chapter look like, and what do its visual traditions mean?
-
-The intent is to keep detailed subjects in a natural home while allowing summaries elsewhere when they help a reader understand the larger setting.
-
-## Current structure
+A typical shape is:
 
 ```text
 README.md
 AGENTS.md
 timeline.md
-palatinae/
-├── overview.md
-├── history.md
-├── timeline.md
-├── constantines.md
-├── organization.md
-├── culture.md
-└── heraldry.md
+<faction-or-subject>/
+├── README.md
+├── ...
 working/
-└── README.md
+└── ...
 ```
+
+The repository does not need to pre-create files or directories before a subject has enough material to justify them.
 
 ## Status labels
 
-Lore documents may use the following labels when a point is not simply settled canon:
+Lore documents may use these labels when a point is not simply settled canon:
 
 - **LOCKED** — established;
 - **PROVISIONAL** — current working answer, still subject to revision;
@@ -76,4 +43,4 @@ Lore documents may use the following labels when a point is not simply settled c
 - **UNKNOWN IN-UNIVERSE** — deliberately left without a definitive answer;
 - **REJECTED** — considered and discarded.
 
-For repository workflow and AI instructions, see [`AGENTS.md`](AGENTS.md).
+For authoritative repository workflow, canon handling, and AI instructions, see [`AGENTS.md`](AGENTS.md).
