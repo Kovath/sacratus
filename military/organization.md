@@ -14,7 +14,7 @@ The Military jurisdiction is distinct from the Civil jurisdiction within Sacrata
 
 The **Limitanei** emerge during the Reformation from forces assigned primarily to fixed and local defense.
 
-Planetary defense forces naturally fall into this role after the Breaking. Because immediate defense is the dominant problem, many surviving Imperial Guard / Astra Militarum formations are also assigned to Limitanei duties to reinforce threatened local defenses and fill gaps left by catastrophic losses.
+Planetary defense forces naturally fall into this role after the Breaking. Because immediate defense is the dominant problem, a large majority of surviving conventional formations are committed to Limitanei duties, including many Imperial Guard / Astra Militarum formations reassigned to reinforce threatened local defenses and fill gaps left by catastrophic losses.
 
 Their defining responsibilities include:
 
@@ -23,17 +23,19 @@ Their defining responsibilities include:
 - enduring local garrison responsibilities;
 - positions whose loss would directly compromise the locality or strategic function they defend.
 
-The category begins as a role assigned to inherited formations and later hardens into an institutional identity.
+The category grows broadly and organically out of the defensive emergency, beginning as a role assigned to inherited formations and later hardening into an institutional identity.
 
 **OPEN:** The internal hierarchy, unit nomenclature, recruitment system, and degree of permanent geographic attachment within the Limitanei remain undeveloped.
 
 ## Comitatenses
 
-The **Comitatenses** emerge from formations assigned to remain mobile rather than being committed primarily to fixed defense.
+The **Comitatenses** begin with the smaller body of formations kept mobile rather than committed primarily to fixed defense.
 
 They form the conventional field armies and strategic reserves of Sacratus: forces intended to move between threatened fronts and reinforce the system where concentrated mobile strength is required.
 
-Like the Limitanei, the category begins as an assigned role rather than as a wholly new formation type and becomes a durable institutional identity over time.
+Unlike the much broader early Limitanei pattern, the mature Comitatenses are deliberately developed under Justinian. Over the first generations after the Breaking, the dominance of static defense erodes some of the training, command experience, transport practice, logistics, and institutional memory required for large-scale mobile campaigning. The Reformation therefore has to preserve and rebuild those capabilities intentionally rather than assume they will survive on their own.
+
+The Comitatenses consequently develop from an early assigned role into a consciously sustained field-army institution.
 
 **OPEN:** The exact command structure, unit scales, basing, transport arrangements, and internal subdivisions of the Comitatenses remain undeveloped.
 
