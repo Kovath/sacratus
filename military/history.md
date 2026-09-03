@@ -4,17 +4,23 @@
 
 ## Before the Breaking
 
-Pre-Breaking Sacratus does not possess the later Long-Vigil military system in finished form.
+Sacratus's conventional military history predates the institutions present immediately before the Breaking.
 
-Its conventional defense rests on ordinary Imperial institutions: planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
+Its Heresy-era inheritance includes a **Solar Auxilia** legacy. The Solar Auxilia do not survive as a continuous Sacratan institution into M40, but records, doctrine, equipment patterns, and material culture associated with that older military tradition remain available within the system.
+
+By the later pre-Breaking era, Sacratus does not possess the later Long-Vigil military system in finished form and does not field a surviving Solar Auxilia establishment. Its conventional defense instead rests on ordinary Imperial institutions: planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
 
 They are not yet organized primarily around the later **Limitanei/Comitatenses** distinction.
+
+The older Solar Auxilia inheritance therefore remains a historical and doctrinal resource rather than an unbroken institutional lineage.
 
 ## The Breaking
 
 The Breaking in **100.M40** traps Sacratus without reliable access to the wider Imperial military system that had previously supplied reinforcement, replacement, authority, and strategic depth.
 
 The immediate task is survival. Conventional forces fight alongside the Palatinae and the other armed institutions of the system while existing command arrangements are strained by isolation, catastrophic losses, and the sudden need to defend Sacratus without assuming outside relief.
+
+John Constantine invokes **Ultimum** and is recognized as **Autokrator**, giving him extraordinary authority over matters necessary to the defense of Sacratus. The precise way this emergency authority overlays or supersedes the conventional military chain of command remains **OPEN**, but the military enters the post-Breaking emergency under that broader defense authority.
 
 Defense dominates the emergency. Planetary defense forces remain tied to the places they already exist to protect, and a large majority of surviving conventional formations are committed to fixed, local, or fortress defense. Many Guard formations that had entered the Breaking as field forces are likewise assigned to reinforce threatened positions and plug gaps across the system.
 
@@ -33,6 +39,8 @@ The early **Comitatenses** role therefore exists before the mature institution d
 Justinian's Reformation eventually treats that loss of mobile capability as a strategic vulnerability in its own right.
 
 Rather than merely preserving whatever mobile formations happen to remain, the Reformation deliberately rebuilds and establishes the **Comitatenses** as the system's mobile field-army and strategic-reserve capability. This requires more than assigning a name: mobile formations must retain or recover the training, command practice, transport, logistics, replacement systems, and operational habits needed to campaign away from permanent defensive positions and concentrate force across threatened fronts.
+
+In doing so, Sacratus can draw on more than the experience of surviving post-Breaking formations. Preserved **Solar Auxilia** archives, doctrine, equipment patterns, and material examples provide one older source from which useful practices can be recovered. Justinian does not restore the Solar Auxilia or treat their methods as a complete answer; the Comitatenses remain a new Sacratan institution built for the Long Vigil.
 
 The resulting distinction is therefore historically asymmetric:
 
