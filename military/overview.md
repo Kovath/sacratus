@@ -12,7 +12,7 @@ The Military and Civil jurisdictions are distinct within Sacratan governance. Th
 
 ## Pre-Breaking inheritance
 
-Before the Breaking, Sacratus relies on ordinary Imperial military structures rather than a single bespoke Sacratan army. These include planetary defense forces, Guard-derived formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
+Before the Breaking, Sacratus relies on ordinary Imperial military structures rather than a single bespoke Sacratan army. These include planetary defense forces, Imperial Guard / Astra Militarum formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
 
 The later Sacratan Military grows out of those surviving institutions rather than replacing them overnight with a wholly new organization.
 
@@ -20,7 +20,7 @@ The later Sacratan Military grows out of those surviving institutions rather tha
 
 The conventional military is the **mass military layer** of Sacratus.
 
-At system scale, its personnel number in the **millions**, while the Palatinae remain a much smaller strategic Astartes layer. Conventional forces hold territory, crew fixed defenses, escort and protect ordinary military movement, sustain fronts, and provide the manpower required for continuous defense across multiple worlds and installations.
+At system scale, its personnel number in the **millions**, while the Palatinae remain a much smaller strategic Astartes layer. Conventional forces hold territory, crew fixed defenses, sustain fronts, provide mobile field forces, and supply the manpower required for continuous defense across multiple worlds and installations.
 
 The Palatinae intervene where a small number of Space Marines can produce disproportionate effect: command, boarding, counterattack, critical-node reinforcement, anti-Astartes and anti-daemonic action, and other high-leverage operations. They do not replace the conventional armies that make sustained system defense possible.
 
@@ -28,17 +28,13 @@ The Palatinae intervene where a small number of Space Marines can produce dispro
 
 The defining Long-Vigil distinction is between **Limitanei** and **Comitatenses**.
 
-The distinction begins during Justinian's Reformation as a practical assignment question rather than as an attempt to create a new army by decree:
+The distinction develops during Justinian's Reformation by assigning surviving inherited formations to the roles Sacratus now needs them to perform.
 
-> **Can this formation be moved without abandoning the thing it exists to defend?**
+Defense is the more immediate problem after the Breaking. Existing planetary defense forces therefore fall naturally into **Limitanei** roles, while many Imperial Guard formations are also assigned to fixed or local defensive duties to plug gaps left by catastrophic losses. Other formations are assigned **Comitatenses** roles as mobile field armies and strategic reserves that can be shifted between fronts.
 
-If the answer is no, the force tends toward **Limitanei** duty: fixed defenses, fortress zones, and enduring local responsibilities.
+At first, a formation's original Imperial identity still matters. Over time, however, whether a unit began as planetary defense or Imperial Guard becomes less useful than the role it habitually performs. **Limitanei** and **Comitatenses** consequently become increasingly important institutional identities in their own right.
 
-If the answer is yes, the force tends toward **Comitatenses** duty: mobile field forces and strategic reserves that can be moved between threatened fronts.
-
-Over time, these duty classifications harden into durable institutional identities.
-
-The exact legal point at which that transition occurs, and whether every conventional formation fits cleanly into one category, remain **OPEN**.
+The exact legal and organizational stages by which those roles harden into institutions, the degree to which formations can later change roles, and the treatment of naval and void forces remain **OPEN**.
 
 ## Long-Vigil burden
 
