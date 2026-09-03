@@ -64,17 +64,51 @@ Justinian inherits a shattered Sacratus and initially attempts to fill John's ol
 
 He cannot.
 
-The system is changing too quickly for one man to know everything John knew before the catastrophe.
+John had known how the pre-Breaking system worked because that system had existed long enough for one exceptionally capable commander to learn its people, routes, institutions, and dependencies. After the Breaking, those relationships are changing too quickly and too much has been destroyed.
 
-The key development of Justinian's reign is therefore institutional rather than personal:
+Justinian's first important realization is therefore that Sacratus cannot survive by finding another John.
 
 > He stops trying to know everything and becomes very good at finding out who does.
 
-The **Reformation** creates horizontal dependencies among institutions that previously relied on vertical Imperial networks.
+The **Reformation** is the institutional expression of that change.
+
+### Replacing lost Imperial depth
+
+Before the Breaking, many Sacratan institutions can rely on vertical Imperial systems beyond Sacratus: replacement personnel, specialist knowledge, military reinforcement, trade, supply, and authorities elsewhere in the Imperium that can resolve problems or absorb losses.
+
+After the storm closes, those dependencies become liabilities.
 
 The underlying reality is:
 
 > **No one is coming to replace us.**
+
+Justinian does not respond by turning the Palatinae into the direct government of every Sacratan institution. Instead, the Reformation builds durable **horizontal dependencies** inside the system.
+
+Mechanicus, military, civil, Ecclesiastical, Sororitas, and Palatinae bodies develop recurring ways to share transport, repair, intelligence, medical capacity, supplies, personnel, and responsibility. Relationships that had once been improvised during the Breaking become procedures that can survive the deaths of the people who first created them.
+
+The point is not administrative elegance. It is to ensure that a failure in one institution can be recognized, supported, and compensated for by others before it becomes a system-wide collapse.
+
+### Military reorganization
+
+The Reformation also changes how Sacratus thinks about its mortal military forces.
+
+The distinction between **Limitanei** and **Comitatenses** emerges from practical assignment rather than from an attempt to invent a new army overnight.
+
+Forces whose removal would expose the place they exist to defend increasingly become associated with **Limitanei** duty: fixed defenses, fortress zones, and enduring local responsibilities.
+
+Forces that can be kept mobile and committed where the system most needs them increasingly become **Comitatenses**: the field and strategic reserve that Sacratus can move between fronts.
+
+This gives the system something it lacked during the Breaking: an increasingly legible distinction between forces that must remain and forces that can be spent elsewhere.
+
+The Palatinae remain the strategic Astartes layer rather than attempting to replace either category with Space Marines.
+
+### Rebuilding strategic depth
+
+**Sirmium** is rebuilt as part of the new defensive architecture. The wider system is reorganized around the assumption that defense, logistics, repair, medical capacity, recruitment, and replacement must all function without reliable outside replenishment.
+
+The Reformation is therefore not a single decree or blueprint. It is decades of turning emergency improvisation into institutions that can reproduce themselves.
+
+The **Varangian Guard** takes shape during this period as Repository VIII's permanent dedicated custody rather than leaving its defense dependent on whichever company officers happen to be available. Its exact date of formal establishment remains unresolved within the early Reformation.
 
 By the end of the Reformation, Sacratan institutions have learned not merely to coexist but how to depend on one another.
 
@@ -136,13 +170,15 @@ His response is restrained but genuine:
 
 During the early High Vigil, approximately **270–300.M40 — PROVISIONAL**, Sacratus retakes Ravenna.
 
-The campaign is competent rather than legendary.
+The planet had been devastated during the Breaking and had little strategic or economic value in its ruined state. Chaos therefore maintains only scattered forces there rather than a major entrenched occupation.
+
+That makes reclamation feasible, though not effortless. The campaign is competent rather than legendary: Sacratan forces clear the remaining enemy presence and restore Imperial control over a world that is still badly damaged and only fractionally productive.
 
 The important outcome is symbolic:
 
 > **Ravenna is Imperial again.**
 
-The planet remains poor and only fractionally productive, but the victory establishes a High-Vigil belief that later shapes Cassian:
+The victory establishes a High-Vigil belief that later shapes Cassian:
 
 > **What was lost can be returned.**
 
@@ -163,6 +199,10 @@ He decides to attack.
 > **"We go to Dara."**
 
 The operation becomes a genuine major victory and destroys a pressure point that has threatened Sacratus for centuries.
+
+The victory is purchased at **significant cost**. Palatinae and mortal Sacratan forces suffer heavy losses in destroying the staging nexus and the corridor of enemy pressure it supports.
+
+What Sacratus buys with those losses is substantial strategic breathing room. Dara does not instantly create abundance, but it removes enough sustained pressure to give the next reign room for the outward recovery and expansion that would otherwise have been impossible.
 
 Cassian contributes to how the offensive becomes possible, but Justinian makes the decision.
 
