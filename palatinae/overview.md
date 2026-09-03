@@ -79,7 +79,7 @@ The transition is gradual. John did not establish a dynastic title for himself, 
 
 By later centuries, however, the Constantinian sequence has become one of the principal ways Sacratans periodize their own history.
 
-See [`constantines.md`](constantines.md) for the combined record of Constantine I–VIII.
+See the [Constantines directory](constantines/README.md) for the Constantine I–VIII record and individual biographies.
 
 ## Heraldry and Colours
 

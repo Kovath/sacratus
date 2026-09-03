@@ -12,7 +12,7 @@ The Chapter Master bears the title **Constantine**, a title that developed from 
 
 The Constantine remains Chapter Master rather than a secular sovereign of Sacratus. Under the Concordat, however, invocation of **Ultimum** can grant the office extraordinary emergency authority over matters necessary to the defense of Sacratus.
 
-For individual holders of the office, see [`constantines.md`](constantines.md).
+For individual holders of the office, see [`constantines/README.md`](constantines/README.md).
 
 ## Companies
 
@@ -76,6 +76,6 @@ Dreadnoughts form part of the Chapter's continuity across otherwise impossible s
 
 Exact Chapter strength varies substantially across the Long Vigil and should not be treated as a simple uninterrupted decline.
 
-The current figure of approximately **324 full battle-brothers** at Leontios's accession is **PROVISIONAL**. The preferred figure of approximately **217 full battle-brothers** at Alexios's accession is likewise **PROVISIONAL**.
+The current figure of approximately **324 full battle-brothers** at Leontios's accession is **PROVISIONAL**. The figure of approximately **217 full battle-brothers** at Alexios's accession is likewise **PROVISIONAL**.
 
 Even at these numbers, the Palatinae do not attempt to replace Sacratus's mortal armies. They operate as a strategic Astartes layer: command, boarding, counterattack, critical-node reinforcement, anti-Astartes and anti-daemonic action, and intervention where a small number of Space Marines can change the outcome disproportionately.
