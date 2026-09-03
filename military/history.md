@@ -6,7 +6,7 @@
 
 Pre-Breaking Sacratus does not possess the later Long-Vigil military system in finished form.
 
-Its conventional defense rests on ordinary Imperial institutions: planetary defense forces, Guard-derived formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
+Its conventional defense rests on ordinary Imperial institutions: planetary defense forces, Imperial Guard / Astra Militarum formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
 
 They are not yet organized primarily around the later **Limitanei/Comitatenses** distinction.
 
@@ -20,17 +20,15 @@ The detailed order of battle during the Breaking remains **OPEN**.
 
 ## Justinian and the Reformation
 
-The **Reformation** changes how Sacratus thinks about conventional military forces.
+The **Reformation** reorganizes surviving conventional forces around the roles Sacratus now needs them to perform.
 
-The emerging distinction is practical:
+Immediate defense dominates the post-Breaking problem. Existing planetary defense forces therefore fall naturally into **Limitanei** roles. Many surviving Imperial Guard formations are likewise assigned to fixed or local defensive duties in order to reinforce threatened positions and plug gaps created during the catastrophe.
 
-> **Can this formation be moved without abandoning the thing it exists to defend?**
+Other formations are assigned **Comitatenses** roles, preserving mobile field armies and strategic reserves that can be shifted between fronts rather than tied primarily to one defensive zone.
 
-Forces whose removal would expose the place or function they exist to protect increasingly become associated with **Limitanei** duty. Fixed defenses, fortress zones, and enduring local responsibilities fall naturally into this category.
+These are initially role assignments applied to inherited formations, not the instantaneous creation of two entirely new armies. A unit can still be understood by its older Imperial provenance while serving in one of the new roles.
 
-Forces that can remain mobile and be committed wherever the system most needs them increasingly become **Comitatenses**. They provide a field force and strategic reserve that can be shifted between fronts.
-
-The categories begin as assignments and duties rather than as an instantaneous replacement of every inherited Imperial formation. Over time, repeated use turns them into durable institutional identities.
+Over time, however, that provenance becomes less useful as the central description of the force. Whether a formation serves as **Limitanei** or **Comitatenses** becomes the more important indicator of its place within the Sacratan military system, and the two roles gradually harden into durable institutional identities.
 
 The wider Reformation also rebuilds strategic depth within the system. Defense, logistics, repair, medical capacity, recruitment, and replacement must now function without dependable external replenishment. The rebuilding of **Sirmium** forms part of this new defensive architecture.
 
