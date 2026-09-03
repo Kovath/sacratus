@@ -60,9 +60,7 @@ This distinction is summarized by the later formulation:
 
 > **A Captain is trusted with command; a Varangian is trusted without it.**
 
-The senior member is known as the **First Varangian**. The title denotes seniority and custodial coordination within the eight rather than Captain-like command over the Chapter or Sacratan institutions.
-
-The Guard's sword-and-shield tradition derives from the Palatinae who died defending the approach to Repository VIII during Constantine's Stand. Those original defenders are remembered as predecessors in sacrifice, not retroactively counted as the first eight Varangians.
+The Guard's sword-and-shield tradition derives from the Palatinae who died defending the approach to Repository VIII during Constantine's Stand.
 
 The Guard develops after the Breaking, during the early Reformation, when Repository security can no longer depend on whichever company officers happen to be available. Its exact date of formalization remains **OPEN**.
 
