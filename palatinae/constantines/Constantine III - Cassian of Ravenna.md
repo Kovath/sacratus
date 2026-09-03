@@ -78,11 +78,11 @@ Cassian's success reinforces the belief that Sacratus can shape its future rathe
 
 ## Great Ravenna
 
-By the mature High Vigil, Cassian sees a problem larger than food production.
+By the mature High Vigil, Cassian notices a disturbing trend.
 
 Sacratus is still making net gains, but the margin is steadily narrowing. In the early Reformation, a major setback could be absorbed and followed by gains that more than repaid it. By Cassian's later reign, victories cost more, defeats remove more of what has been rebuilt, and each advance leaves less margin behind.
 
-A useful shorthand for the trajectory is **sixty-one steps forward for sixty back**: not a literal accounting formula, but a system still progressing only by an increasingly thin margin.
+A useful shorthand for the trajectory is **sixty-one steps forward for sixty back**: not a literal accounting formula, but a system still progressing only by an increasingly thin margin. What might once have been one step back and two steps forward, has continued to slowly downwards.
 
 Cassian wants to change that trajectory rather than merely continue winning more expensively.
 
