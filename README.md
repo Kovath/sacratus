@@ -11,6 +11,7 @@ This README is a human-facing map of the repository. It is intended to help read
 - [`mechanicus/`](mechanicus/) — lore concerning the Mechanicus of Sacratus and the Forge World's industrial history.
 - [`falkenrath/`](falkenrath/) — lore concerning the House Falkenrath Knight branch trapped within Sacratus.
 - [`military/`](military/) — lore concerning the conventional human armed forces of Sacratus, including the Limitanei and Comitatenses.
+- [`sororitas/`](sororitas/) — lore concerning the Adepta Sororitas presence in Sacratus, including Canoness Theresa and the Sisters' Long-Vigil role.
 - [`working/`](working/) — non-canonical scratch material, unresolved ideas, alternatives, and development notes.
 
 As the setting expands, other factions, institutions, places, and major subjects may receive their own directories.
