@@ -62,9 +62,7 @@ Overuse, deferred maintenance, unavailable replacement parts, improvised substit
 
 The Breakdown reveals that Sacratan industry cannot be understood as a list of factories and headline outputs. It is a network of dependencies, many of which had been safely hidden by the abundance and redundancy of the wider Imperium.
 
-**Teren-44**, then a comparatively mid-ranking **Magos Logis**, is the first established figure to recognize that the accumulating failures are not merely a collection of local maintenance crises. His work crosses enough otherwise siloed reporting to show that hidden dependencies are transmitting failure across the industrial network.
-
-Teren's defining early contribution is therefore **discovering and making legible the systemic character of The Breakdown**. He does not yet possess the authority to solve the crisis himself, and his importance at this stage should not be displaced onto Great Ravenna.
+During this crisis, **Teren-44**, then a comparatively mid-ranking **Magos Logis**, is the first established figure to recognize that the accumulating failures are one system-wide crisis rather than a collection of unrelated local breakdowns. His contribution is diagnostic: he makes the hidden dependency structure legible to the wider Mechanicus.
 
 The crisis makes sustainable service, maintenance burden, and dependency mapping as important as theoretical maximum output.
 
@@ -117,29 +115,17 @@ This is the period in which the Sacratan Mechanicus most clearly demonstrates th
 
 The old problems have not vanished, but the system possesses enough margin to manage them rather than merely react to them.
 
-## Teren-44 after The Breakdown and Great Ravenna
+## Great Ravenna
 
-Teren's work during **The Breakdown** establishes the basis of his later historical importance.
+During Cassian's reign, the mature High Vigil begins to confront a different problem: Sacratus can still improve its position, but the margin between gain and loss is narrowing.
 
-By identifying a single system-wide crisis beneath apparently separate local failures, he develops a specifically Mechanicus understanding of how Sacratan strength can deteriorate even when individual institutions continue to report acceptable local performance.
+Great Ravenna is the largest attempt to widen that margin by creating genuine abundance rather than extracting incrementally more from existing systems.
 
-That work gives him a reputation for seeing dependencies and system-level consequences that narrower industrial accounting can miss. It also shapes the way he later understands the mature High Vigil.
+A major agricultural surplus can support population growth, deepen labor, reduce subsistence pressure, and free industrial capacity for maintenance, defense, expansion, and long-term investment. The logic is especially attractive to a Mechanicus already shaped by crises that exposed the importance of dependencies between apparently separate systems.
 
-During Cassian's reign, Teren's analysis converges with the Constantine's broader strategic conclusion: Sacratus's narrowing margin between gain and loss cannot be solved merely by demanding incrementally more output from systems already consuming their own depth.
-
-A major new source of agricultural surplus could create wider positive feedback.
-
-Great Ravenna therefore matters to the Mechanicus in two ways.
-
-First, successful agricultural abundance reduces subsistence pressure, supports population growth, deepens labor, and frees industrial capacity that would otherwise be consumed sustaining basic survival.
-
-Second, the Mechanicus itself invests heavily in making that future possible. Over the century-scale redevelopment, substantial machinery, tooling, stores, production capacity, technical manpower, and senior expertise are committed to Ravenna rather than merely remaining on Sacratus and waiting to benefit from its harvests.
+The Mechanicus itself invests heavily in making Great Ravenna possible. Over the century-scale redevelopment, substantial machinery, tooling, stores, production capacity, technical manpower, and senior expertise are committed to Ravenna rather than merely remaining on Sacratus and waiting to benefit from its harvests.
 
 The project succeeds for generations.
-
-Industrial capacity is one of the beneficiaries. More effort can be spent on repair, investment, defense, and expansion because less of the system's productive energy is trapped in immediate subsistence pressure.
-
-Teren becomes associated with the project because his Breakdown-era understanding of hidden dependencies makes the logic of wider surplus especially legible to him. He is **not established as the originator of Great Ravenna**, and the project should not be treated as the event that first establishes his reputation.
 
 ## Ravenna and the loss of Mechanicus investment
 
@@ -152,10 +138,6 @@ The loss is therefore both **subtractive and structural**.
 Sacratus loses the abundance Great Ravenna had created, forcing resources back toward food, displacement, emergency transport, and defense. The Mechanicus simultaneously loses part of the industrial and expert capacity that would have been needed to absorb that shock.
 
 Basilios's Stabilization prevents immediate cascading collapse, but the Forge World enters the post-Ravenna era with less margin and with part of its High-Vigil investment permanently erased.
-
-Teren-44 survives Ravenna and rises to **Archmagos Logis only sometime afterward**. The exact date and circumstances of his promotion remain **OPEN**.
-
-His later participation in the Grand Calculus therefore links three stages of Mechanicus history: the mid-ranking priest who first diagnoses The Breakdown, the later participant in Great Ravenna's expansive logic, and the senior Archmagos who confronts contraction after Ravenna.
 
 ## Leontios and the Grand Calculus
 
@@ -178,8 +160,6 @@ The key distinction is between **nominal capacity** and **useful sustainable cap
 A manufactorium that exists on a map but cannot be maintained, supplied, staffed, or repaired is not equivalent to one that can deliver reliable service for another century.
 
 The established scale of contraction is severe. Approximately **sixty percent of the maintained industrial footprint** is ultimately lost, translated, or abandoned, and nominal capacity falls toward roughly **one third** of its earlier level — **PROVISIONAL exact aggregate figures**. Useful sustainable output declines less sharply because the purpose of the Calculus is to stop consuming scarce resources merely to preserve the appearance of a larger industrial base.
-
-Teren-44, by then an Archmagos Logis, is an important Mechanicus figure within this process rather than merely an outside victim of it.
 
 That does not make the Grand Calculus consensual.
 
