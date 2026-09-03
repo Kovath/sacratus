@@ -12,8 +12,8 @@ This README is a navigation page only. For setting-wide context, see the [reposi
 
 ## Reference
 
-- [Organization](organization.md) — authority, the Fabricator-General, Concordat participation, institutional relationships, and the role of Archmagos Teren-44;
-- [Industry](industry.md) — production, maintenance, depletion, breakdown, context loss, and the Grand Calculus;
+- [Organization](organization.md) — authority, the Fabricator-General, Concordat participation, institutional relationships, and the role of Teren-44;
+- [Industry](industry.md) — Sacratus's intermediary-production role, continuity under load, **The Depletion**, **The Breakdown**, **The Context Loss**, and the Grand Calculus;
 - [Culture](culture.md) — continuity, sacred service, scarcity, institutional memory, and the tension between preserving form and preserving function.
 
 Detailed internal hierarchy, sects, rites, individual forge complexes, and post-Reintegration disputes remain only as developed elsewhere or explicitly marked **OPEN** in these files.
