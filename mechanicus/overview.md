@@ -6,29 +6,41 @@
 
 **Sacratus is a Forge World** and the industrial heart of the Sacratus system.
 
-During the Great Crusade and Horus Heresy era, Sacratus is already an important **Mechanicum logistics and industrial nexus**. Its value lies not only in individual manufactoria but in the wider network of production, maintenance, storage, transport, and technical expertise concentrated around the Forge World and its associated system infrastructure.
+During the Great Crusade and Horus Heresy era, Sacratus is already an important **Mechanicum logistics and industrial nexus**. Its strategic role is especially concentrated in the immense web of intermediary production that keeps Imperial campaigns functioning: ammunition, tank treads, replacement assemblies, essential components, standardized parts, and countless other inputs that are shipped onward to front-line forces and other production centers.
+
+Sacratus can also produce finished war materiel, including complete vehicles such as Leman Russ tanks, but this is not the primary reason the Forge World matters to the wider Imperial logistics network. Its deeper value is that many different production lines elsewhere can depend on Sacratan components, stores, repair capacity, and throughput.
+
+That specialization makes pre-Breaking Sacratus powerful but deliberately non-autarkic. Large volumes of raw material, specialist components, replacement expertise, and other inputs can arrive through the wider Imperium because the Forge World is designed as part of a much larger industrial system rather than as a closed economy.
 
 After the Heresy, the local priesthood continues as part of the **Adeptus Mechanicus**. This directory uses *Mechanicus* for the faction across the setting while retaining *Mechanicum* where historically appropriate to the pre-Adeptus era.
 
-The Sacratan Mechanicus remains loyal to Mars and the Imperium throughout the Long Vigil. Isolation does not turn it into a formally independent or separatist machine cult. The defining problem is instead how a Forge World built as part of a much larger Imperial industrial network survives for almost nineteen centuries when that wider network becomes unreachable.
+The Sacratan Mechanicus remains loyal to Mars and the Imperium throughout the Long Vigil. Isolation does not turn it into a formally independent or separatist machine cult. The defining problem is instead how a Forge World built around specialization, imported depth, and system-wide logistics survives for almost nineteen centuries when that wider network becomes unreachable.
 
 ## From nexus to closed industrial system
 
-Before the Breaking, Sacratus can rely on flows that extend beyond the system: raw materials, specialist components, replacement personnel, external knowledge, shipping, and the wider redundancy of Imperial industry.
+The Breaking does two things at once.
 
-The Breaking removes that depth.
+It removes the external flows on which Sacratus was built, and it creates a war that asks the Forge World to produce **the same or more** with less material depth, less replacement capacity, and no reliable outside relief.
+
+Raw materials, specialist components, replacement personnel, external knowledge, shipping, and industrial redundancy beyond the system disappear behind the storm. At the same time, ammunition expenditure, repairs, fortification, replacement equipment, transport, and emergency infrastructure all become more urgent.
 
 From that point onward, Sacratan industry must increasingly reproduce, repair, substitute, reclaim, and prioritize from within the resources still reachable inside the system.
 
-The central Mechanicus problem of the Long Vigil is therefore not simply declining production. It is **continuity under load**: keeping sacred machines, industrial chains, expertise, and logistical systems functioning while the demand placed on them can exceed the rate at which they can be restored.
+The central Mechanicus problem of the Long Vigil is therefore not simply declining production. It is **continuity under load**: keeping sacred machines, industrial chains, expertise, and logistical systems functioning while demands remain high enough to consume the very capacity required to sustain future production.
 
-Three recurring forms of deterioration shape this history:
+## The three Mechanicus crises
 
-- **depletion** — stocks, feedstocks, specialist materials, components, and other consumable depth are used faster than equivalent replacements can be obtained;
-- **breakdown** — machines, infrastructure, transports, and manufactoria accumulate damage faster than ideal maintenance can reverse it;
-- **context loss** — irreplaceable expertise, records, calibration knowledge, ritual understanding, and the practical knowledge connecting one system to another disappear when personnel and institutions are lost.
+The Mechanicus later understands its Long-Vigil industrial history through three major named crises. These are not merely categories of industrial weakness; they are remembered as distinct historical crises whose sequence matters, even though their exact dates and boundaries remain **OPEN**.
 
-These processes reinforce one another. A machine can remain physically present while the knowledge or supply chain required to use it disappears; conversely, knowledge can survive while the material system it describes becomes impossible to maintain.
+1. **The Depletion** — the crisis of material depth. Imported stocks, specialist inputs, consumables, and other externally supplied resources are drawn down faster than equivalent local sources can replace them.
+2. **The Breakdown** — formally **Cascading Manufactorum Failure** — the crisis of production itself. Accumulated overuse, deferred maintenance, missing inputs, and interdependent failures turn isolated breakdowns into cascading loss across linked manufactoria.
+3. **The Context Loss** — formally **Operational Knowledge Continuity Failure** — the crisis of understanding. Personnel, records, calibration knowledge, production context, and practical institutional memory disappear far enough that physically surviving machinery or instructions can no longer guarantee usable capability.
+
+The sequence is therefore **materials → production → context**.
+
+The underlying processes do not disappear when a named crisis ends. Depletion, breakdown, and context loss remain recurring pressures for the rest of the Long Vigil, but the capitalized names refer to historical moments when each problem becomes impossible for the Mechanicus to treat as a local or temporary failure.
+
+See [`history.md`](history.md), [`timeline.md`](timeline.md), and [`industry.md`](industry.md) for the historical and industrial treatment of these crises.
 
 ## Relationship with Sacratus
 
@@ -44,11 +56,19 @@ That interdependence is productive during the Reformation and High Vigil but bec
 
 The Reformation eventually restores enough stability for Sacratan industry to recover rather than merely consume inherited capacity.
 
-During the High Vigil, **Archmagos Teren-44** becomes one of the most important established Mechanicus figures. He independently reaches the same broad strategic conclusion as Cassian regarding Great Ravenna: genuine agricultural surplus can create positive feedback across population, labor, logistics, and industry rather than merely relieving an immediate food shortage.
+During the mature High Vigil, **Teren-44 is still a Magos Logis rather than an Archmagos**. He is a comparatively mid-level figure whose work crosses enough otherwise siloed industrial reporting to notice a problem that senior institutions can miss: individual domains can appear functional while hidden dependencies between them make the system as a whole progressively more brittle.
 
-The Great Ravenna project works for generations. Reduced subsistence pressure frees industrial capacity for maintenance, defense, expansion, and long-term investment.
+His initial importance is therefore recognition and warning, not the authority to impose a solution.
 
-Its destruction in **703.M40** therefore removes not only food production but a major engine of Sacratan recovery.
+Teren-44 independently reaches the same broad strategic conclusion as Cassian regarding Great Ravenna: genuine agricultural surplus can create positive feedback across population, labor, logistics, and industry rather than merely relieving an immediate food shortage.
+
+Great Ravenna is also a major **Mechanicus investment**, not merely an agricultural project from which the Forge World passively benefits. Over its century-scale development, the Mechanicus commits substantial industrial plant, tooling, stores, technical manpower, and senior expertise to Ravenna.
+
+The project works for generations. Reduced subsistence pressure frees industrial capacity for maintenance, defense, expansion, and long-term investment, while Ravenna itself becomes a concentration of Mechanicus capital and expertise.
+
+Its destruction in **703.M40** therefore inflicts a double loss: Sacratus loses a major engine of abundance, and the Mechanicus loses a significant body of machinery, materiel, manpower, and expertise that had been deliberately concentrated there.
+
+Teren-44 rises to **Archmagos Logis only sometime after Ravenna**. The exact date and circumstances of that promotion remain **OPEN**.
 
 ## The Grand Calculus
 
