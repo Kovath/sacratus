@@ -6,7 +6,7 @@
 
 Pre-Breaking Sacratus does not possess the later Long-Vigil military system in finished form.
 
-Its conventional defense rests on ordinary Imperial institutions: planetary defense forces, Imperial Guard / Astra Militarum formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
+Its conventional defense rests on ordinary Imperial institutions: planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, fortress and station personnel, and other military bodies tied to the system.
 
 They are not yet organized primarily around the later **Limitanei/Comitatenses** distinction.
 
@@ -16,7 +16,7 @@ The Breaking in **100.M40** traps Sacratus without reliable access to the wider 
 
 The immediate task is survival. Conventional forces fight alongside the Palatinae and the other armed institutions of the system while existing command arrangements are strained by isolation, catastrophic losses, and the sudden need to defend Sacratus without assuming outside relief.
 
-Defense dominates the emergency. Planetary defense forces remain tied to the places they already exist to protect, and a large majority of surviving conventional formations are committed to fixed, local, or fortress defense. Many Imperial Guard formations that had entered the Breaking as field forces are likewise assigned to reinforce threatened positions and plug gaps across the system.
+Defense dominates the emergency. Planetary defense forces remain tied to the places they already exist to protect, and a large majority of surviving conventional formations are committed to fixed, local, or fortress defense. Many Guard formations that had entered the Breaking as field forces are likewise assigned to reinforce threatened positions and plug gaps across the system.
 
 This creates the early **Limitanei** pattern before a balanced post-Breaking military system exists.
 
@@ -39,7 +39,7 @@ The resulting distinction is therefore historically asymmetric:
 - the **Limitanei** emerge broadly and organically from the overwhelming defensive demands of the Breaking;
 - the **Comitatenses** begin as a thinner mobile role and are then deliberately strengthened and institutionalized under Justinian so that Sacratus does not lose the ability to wage field warfare at system scale.
 
-These institutions still grow from inherited formations rather than replacing them overnight. A unit can remain conscious of an older planetary-defense or Imperial Guard lineage while its Limitanei or Comitatenses role becomes increasingly important to what the formation actually is.
+These institutions still grow from inherited formations rather than replacing them overnight. A unit can remain conscious of an older planetary-defense or Guard lineage while its Limitanei or Comitatenses role becomes increasingly important to what the formation actually is.
 
 Over time, original provenance becomes less useful as the central description of the force. Whether a formation serves as **Limitanei** or **Comitatenses** becomes the more important indicator of its place within the Sacratan military system, and the two roles harden into durable institutional identities.
 
