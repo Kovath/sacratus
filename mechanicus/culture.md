@@ -8,9 +8,25 @@ The Sacratan Mechanicus understands itself as a continuous loyal part of the Mec
 
 The Long Vigil nevertheless changes what continuity demands in practice.
 
-Before the Breaking, preservation can assume access to a wider Martian and Imperial world. Afterward, the Sacratan priesthood must decide how to remain faithful to inherited obligations when materials, experts, replacement systems, and external authorities may never arrive again.
+Before the Breaking, preservation can assume access to a wider Martian and Imperial world. Sacratus can specialize because raw material, intermediate inputs, expertise, and replacement capacity exist elsewhere in the network.
+
+After the Breaking, that wider support disappears while the Forge World is still required to sustain wartime output. The priesthood must decide how to remain faithful to inherited obligations when materials, experts, replacement systems, and external authorities may never arrive again.
 
 Its defining cultural pressure is therefore not simple innovation against tradition. It is the question of **what must be preserved for continuity to remain real**.
+
+## The memory of the three crises
+
+The Mechanicus does not remember the Long Vigil's industrial deterioration only as a gradual decline.
+
+Three named crises become major reference points in how the priesthood understands survival:
+
+- **The Depletion** — the failure of material depth and inherited external supply;
+- **The Breakdown**, formally **Cascading Manufactorum Failure** — the discovery that production systems can fail through hidden dependencies and cascading loss even when individual installations appear viable;
+- **The Context Loss**, formally **Operational Knowledge Continuity Failure** — the recognition that machinery and records can survive while the practical understanding required to preserve capability disappears.
+
+Their established sequence is **materials → production → context**. Exact dating remains **OPEN**, and the lower-case problems continue after the historical crises themselves.
+
+Culturally, the sequence matters because each crisis strips away a simpler definition of preservation. Having stock is not enough if supply cannot continue; having machines is not enough if the production network cannot support them; having machines and records is not enough if nobody retains the context required to use them.
 
 ## Sacred service under scarcity
 
@@ -46,13 +62,13 @@ The Sacratan Mechanicus does not resolve this tension into a universal rule. The
 
 ## Knowledge as capability
 
-The Long Vigil teaches the Mechanicus that preserving an object without preserving the context required to use it can amount to preserving only a shell.
+**The Context Loss** gives institutional force to a lesson that had been accumulating for centuries: preserving an object without preserving the context required to use it can amount to preserving only a shell.
 
 Technical knowledge is therefore treated as operational capability.
 
-A lost specialist, damaged archive, forgotten calibration method, or severed chain of practical instruction can make otherwise intact machinery unusable.
+A lost specialist, damaged archive, forgotten calibration method, severed chain of practical instruction, or missing understanding of how one production domain depends on another can make otherwise intact machinery unusable.
 
-The danger of **context loss** gives unusual weight to training, records, redundancy of expertise, and the preservation of why a procedure works rather than merely the words of the procedure itself.
+The danger gives unusual weight to training, records, redundancy of expertise, and the preservation of why a procedure works rather than merely the words of the procedure itself.
 
 The exact institutions created to support this remain **OPEN**.
 
@@ -70,11 +86,23 @@ The important distinction is between **continued sacred service** and mere prese
 
 The Mechanicus shares with the wider Long-Vigil system a growing suspicion of comforting but unusable numbers.
 
-Nominal capacity can become dangerous if it conceals the maintenance burden, missing inputs, absent specialists, or unrecoverable dependencies required to make that capacity real.
+The Breakdown demonstrates one danger directly: local figures can be accurate while still concealing the health of the wider network. A manufactorium may meet quota while depending on a transport line, specialist workshop, or intermediate component whose own failure margin has almost disappeared.
+
+Nominal capacity can likewise become dangerous if it conceals the maintenance burden, missing inputs, absent specialists, or unrecoverable dependencies required to make that capacity real.
 
 The Grand Calculus gives this principle its harshest expression: an industrial system can look larger on paper while becoming less capable of surviving another century.
 
-Teren-44's importance as an Archmagos Logis belongs partly to this tradition of treating dependencies and long-term service as part of the real quantity being measured.
+Teren-44's later reputation as an **Archmagos Logis** grows partly from an earlier history in which, as a comparatively mid-ranking Magos Logis, he recognized system-wide dependencies hidden by siloed reporting.
+
+## Great Ravenna and institutional memory
+
+Great Ravenna is remembered by the Mechanicus not only as a period in which abundance benefited industry but as one of its own greatest High-Vigil investments.
+
+The priesthood commits machinery, tooling, stores, technical manpower, and senior expertise to the world over generations. The project works, validating the belief that Sacratus can invest in a larger future rather than merely ration decline.
+
+Its destruction therefore carries a specifically Mechanicus wound. The Forge World loses not only the abundance Ravenna produced but a significant concentration of its own capital and expertise.
+
+That distinction matters to later memory of the Grand Calculus. The industrial system being cut apart under Leontios is not simply an unchanged pre-Ravenna system that became inefficient; it is a system that has already lost one of the largest investments of the High Vigil.
 
 ## Memory of the Grand Calculus
 
