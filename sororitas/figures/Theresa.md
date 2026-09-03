@@ -14,6 +14,16 @@ Her importance is therefore institutional as much as military. The Sororitas can
 
 Theresa's work helps turn the isolated Sororitas presence into a durable Sacratan institution.
 
+## The Years of Ash
+
+Theresa's early leadership is shaped by the **Years of Ash**, later remembered as the **Second Trial** of the Sacratan Sororitas.
+
+The crisis follows the initial survival of the Breaking. Lost imports, damaged agriculture and industry, refugee concentration, transport failures, and wider post-Breaking material collapse produce severe food scarcity while Sacratus is still rebuilding basic institutional continuity.
+
+Theresa's Sisters become especially important in hospitals, refugee care, food distribution, and relief work alongside their military duties. Their role during this period helps establish the later Sororitas association with remaining physically present among populations experiencing scarcity, displacement, and institutional failure.
+
+The exact organization of Theresa's relief effort, the facilities under her authority, and the chronology of individual shortages remain **OPEN**.
+
 ## Relationship to wider Sacratus
 
 Theresa belongs to the same Reformation-era movement that turns emergency cooperation among Sacratan institutions into durable practice, but she is not simply an Ecclesiastical subordinate of Justinian or a Sororitas equivalent of a Palatinae officer.
