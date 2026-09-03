@@ -101,7 +101,7 @@ This includes:
 - mapping dependencies that individual industrial domains cannot safely evaluate in isolation;
 - distinguishing short-term output from output that can actually be maintained for generations.
 
-The Reformation does not eliminate scarcity or the three Mechanicus crises. It creates enough shared visibility and institutional response for those pressures to be survived rather than simply endured blindly.
+The Reformation does not eliminate scarcity. It creates enough shared visibility and institutional response for those pressures to be survived rather than simply endured blindly.
 
 ## High Vigil recovery
 
