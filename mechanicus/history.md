@@ -6,11 +6,15 @@
 
 Sacratus is already a major **Mechanicum logistics and industrial nexus** before the Horus Heresy.
 
-Its importance comes from concentration and connectivity. Manufactoria, storage, repair, transport, technical personnel, and associated infrastructure support one another while also participating in supply networks extending beyond the system.
+Its importance comes from concentration, connectivity, and specialization. The Forge World supports an enormous number of production lines dedicated to the intermediary materiel that keeps campaigns and other industrial systems functioning: ammunition, tank treads, replacement assemblies, standardized components, essential subassemblies, and countless other parts intended to be shipped onward.
+
+Sacratus can also produce finished war materiel, including complete armored vehicles such as Leman Russ tanks, but complete products are not the primary reason it occupies an important place in Imperial logistics. Its deeper role is to feed many other supply and production chains with the components, stores, repair capacity, and throughput they need to continue operating.
 
 The Forge World is therefore powerful without being self-contained.
 
-This distinction becomes critical later. Pre-Breaking efficiency can rely on assumptions that are reasonable inside the wider Imperium: specialist inputs can arrive from elsewhere, damaged capacity can sometimes be replaced rather than endlessly repaired, and missing expertise may be recreated through institutions beyond Sacratus.
+Pre-Breaking efficiency relies on assumptions that are reasonable inside the wider Imperium. Large volumes of raw material can arrive from elsewhere. Specialist components can be imported rather than reproduced locally. Missing expertise can sometimes be replaced through institutions beyond Sacratus. A production line can specialize because another world or transport network supplies what lies outside its own remit.
+
+This dependence is not a flaw in the pre-Breaking system. It is part of what makes Sacratus efficient as a node inside a much larger Imperial industrial network.
 
 The Emperor visits Sacratus once during this broad era. His presence is certain; the purpose and circumstances remain disputed. The Mechanicum significance of that visit has not been separately established.
 
@@ -22,19 +26,67 @@ In **100.M40**, the Warp phenomenon closes around Sacratus and the assumptions s
 
 The immediate problem is not that every manufactorium stops. Much of the industrial base survives the first shock.
 
-The more dangerous change is that **external depth disappears**.
+The more dangerous change is that **external depth disappears at the same moment demand increases**.
 
-Supply routes are severed. Replacement specialists are no longer coming. Some raw materials and components become finite stocks. Damage that would once have been repaired with imported parts must now be solved locally or left unresolved. At the same time, mass Chaos assault creates extraordinary demand for ammunition, repairs, power, transport, fortification, medical materiel, and replacement equipment.
+Supply routes are severed. Replacement specialists are no longer coming. Imported raw materials and specialist components become finite stocks. Damage that would once have been repaired with outside parts must now be solved locally or left unresolved.
 
-The Mechanicus enters a condition in which production pressure itself can accelerate decline. A machine kept running through a crisis may defer maintenance that becomes harder to perform later; a specialist killed before transferring knowledge can take an entire process with him; an apparently minor component shortage can disable a much larger production chain.
+At the same time, mass Chaos assault creates extraordinary demand for ammunition, repairs, power, transport, fortification, medical materiel, replacement equipment, and every other product needed to sustain a system at war. The Forge World is effectively asked to produce the **same or more** while receiving less and less of the wider Imperial support on which that production had been built.
 
-The three linked problems that define later Mechanicus history become visible immediately: **depletion, breakdown, and context loss**.
+This contradiction becomes the central industrial pressure of the Long Vigil.
+
+## The three Mechanicus crises
+
+The Sacratan Mechanicus later remembers three major industrial crises in a fixed conceptual sequence. Their exact dates, duration, and boundaries remain **OPEN**, and their underlying problems overlap for the rest of the Long Vigil.
+
+The important point is that the capitalized names refer to historical crises, not merely abstract categories of industrial failure.
+
+### The Depletion
+
+**The Depletion** is the first crisis: the crisis of material depth.
+
+Stocks that had been ordinary parts of Imperial commerce begin to disappear into wartime consumption. Imported feedstocks, specialist alloys, replacement subassemblies, catalysts, lubricants, munitions inputs, and other dependencies cannot all be reproduced locally at the rate required.
+
+The crisis forces the Mechanicus to discover which apparently Sacratan production chains are actually dependent on resources or intermediate goods originating beyond Sacratus.
+
+The resulting response emphasizes inventory, substitution, reclamation, prioritization, and the redesign of production around inputs that the isolated system can continue obtaining.
+
+Depletion does not end as a phenomenon after the named crisis. What changes is that the Mechanicus can no longer treat missing materials as temporary supply interruption.
+
+### The Breakdown
+
+The second crisis is **The Breakdown**, formally recorded as **Cascading Manufactorum Failure**.
+
+By this point, the problem has moved from what enters the industrial system to whether the production system itself can remain coherent.
+
+Overuse, deferred maintenance, unavailable replacement parts, improvised substitutions, and the failure of peripheral systems begin to interact. A line that can no longer produce one minor component disables another line that depends on it; that loss increases pressure on an alternative facility; the alternative fails earlier than expected; and failures begin propagating through what had previously appeared to be separate manufactoria.
+
+The Breakdown reveals that Sacratan industry cannot be understood as a list of factories and headline outputs. It is a network of dependencies, many of which had been safely hidden by the abundance and redundancy of the wider Imperium.
+
+The crisis makes sustainable service, maintenance burden, and dependency mapping as important as theoretical maximum output.
+
+### The Context Loss
+
+The third crisis is **The Context Loss**, formally **Operational Knowledge Continuity Failure**.
+
+The Mechanicus eventually confronts a more dangerous truth: machinery, archives, and written procedures can survive while the ability to use them correctly disappears.
+
+Centuries of casualties, emergency reassignment, institutional disruption, improvised repairs, and interrupted teaching destroy practical context. Calibration knowledge, production sequencing, diagnostic experience, local adaptations, interface understanding, and the reasons behind inherited procedures can vanish even where the formal text of those procedures remains.
+
+The Context Loss therefore changes the meaning of technical preservation. Preserving an object or a data file is no longer sufficient evidence that a capability has survived.
+
+Training, redundant expertise, interpretive context, and the continuity of practical institutions become industrial necessities.
+
+The historical sequence of the three crises is therefore:
+
+> **materials → production → context**
+
+Each crisis exposes a deeper layer of dependency than the one before it.
 
 ## The Reformation
 
 Justinian's Reformation does not subordinate the Mechanicus to the Palatinae. It changes the environment in which every Sacratan institution operates.
 
-The Forge World can no longer behave as one node in an effectively infinite Imperial network. It must become part of a closed system whose institutions actively compensate for one another's missing external support.
+The Forge World can no longer behave as one node in an effectively open Imperial network. It must become part of a closed system whose institutions actively compensate for one another's missing external support.
 
 The Mechanicus therefore participates in the Reformation's growing horizontal dependencies. Transport, defense, food, technical labor, salvage, intelligence, medical support, and production priorities become increasingly coordinated across jurisdictions.
 
@@ -46,9 +98,10 @@ This includes:
 - recovering and reusing components that would previously have been replaced;
 - preserving technical and ritual knowledge whose original external reference institutions are now unreachable;
 - protecting critical specialist personnel and machine systems whose loss would create cascading failures;
+- mapping dependencies that individual industrial domains cannot safely evaluate in isolation;
 - distinguishing short-term output from output that can actually be maintained for generations.
 
-The Reformation does not eliminate scarcity. It makes scarcity legible enough to manage.
+The Reformation does not eliminate scarcity or the three Mechanicus crises. It creates enough shared visibility and institutional response for those pressures to be survived rather than simply endured blindly.
 
 ## High Vigil recovery
 
@@ -58,31 +111,51 @@ The High Vigil creates slack that had been absent after the Breaking. Maintenanc
 
 This is the period in which the Sacratan Mechanicus most clearly demonstrates that the Long Vigil is not a simple straight decline.
 
+The old problems have not vanished, but the system possesses enough margin to manage them rather than merely react to them.
+
 ## Teren-44 and Great Ravenna
 
-**Teren-44** rises from Magos to **Archmagos Logis** and becomes one of the most important known Mechanicus figures of the High Vigil.
+During the mature High Vigil, **Teren-44 is a Magos Logis of comparatively modest institutional rank**.
 
-During Cassian's reign, Teren-44 independently reaches the same broad strategic conclusion as the Constantine: Sacratus's increasingly narrow margin between gain and loss cannot be solved merely by producing slightly more of the same things at slightly greater efficiency.
+That position is important to his story.
+
+He is not the Fabricator-General, an Archmagos commanding enormous domains, or a preselected architect of Sacratan strategy. His Logis work exposes him to reports and dependencies crossing industrial silos that are normally assessed separately.
+
+Teren notices that local measures can remain reassuring while the system beneath them is becoming more fragile. Individual manufactoria may meet quotas, preserve inventories, or report acceptable maintenance while depending on transport, materials, specialists, or other production lines whose own margins are steadily disappearing.
+
+His importance begins as **recognition and warning**, not as possession of the authority to solve the problem himself.
+
+During Cassian's reign, Teren independently reaches the same broad strategic conclusion as the Constantine: Sacratus's narrowing margin between gain and loss cannot be solved merely by demanding incrementally more output from an industrial system already consuming its own depth.
 
 A major new source of agricultural surplus could create wider positive feedback.
 
-Great Ravenna therefore matters to the Mechanicus even though Ravenna is an Agri World rather than a Forge World. Greater food surplus reduces subsistence pressure, supports population growth, increases available labor, and frees industrial capacity that would otherwise be consumed sustaining basic survival.
+Great Ravenna therefore matters to the Mechanicus in two ways.
 
-The project is developed across more than a century and succeeds for generations.
+First, successful agricultural abundance reduces subsistence pressure, supports population growth, deepens labor, and frees industrial capacity that would otherwise be consumed sustaining basic survival.
+
+Second, the Mechanicus itself invests heavily in making that future possible. Over the century-scale redevelopment, substantial machinery, tooling, stores, production capacity, technical manpower, and senior expertise are committed to Ravenna rather than merely remaining on Sacratus and waiting to benefit from its harvests.
+
+The project succeeds for generations.
 
 Industrial capacity is one of the beneficiaries. More effort can be spent on repair, investment, defense, and expansion because less of the system's productive energy is trapped in immediate subsistence pressure.
 
-Teren-44's role in the project and his later participation in the Grand Calculus make him a living link between the optimism of the High Vigil and the austerity of the Contraction.
+Teren's association with Great Ravenna is therefore not the story of a senior Archmagos personally solving the Long Vigil. It is the story of a mid-level Logis priest who notices a systemic problem, makes it legible, and becomes associated with a system-wide answer developed far above his original institutional weight.
 
-## Ravenna and renewed pressure
+## Ravenna and the loss of Mechanicus investment
 
-The destruction of Ravenna in **703.M40** removes a major source of abundance from the system.
+The destruction of Ravenna in **703.M40** removes far more than agricultural output.
 
-The loss does not instantly destroy Sacratan industry, but it changes the conditions under which industry operates. Population displacement, food pressure, military emergency, and the destruction of generations of accumulated investment all force resources back toward immediate survival.
+The Mechanicus has spent generations concentrating real industrial capital and irreplaceable human and technical expertise into the project. Exterminatus destroys a significant body of machinery, tooling, stores, skilled personnel, and institutional experience alongside the population and agricultural system.
 
-The Mechanicus once again faces the problem that maintenance, replacement, and long-term investment compete directly with demands that cannot simply be ignored.
+The loss is therefore both **subtractive and structural**.
 
-Basilios's Stabilization prevents immediate cascading collapse, but the underlying balance has changed.
+Sacratus loses the abundance Great Ravenna had created, forcing resources back toward food, displacement, emergency transport, and defense. The Mechanicus simultaneously loses part of the industrial and expert capacity that would have been needed to absorb that shock.
+
+Basilios's Stabilization prevents immediate cascading collapse, but the Forge World enters the post-Ravenna era with less margin and with part of its High-Vigil investment permanently erased.
+
+Teren-44 survives Ravenna and rises to **Archmagos Logis only sometime afterward**. The exact date and circumstances of his promotion remain **OPEN**.
+
+His later participation in the Grand Calculus therefore links two very different stages of his life: the comparatively junior Logis priest who recognized a hidden systemic problem during the High Vigil, and the senior priest who later helps confront the consequences of contraction.
 
 ## Leontios and the Grand Calculus
 
@@ -106,7 +179,7 @@ A manufactorium that exists on a map but cannot be maintained, supplied, staffed
 
 The established scale of contraction is severe. Approximately **sixty percent of the maintained industrial footprint** is ultimately lost, translated, or abandoned, and nominal capacity falls toward roughly **one third** of its earlier level — **PROVISIONAL exact aggregate figures**. Useful sustainable output declines less sharply because the purpose of the Calculus is to stop consuming scarce resources merely to preserve the appearance of a larger industrial base.
 
-Teren-44 is an important Mechanicus figure within this process rather than merely an outside victim of it.
+Teren-44, by then an Archmagos Logis, is an important Mechanicus figure within this process rather than merely an outside victim of it.
 
 That does not make the Grand Calculus consensual.
 
