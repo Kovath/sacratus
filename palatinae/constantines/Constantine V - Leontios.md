@@ -137,7 +137,7 @@ They provide Hospitallers, rites, child evacuation, camps, names, and presence.
 
 A later popular memory becomes:
 
-> **When Constantine counted us, the Sisters knew our names.**
+> **When Constantine counted us, we counted on the Sisters.**
 
 The comparison does not mean the Sisters can solve the material problem Leontios is confronting. It means necessity and legitimacy do not remain identical in popular memory.
 
@@ -145,7 +145,7 @@ The comparison does not mean the Sisters can solve the material problem Leontios
 
 Leontios applies the same logic to his own Chapter.
 
-The preferred working strength at accession is approximately **324 full battle-brothers — PROVISIONAL exact figure**.
+Chapter strength at accession is approximately **324 full battle-brothers — PROVISIONAL exact figure**.
 
 The **5th, 8th, and 9th Companies are suspended**.
 
