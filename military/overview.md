@@ -12,7 +12,7 @@ The Military and Civil jurisdictions are distinct within Sacratan governance. Th
 
 ## Pre-Breaking inheritance
 
-Before the Breaking, Sacratus relies on ordinary Imperial military structures rather than a single bespoke Sacratan army. These include planetary defense forces, Imperial Guard / Astra Militarum formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
+Before the Breaking, Sacratus relies on ordinary Imperial military structures rather than a single bespoke Sacratan army. These include planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
 
 The later Sacratan Military grows out of those surviving institutions rather than replacing them overnight with a wholly new organization.
 
@@ -30,11 +30,11 @@ The defining Long-Vigil distinction is between **Limitanei** and **Comitatenses*
 
 The distinction develops during Justinian's Reformation from the roles surviving inherited formations are forced to perform after the Breaking.
 
-The immediate post-Breaking military is heavily weighted toward defense. Planetary defense forces fall naturally into **Limitanei** roles, while a large majority of surviving conventional formations — including many Imperial Guard units — are committed to fixed, fortress, or local defense to hold threatened positions and replace catastrophic losses.
+The immediate post-Breaking military is heavily weighted toward defense. Planetary defense forces fall naturally into **Limitanei** roles, while a large majority of surviving conventional formations — including many Guard units — are committed to fixed, fortress, or local defense to hold threatened positions and replace catastrophic losses.
 
 A smaller body of formations remains mobile in **Comitatenses** roles, but over the first generations the predominance of static defense erodes some of Sacratus's institutional capacity for large-scale field warfare. Justinian therefore deliberately strengthens and establishes the Comitatenses as a true mobile field-army and strategic-reserve institution rather than relying only on whatever mobile formations survived the initial catastrophe.
 
-Over time, whether a unit began as planetary defense or Imperial Guard becomes less useful than the role it habitually performs. **Limitanei** and **Comitatenses** consequently become increasingly important institutional identities in their own right.
+Over time, whether a unit began as planetary defense or Guard becomes less useful than the role it habitually performs. **Limitanei** and **Comitatenses** consequently become increasingly important institutional identities in their own right.
 
 The exact legal and organizational stages by which those roles harden into institutions, the degree to which formations can later change roles, and the treatment of naval and void forces remain **OPEN**.
 
