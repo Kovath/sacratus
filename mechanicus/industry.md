@@ -88,6 +88,8 @@ Deferred maintenance, overuse, imperfect substitutions, missing parts, declining
 
 The Breakdown reveals that Sacratan industrial capacity cannot be measured honestly as a sum of individual manufactoria.
 
+**Teren-44**, then a comparatively mid-ranking **Magos Logis**, is the first established figure to recognize that these apparently separate failures constitute one system-wide crisis propagating through hidden dependencies. His defining early contribution is making that pattern legible to the Mechanicus, not commanding the response from a position of senior authority.
+
 Long-Vigil accounting must increasingly distinguish between:
 
 - what physically exists;
@@ -101,6 +103,8 @@ Those numbers are not equivalent.
 The crisis also makes hidden cross-domain dependencies a major strategic concern. A local forge can report acceptable output while remaining dependent on transport, specialists, tooling, or components whose own margins are collapsing elsewhere.
 
 Afterward, **breakdown** remains an enduring process, but the Mechanicus has learned that maintenance burden and dependency structure are themselves measures of industrial strength.
+
+Teren's later participation in Great Ravenna grows from this Breakdown-era understanding of system-wide dependency rather than replacing The Breakdown as the event that first establishes his importance.
 
 ## The Context Loss
 
