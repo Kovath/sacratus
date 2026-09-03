@@ -23,7 +23,15 @@ A status may apply to any scope; the status itself is canonical.
 
 Use `README.md` to navigate, then read the most specific relevant canon. Detailed subjects should have one primary canonical home; summaries elsewhere should stay concise.
 
+Consistency across canon does not require repetition across files. Secondary documents should include only the detail needed for their own purpose.
+
 When reorganizing canon, preserve meaning/status, avoid competing detailed copies, and update navigation/links as needed. Do not create files without a clear purpose.
+
+## Review feedback and propagation
+
+When applying review feedback, first identify the primary canonical home of the corrected information. Update secondary documents only where leaving them unchanged would create a contradiction or materially misleading account. Preserve each document's stated purpose; prefer removing or generalizing over-specific secondary references rather than duplicating detailed lore from the primary source.
+
+A correction can have setting-wide implications without requiring setting-wide repetition. Before propagating a localized review comment across several files, verify that each proposed edit is necessary for that file's own subject and role.
 
 ## Consistency and lore review
 
