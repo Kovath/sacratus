@@ -33,7 +33,7 @@ The central Mechanicus problem of the Long Vigil is therefore not simply declini
 The Mechanicus later understands its Long-Vigil industrial history through three major named crises. These are not merely categories of industrial weakness; they are remembered as distinct historical crises whose sequence matters, even though their exact dates and boundaries remain **OPEN**.
 
 1. **The Depletion** — the crisis of material depth. Imported stocks, specialist inputs, consumables, and other externally supplied resources are drawn down faster than equivalent local sources can replace them.
-2. **The Breakdown** — formally **Cascading Manufactorum Failure** — the crisis of production itself. Accumulated overuse, deferred maintenance, missing inputs, and interdependent failures turn isolated breakdowns into cascading loss across linked manufactoria. **Teren-44**, then a comparatively mid-ranking Magos Logis, is the first established figure to recognize that these apparently separate failures form one system-wide crisis.
+2. **The Breakdown** — formally **Cascading Manufactorum Failure** — the crisis of production itself. Accumulated overuse, deferred maintenance, missing inputs, and interdependent failures turn isolated breakdowns into cascading loss across linked manufactoria.
 3. **The Context Loss** — formally **Operational Knowledge Continuity Failure** — the crisis of understanding. Personnel, records, calibration knowledge, production context, and practical institutional memory disappear far enough that physically surviving machinery or instructions can no longer guarantee usable capability.
 
 The sequence is therefore **materials → production → context**.
@@ -52,23 +52,17 @@ The Long Vigil nevertheless creates deep interdependence. The Forge World needs 
 
 That interdependence is productive during the Reformation and High Vigil but becomes politically dangerous during the Low Vigil, when defense authority is used to force choices the Mechanicus regards as intrusions into its own sacred and institutional domain.
 
-## Teren-44 and Great Ravenna
+## High Vigil and Great Ravenna
 
-Teren-44's historical importance begins with **The Breakdown**, not with Great Ravenna.
+The Reformation eventually restores enough stability for Sacratan industry to recover rather than merely consume inherited capacity.
 
-His Breakdown-era Logis work exposes hidden dependencies across industrial domains and makes a system-wide failure legible where local reporting had treated it as a collection of separate problems. That diagnosis establishes the reputation and analytic framework he later carries into the mature High Vigil.
-
-During Constantine III Cassian's reign, Teren's experience of interdependence helps him recognize the wider strategic significance of surplus. His analysis converges with Cassian's conclusion that genuine agricultural abundance can create positive feedback across population, labor, logistics, and industry rather than merely relieve an immediate food shortage.
-
-Teren therefore becomes associated with Great Ravenna as the project develops, but he is **not established as its originator**, and Great Ravenna should not replace The Breakdown as his defining early contribution.
+Great Ravenna becomes one of the largest expressions of High-Vigil confidence. Agricultural surplus is intended to create positive feedback across population, labor, logistics, and industry rather than merely relieve an immediate food shortage.
 
 Great Ravenna is also a major **Mechanicus investment**, not merely an agricultural project from which the Forge World passively benefits. Over its century-scale development, the Mechanicus commits substantial industrial plant, tooling, stores, technical manpower, and senior expertise to Ravenna.
 
 The project works for generations. Reduced subsistence pressure frees industrial capacity for maintenance, defense, expansion, and long-term investment, while Ravenna itself becomes a concentration of Mechanicus capital and expertise.
 
 Its destruction in **703.M40** therefore inflicts a double loss: Sacratus loses a major engine of abundance, and the Mechanicus loses a significant body of machinery, materiel, manpower, and expertise that had been deliberately concentrated there.
-
-Teren-44 rises to **Archmagos Logis only sometime after Ravenna**. The exact date and circumstances of that promotion remain **OPEN**.
 
 ## The Grand Calculus
 
