@@ -14,7 +14,7 @@ For a general introduction, read:
 
 ## Reference
 
-- [Constantines](constantines/README.md) — navigation to the Chapter Masters who hold the Constantinian office;
+- [Figures](figures/README.md) — navigation to notable Palatinae individuals, including the Constantines;
 - [Organization](organization.md) — companies, offices, command and succession, recruitment, manpower, and specialist institutions;
 - [Culture](culture.md) — beliefs, traditions, memory, religion, generational identity, and lived Chapter culture;
 - [Heraldry](heraldry.md) — colors, Chi-Sword variants, armor provenance, markings, and visual traditions;
