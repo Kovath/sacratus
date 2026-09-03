@@ -36,26 +36,37 @@ A later Mechanicus objection captures the problem:
 
 The exact constitutional mechanics by which the Fabricator-General and other Mechanicus authorities participate in or contest Ultimum remain **OPEN** beyond what is established in the Grand Calculus.
 
-## Archmagos Teren-44
+## Teren-44
 
 **Teren-44** is the most developed individual Mechanicus figure currently established.
 
-He begins as a **Magos** and later becomes **Archmagos Logis**.
+During the mature High Vigil he is a **Magos Logis of comparatively modest institutional rank**, not yet an Archmagos.
 
-His importance spans two very different eras:
+This limited position is important to his role in Great Ravenna. His work requires him to compare logistical and production information crossing industrial domains that are otherwise managed and reported in relative isolation. He notices that local figures can remain apparently acceptable while hidden dependencies between domains are steadily eroding the system's overall margin.
 
-- during the High Vigil, he independently reaches the same broad strategic conclusion as Cassian regarding the positive-feedback potential of Great Ravenna and becomes deeply associated with the project;
-- during Leontios's reign, he remains an important internal Mechanicus figure during the **Grand Calculus**.
+His significance at this stage lies in **recognition and warning rather than command authority**. He does not personally possess the institutional power to redesign Sacratan industry or order Great Ravenna into existence.
 
-Teren-44 should not be treated merely as a Mechanicus spokesman for Constantinian policy. His presence on both projects is useful precisely because the same priest can participate in expansive High-Vigil investment and later confront the logic of contraction.
+Teren's analysis independently converges with Cassian's broader strategic conclusion: Sacratus needs a way to restore real surplus and positive feedback rather than simply demand greater output from systems already consuming their own depth.
 
-**OPEN:** His origin, exact offices before becoming Archmagos Logis, personal theology, relationship with successive Fabricator-Generals, detailed role during Ravenna, and final fate remain to be developed.
+He becomes deeply associated with Great Ravenna as the project develops, while the Mechanicus commits substantial industrial plant, tooling, stores, manpower, and expertise to the world.
+
+Teren survives Ravenna and rises to **Archmagos Logis only sometime after its destruction in 703.M40**. The exact date, mechanism, and political circumstances of his advancement remain **OPEN**.
+
+By Leontios's reign he is an important senior internal Mechanicus figure during the **Grand Calculus**.
+
+His career therefore spans a meaningful institutional reversal: he begins as a mid-ranking Logis priest who identifies a systemic problem hidden by siloed reporting, and later confronts the diminished post-Ravenna system as an Archmagos during its forced contraction.
+
+Teren-44 should not be treated merely as a Mechanicus spokesman for Constantinian policy. His presence on both projects is useful precisely because the same priest participates in expansive High-Vigil investment and later in the accounting of what can no longer be sustained.
+
+**OPEN:** His origin, exact offices before becoming Archmagos Logis, personal theology, relationship with successive Fabricator-Generals, detailed actions during the Ravenna catastrophe, and final fate remain to be developed.
 
 ## Manufactoria and industrial domains
 
 The Mechanicus industrial presence is larger than any single forge complex.
 
-Sacratus's importance historically rests on linked systems of production, repair, storage, transport, power, specialist labor, and technical knowledge. Some associated infrastructure exists beyond the Forge World itself elsewhere in the Sacratus system, although ownership and jurisdiction should not be assumed automatically for every arsenal, yard, station, or industrial site.
+Sacratus's importance historically rests on linked systems of production, repair, storage, transport, power, specialist labor, and technical knowledge. Its pre-Breaking specialization includes enormous intermediary production for wider Imperial campaigns and supply systems rather than only complete finished war machines.
+
+Some associated infrastructure exists beyond the Forge World itself elsewhere in the Sacratus system, although ownership and jurisdiction should not be assumed automatically for every arsenal, yard, station, or industrial site.
 
 The Long Vigil progressively reduces the amount of this network that can be maintained.
 
@@ -67,6 +78,8 @@ The High Vigil and Grand Calculus establish the importance of **Logis** expertis
 
 Industrial survival requires more than measuring theoretical output. The priesthood must account for maintenance burden, replacement cycles, supply dependencies, specialist personnel, repairability, transport, and the consequences of losing one process for every other process that depends upon it.
 
+Teren-44's early role demonstrates why this matters institutionally. Information can be accurate within individual domains while the system-level picture remains dangerously incomplete if nobody is positioned to compare dependencies across those domains.
+
 This is one reason nominal capacity becomes an increasingly dangerous measure during the Low Vigil. A machine or manufactorium that exists but cannot be supplied or repaired can consume more strategic capacity than it produces.
 
 The detailed organization of Logis personnel and whether Sacratus develops distinctive Long-Vigil offices around this work remain **OPEN**.
@@ -75,7 +88,7 @@ The detailed organization of Logis personnel and whether Sacratus develops disti
 
 Technical knowledge itself becomes a strategic asset under isolation.
 
-The loss of a data archive, specialist, calibration lineage, ritual sequence, or practical understanding can disable equipment whose physical components remain intact.
+The historical **Context Loss**, formally **Operational Knowledge Continuity Failure**, demonstrates that the loss of a data archive, specialist, calibration lineage, ritual sequence, or practical understanding can disable equipment whose physical components remain intact.
 
 Sacratan Mechanicus institutions therefore place increasing weight on preserving and reproducing context rather than merely preserving objects.
 
