@@ -62,6 +62,10 @@ Overuse, deferred maintenance, unavailable replacement parts, improvised substit
 
 The Breakdown reveals that Sacratan industry cannot be understood as a list of factories and headline outputs. It is a network of dependencies, many of which had been safely hidden by the abundance and redundancy of the wider Imperium.
 
+**Teren-44**, then a comparatively mid-ranking **Magos Logis**, is the first established figure to recognize that the accumulating failures are not merely a collection of local maintenance crises. His work crosses enough otherwise siloed reporting to show that hidden dependencies are transmitting failure across the industrial network.
+
+Teren's defining early contribution is therefore **discovering and making legible the systemic character of The Breakdown**. He does not yet possess the authority to solve the crisis himself, and his importance at this stage should not be displaced onto Great Ravenna.
+
 The crisis makes sustainable service, maintenance burden, and dependency mapping as important as theoretical maximum output.
 
 ### The Context Loss
@@ -113,19 +117,15 @@ This is the period in which the Sacratan Mechanicus most clearly demonstrates th
 
 The old problems have not vanished, but the system possesses enough margin to manage them rather than merely react to them.
 
-## Teren-44 and Great Ravenna
+## Teren-44 after The Breakdown and Great Ravenna
 
-During the mature High Vigil, **Teren-44 is a Magos Logis of comparatively modest institutional rank**.
+Teren's work during **The Breakdown** establishes the basis of his later historical importance.
 
-That position is important to his story.
+By identifying a single system-wide crisis beneath apparently separate local failures, he develops a specifically Mechanicus understanding of how Sacratan strength can deteriorate even when individual institutions continue to report acceptable local performance.
 
-He is not the Fabricator-General, an Archmagos commanding enormous domains, or a preselected architect of Sacratan strategy. His Logis work exposes him to reports and dependencies crossing industrial silos that are normally assessed separately.
+That work gives him a reputation for seeing dependencies and system-level consequences that narrower industrial accounting can miss. It also shapes the way he later understands the mature High Vigil.
 
-Teren notices that local measures can remain reassuring while the system beneath them is becoming more fragile. Individual manufactoria may meet quotas, preserve inventories, or report acceptable maintenance while depending on transport, materials, specialists, or other production lines whose own margins are steadily disappearing.
-
-His importance begins as **recognition and warning**, not as possession of the authority to solve the problem himself.
-
-During Cassian's reign, Teren independently reaches the same broad strategic conclusion as the Constantine: Sacratus's narrowing margin between gain and loss cannot be solved merely by demanding incrementally more output from an industrial system already consuming its own depth.
+During Cassian's reign, Teren's analysis converges with the Constantine's broader strategic conclusion: Sacratus's narrowing margin between gain and loss cannot be solved merely by demanding incrementally more output from systems already consuming their own depth.
 
 A major new source of agricultural surplus could create wider positive feedback.
 
@@ -139,7 +139,7 @@ The project succeeds for generations.
 
 Industrial capacity is one of the beneficiaries. More effort can be spent on repair, investment, defense, and expansion because less of the system's productive energy is trapped in immediate subsistence pressure.
 
-Teren's association with Great Ravenna is therefore not the story of a senior Archmagos personally solving the Long Vigil. It is the story of a mid-level Logis priest who notices a systemic problem, makes it legible, and becomes associated with a system-wide answer developed far above his original institutional weight.
+Teren becomes associated with the project because his Breakdown-era understanding of hidden dependencies makes the logic of wider surplus especially legible to him. He is **not established as the originator of Great Ravenna**, and the project should not be treated as the event that first establishes his reputation.
 
 ## Ravenna and the loss of Mechanicus investment
 
@@ -155,7 +155,7 @@ Basilios's Stabilization prevents immediate cascading collapse, but the Forge Wo
 
 Teren-44 survives Ravenna and rises to **Archmagos Logis only sometime afterward**. The exact date and circumstances of his promotion remain **OPEN**.
 
-His later participation in the Grand Calculus therefore links two very different stages of his life: the comparatively junior Logis priest who recognized a hidden systemic problem during the High Vigil, and the senior priest who later helps confront the consequences of contraction.
+His later participation in the Grand Calculus therefore links three stages of Mechanicus history: the mid-ranking priest who first diagnoses The Breakdown, the later participant in Great Ravenna's expansive logic, and the senior Archmagos who confronts contraction after Ravenna.
 
 ## Leontios and the Grand Calculus
 
