@@ -78,7 +78,7 @@ The title develops from the memory of **John Constantine**, who is publicly beli
 
 The transition is not immediate: Justinian succeeds John under his own name before later history numbers him as Constantine II.
 
-For the office, succession practice, and Chapter command structure, see [`organization.md`](organization.md). For individual Chapter Masters, see the [`constantines/`](constantines/README.md) biographies.
+For the office, succession practice, and Chapter command structure, see [`organization.md`](organization.md). For individual Chapter Masters, see the [`figures/`](figures/README.md) biographies.
 
 ## Repository VIII
 
