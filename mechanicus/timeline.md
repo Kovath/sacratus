@@ -9,7 +9,7 @@
 | **Great Crusade / pre-Breaking** | Sacratus functions as a major Mechanicum logistics and industrial nexus specializing heavily in intermediary campaign materiel while depending on wider Imperial inputs and shipping. |
 | **The Breaking** | External industrial depth disappears while wartime demand asks the Forge World to maintain or increase output. |
 | **The Reformation** | The Forge World adapts from an Imperial network node into part of a closed Sacratan industrial ecology. |
-| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; the named industrial crises expose progressively deeper dependencies; Great Ravenna later creates genuine surplus. |
+| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; Great Ravenna later creates genuine surplus. |
 | **Ravenna / Stabilization** | Ravenna's destruction removes a major engine of abundance and destroys substantial Mechanicus investment, manpower, and expertise concentrated there. |
 | **The Contraction** | The Grand Calculus reduces the industrial footprint to a smaller sustainable core and leaves deep institutional resentment. |
 | **Long Tension / Long Siege** | Mechanicus compartmentalization rises while surviving industrial capacity is maintained under continuous pressure. |
