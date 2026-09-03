@@ -28,6 +28,8 @@ Their established sequence is **materials → production → context**. Exact da
 
 Culturally, the sequence matters because each crisis strips away a simpler definition of preservation. Having stock is not enough if supply cannot continue; having machines is not enough if the production network cannot support them; having machines and records is not enough if nobody retains the context required to use them.
 
+Teren-44's earliest historical importance belongs specifically to **The Breakdown**. As a comparatively mid-ranking Magos Logis, he is remembered as the first established figure to recognize that apparently separate local failures form a single crisis propagating through hidden dependencies across the wider industrial network.
+
 ## Sacred service under scarcity
 
 Machines, manufactoria, records, and technical procedures retain sacred meaning throughout the Long Vigil.
@@ -88,17 +90,23 @@ The Mechanicus shares with the wider Long-Vigil system a growing suspicion of co
 
 The Breakdown demonstrates one danger directly: local figures can be accurate while still concealing the health of the wider network. A manufactorium may meet quota while depending on a transport line, specialist workshop, or intermediate component whose own failure margin has almost disappeared.
 
+Teren-44's Breakdown diagnosis becomes an important example of this problem. His significance lies in showing that correct local reporting can still produce a dangerously false picture of the whole when dependencies remain siloed.
+
 Nominal capacity can likewise become dangerous if it conceals the maintenance burden, missing inputs, absent specialists, or unrecoverable dependencies required to make that capacity real.
 
 The Grand Calculus gives this principle its harshest expression: an industrial system can look larger on paper while becoming less capable of surviving another century.
 
-Teren-44's later reputation as an **Archmagos Logis** grows partly from an earlier history in which, as a comparatively mid-ranking Magos Logis, he recognized system-wide dependencies hidden by siloed reporting.
+Teren's later reputation as an **Archmagos Logis** grows from the same intellectual lineage, but his historical reputation begins earlier, with The Breakdown.
 
 ## Great Ravenna and institutional memory
 
 Great Ravenna is remembered by the Mechanicus not only as a period in which abundance benefited industry but as one of its own greatest High-Vigil investments.
 
 The priesthood commits machinery, tooling, stores, technical manpower, and senior expertise to the world over generations. The project works, validating the belief that Sacratus can invest in a larger future rather than merely ration decline.
+
+Teren's later association with Great Ravenna grows naturally from his Breakdown-era understanding of interdependence: the same priest who first demonstrated how hidden dependencies could destroy apparent strength later recognizes the strategic value of creating surplus that improves multiple dependent systems at once.
+
+That connection does not make him the established originator of Great Ravenna, nor does the project replace The Breakdown as the event that first makes him important.
 
 Its destruction therefore carries a specifically Mechanicus wound. The Forge World loses not only the abundance Ravenna produced but a significant concentration of its own capital and expertise.
 
