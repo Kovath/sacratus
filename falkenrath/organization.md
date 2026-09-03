@@ -4,17 +4,19 @@
 
 ## A stranded branch, not a transplanted House
 
-The Falkenrath presence in Sacratus descends from a **detachment** of a larger **Questor Mechanicus** Knight House whose principal seat lies outside the system.
+The Falkenrath presence in Sacratus descends from a major **expeditionary group** of a larger **Questor Mechanicus** Knight House whose principal seat lies outside the system.
 
-The Breaking traps the detachment together with its supporting household. The Sacratan Falkenrath branch is therefore not built around a local Knight World and should not be treated as though Sacratus contains a second complete Knight civilization alongside the parent House.
+The group is not assigned to Sacratus. It is caught **in transit through the system** when the Breaking prevents it from continuing to its destination or returning to the parent House.
+
+The resulting Sacratan Falkenrath branch is therefore not built around a local Knight World and should not be treated as though Sacratus contains a second complete Knight civilization alongside the parent House.
 
 The exact constitutional status by which the branch understands itself during the Long Vigil remains **OPEN** beyond its continued Falkenrath and Questor Mechanicus identity.
 
 ## Household support
 
-The trapped formation includes more than Knight suits and pilots.
+The trapped expedition includes more than Knight suits and pilots.
 
-Its continuity depends on the **sacristans, retainers, technical personnel, families, and other household support** present with the detachment when Sacratus is isolated.
+Its continuity depends on the **sacristans, retainers, technical personnel, families, and other household support** travelling with it when Sacratus is isolated.
 
 These communities provide the practical and generational basis for maintaining Knights and sustaining the branch across centuries in which no ordinary reinforcement from the parent House is possible.
 
@@ -22,7 +24,7 @@ These communities provide the practical and generational basis for maintaining K
 
 ## Strength
 
-Immediately before the Breaking, the Sacratan detachment contains roughly **twenty to twenty-five Knights**.
+At the Breaking, the stranded expeditionary group contains roughly **twenty to twenty-five Knights**.
 
 By the later Long Vigil and Reintegration era, approximately **five to six Knights remain operational**.
 
