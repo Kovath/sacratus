@@ -8,11 +8,29 @@ The Palatinae are an Ultramarines successor and remain broadly Codex-compliant. 
 
 ## Chapter command
 
-The Chapter Master bears the title **Constantine**, a title that developed from the memory of John Constantine after the Breaking rather than being part of the Chapter's original Second Founding organization.
+The Chapter Master bears the title **Constantine**.
+
+The office was not created under that name at the Second Founding. The title develops from the memory of **John Constantine**, the Chapter Master believed to have died during Constantine's Stand. During the early Long Vigil, Sacratan usage gradually turns his personal name into a title for the defender of the system, and the Chapter eventually incorporates that usage into its own formal tradition.
+
+The transition is therefore retrospective at its beginning. Justinian succeeds John as Justinian rather than being instantly proclaimed Constantine II; later tradition numbers both men within the Constantinian sequence.
 
 The Constantine remains Chapter Master rather than a secular sovereign of Sacratus. Under the Concordat, however, invocation of **Ultimum** can grant the office extraordinary emergency authority over matters necessary to the defense of Sacratus.
 
 For individual holders of the office, see [`constantines/README.md`](constantines/README.md).
+
+### Succession
+
+The Palatinae do not treat succession as retirement planning.
+
+A serving Constantine is expected to remain Chapter Master while capable. At the same time, the Chapter cannot afford uncertainty if he is killed without warning.
+
+John's precedent is summarized by:
+
+> **A Chapter Master can die at any time. The Chapter cannot be allowed to wonder who commands next.**
+
+Likely successors can therefore be identified and developed while the current Constantine remains fully active. The purpose is continuity of command, not an expectation that the incumbent will eventually step aside.
+
+Later Constantines do not all use an identical formal mechanism, but the underlying assumption persists: succession is part of readiness.
 
 ## Companies
 
@@ -34,19 +52,29 @@ The Low-Vigil abundance of suits relative to veterans therefore reflects demogra
 
 ## Varangian Guard
 
-The **Varangian Guard** consists of exactly **eight** permanent guardians associated with Repository VIII.
+The **Varangian Guard** consists of exactly **eight** Palatinae charged with the permanent dedicated defense of Repository VIII.
 
-Varangians are removed from the ordinary company command path. They cannot become Captains, First Captain, Constantine, or major political commanders while serving as Varangians. Their trust is defined by custody rather than command.
+The Guard is an enduring institution, but its individual members change over the centuries. Appointment removes a Marine from the ordinary company career path: while serving as a Varangian, he does not progress toward Captain, First Captain, Constantine, or an ordinary political command. The office is a permanent transfer in the sense that service is custodial rather than a temporary company posting; vacancies are filled as individual Varangians die or otherwise cease service.
 
-Their sword-and-shield tradition derives from the Palatinae who died defending the approach to Repository VIII during Constantine's Stand.
+This distinction is summarized by the later formulation:
 
-The Guard develops after the Breaking rather than existing at the Second Founding. Its exact date of formalization remains **PROVISIONAL**.
+> **A Captain is trusted with command; a Varangian is trusted without it.**
+
+The senior member is known as the **First Varangian**. The title denotes seniority and custodial coordination within the eight rather than Captain-like command over the Chapter or Sacratan institutions.
+
+The Guard's sword-and-shield tradition derives from the Palatinae who died defending the approach to Repository VIII during Constantine's Stand. Those original defenders are remembered as predecessors in sacrifice, not retroactively counted as the first eight Varangians.
+
+The Guard develops after the Breaking, during the early Reformation, when Repository security can no longer depend on whichever company officers happen to be available. Its exact date of formalization remains **OPEN**.
+
+For the Repository itself and the limits of what the Guard knows, see [`repository-viii.md`](repository-viii.md).
 
 ## Librarius and the Chartophylax
 
 The Chief Librarian eventually bears the institutional role and title **Chartophylax**, tied to custody of the Chapter's deepest restricted knowledge and Repository VIII inheritance.
 
-The office is formalized after Ravenna through Niketas, although Theophanes may retrospectively be regarded as its first predecessor.
+The office is formalized after Ravenna through **Niketas**, the first formal Chartophylax. **Theophanes** is its predecessor in function rather than a retroactively formal holder.
+
+Repository custody is compartmentalized: the Constantine, Chartophylax, Varangians, and John as final guardian do not necessarily possess identical information about every part of the secret.
 
 **OPEN:** The broader organization, ranks, practices, and Long-Vigil evolution of the Librarius remain to be developed.
 
