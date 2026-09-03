@@ -9,7 +9,7 @@
 | **Great Crusade / pre-Breaking** | Sacratus functions as a major Mechanicum logistics and industrial nexus specializing heavily in intermediary campaign materiel while depending on wider Imperial inputs and shipping. |
 | **The Breaking** | External industrial depth disappears while wartime demand asks the Forge World to maintain or increase output. |
 | **The Reformation** | The Forge World adapts from an Imperial network node into part of a closed Sacratan industrial ecology. |
-| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; Magos Logis Teren-44 identifies hidden system-wide dependencies and Great Ravenna creates genuine surplus. |
+| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; The Breakdown exposes hidden system-wide dependencies, with Magos Logis Teren-44 as their original discoverer; later Great Ravenna creates genuine surplus. |
 | **Ravenna / Stabilization** | Ravenna's destruction removes a major engine of abundance and destroys substantial Mechanicus investment, manpower, and expertise concentrated there. |
 | **The Contraction** | The Grand Calculus reduces the industrial footprint to a smaller sustainable core and leaves deep institutional resentment. |
 | **Long Tension / Long Siege** | Mechanicus compartmentalization rises while surviving industrial capacity is maintained under continuous pressure. |
@@ -21,7 +21,7 @@
 The Mechanicus remembers three major historical industrial crises in a fixed conceptual sequence. The exact dates and boundaries remain **OPEN**.
 
 1. **The Depletion** — material and imported-input depth becomes unsustainable.
-2. **The Breakdown** — formally **Cascading Manufactorum Failure** — failures propagate through interdependent production systems.
+2. **The Breakdown** — formally **Cascading Manufactorum Failure** — failures propagate through interdependent production systems. **Teren-44**, then a comparatively mid-ranking Magos Logis, is the first established figure to recognize that the apparently separate failures form one system-wide crisis.
 3. **The Context Loss** — formally **Operational Knowledge Continuity Failure** — physically surviving systems lose the practical and institutional knowledge required to preserve capability.
 
 The sequence is:
@@ -83,17 +83,27 @@ Sacratan industry recovers sufficiently to create real maintenance and investmen
 
 The Mechanicus can again expand selected capabilities rather than consuming inherited industrial depth faster than it can be restored.
 
-## Cassianic High Vigil — Teren-44 and Great Ravenna
+The exact placement of the named industrial crises within the broader era remains **OPEN**, but Teren-44's defining early historical contribution belongs to **The Breakdown**, not to the later Great Ravenna project.
 
-**Teren-44 is a Magos Logis of comparatively modest institutional rank during the mature High Vigil.**
+## The Breakdown — Teren-44
 
-His Logis work crosses reports from otherwise siloed industrial domains. He notices that apparently healthy local figures can conceal system-wide dependencies whose margins are deteriorating.
+During **The Breakdown**, comparatively mid-ranking **Magos Logis Teren-44** is the original discoverer of the crisis's systemic character.
 
-His importance at this stage is recognition and warning rather than senior authority.
+His work crosses reporting from otherwise siloed industrial domains. He recognizes that local manufactoria can appear individually viable while failures propagate between them through transport, specialist labor, tooling, intermediate components, maintenance dependencies, and exhausted redundancy.
 
-Teren-44 independently reaches the same broad strategic conclusion as Cassian: a major agricultural surplus can create positive feedback across population, labor, logistics, and industrial capacity.
+Teren's importance at this stage is diagnosis and warning rather than senior authority. He makes the system-wide crisis legible; he does not personally command the Mechanicus response.
 
-The Mechanicus commits heavily to the Great Ravenna project itself, including industrial plant, tooling, stores, technical manpower, and senior expertise.
+This work establishes the reputation and analytic framework that later carries into his involvement with Great Ravenna.
+
+## Cassianic High Vigil — Great Ravenna
+
+Teren-44's later connection to Great Ravenna grows out of his Breakdown-era understanding of interdependence.
+
+His analysis converges with Cassian's broader strategic conclusion that a major agricultural surplus can create positive feedback across population, labor, logistics, and industrial capacity.
+
+Teren becomes associated with the project as it develops, but he is **not established as the originator of Great Ravenna**.
+
+The Mechanicus commits heavily to the project itself, including industrial plant, tooling, stores, technical manpower, and senior expertise.
 
 The project succeeds for generations and frees industrial resources previously consumed by subsistence pressure.
 
