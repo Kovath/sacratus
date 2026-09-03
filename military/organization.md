@@ -8,7 +8,7 @@ The **Sacratan Military** is the conventional human military layer of the system
 
 It develops from several inherited Imperial military bodies rather than beginning as a single purpose-built army. The exact degree to which those bodies later become legally unified remains **OPEN**.
 
-The Military jurisdiction is distinct from the Civil jurisdiction within Sacratan governance.
+The Military jurisdiction is distinct from the Civil jurisdiction within Sacratan governance and holds **one of the five seats of the Consistorium**. The title, selection, and institutional basis of the person who occupies that seat remain **OPEN**.
 
 ## Limitanei
 
@@ -80,12 +80,14 @@ Their forces may cooperate with the conventional military, particularly under em
 
 The exact senior command hierarchy of the Sacratan Military remains **OPEN**.
 
+Under **Ultimum**, the Constantine may be recognized as **Autokrator** and exercise extraordinary authority over matters necessary to the defense of Sacratus. That emergency authority is established; what remains unresolved is how it overlays, redirects, or supersedes the conventional military chain of command in practice.
+
 Canon has not yet established:
 
 - the title of the senior conventional military commander;
 - how planetary and system-level commands relate;
-- the office represented by the Military jurisdiction in the Consistorium;
-- ordinary command authority versus Constantinian emergency authority under **Ultimum**;
+- the title, selection, and institutional basis of the Military representative in the Consistorium;
+- the precise interaction between ordinary military command and Constantinian Autokrator authority under Ultimum;
 - the precise relationship between ground, fleet, fortress, and other conventional commands.
 
 These questions should be resolved when the faction is developed further rather than inferred from the Roman terminology alone.

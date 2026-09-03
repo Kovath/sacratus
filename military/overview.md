@@ -8,13 +8,15 @@ The **Sacratan Military** is an umbrella term for the conventional human armed f
 
 It does **not** mean all human institutions in Sacratus and does not include the civilian administration. It is also distinct from other armed bodies with their own jurisdictions and identities, including the **Palatinae**, **House Falkenrath**, the **Adepta Sororitas**, and the **Mechanicus/Skitarii**.
 
-The Military and Civil jurisdictions are distinct within Sacratan governance. The exact offices, titles, and constitutional machinery by which the Military jurisdiction is represented remain **OPEN** beyond that distinction.
+The Military and Civil jurisdictions are distinct within Sacratan governance. The **Military jurisdiction holds one of the five seats of the Consistorium**. The title, selection, institutional basis, and exact constitutional authority of the representative who occupies that seat remain **OPEN**.
 
 ## Pre-Breaking inheritance
 
-Before the Breaking, Sacratus relies on ordinary Imperial military structures rather than a single bespoke Sacratan army. These include planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
+Sacratus possesses a conventional military inheritance older than the institutions present immediately before the Breaking. Its Heresy-era history includes a **Solar Auxilia** legacy whose institutional continuity does not survive unchanged into M40, but whose archives, doctrine, equipment patterns, and material culture remain part of Sacratus's military inheritance.
 
-The later Sacratan Military grows out of those surviving institutions rather than replacing them overnight with a wholly new organization.
+By the later pre-Breaking era, Sacratus relies on ordinary Imperial military structures rather than a surviving Solar Auxilia institution or a single bespoke Sacratan army. These include planetary defense forces, **Astra Militarum (Imperial Guard)** formations, naval forces, and other conventional Imperial military bodies present in or tied to the system.
+
+The later Sacratan Military grows out of those surviving institutions while also having access to older military inheritance. The Limitanei and Comitatenses are Long-Vigil institutions rather than renamed or continuously surviving Solar Auxilia formations.
 
 ## Strategic role
 
@@ -58,7 +60,7 @@ The following are not yet established in detail:
 
 - the overall command hierarchy and senior military offices;
 - the exact relationship among planetary, Guard-derived, fleet, fortress, and other conventional forces;
-- the legal structure of the Military seat or jurisdiction within the Consistorium;
+- the title, selection, institutional basis, and detailed authority of the Military representative in the Consistorium;
 - unit scales, regimental traditions, uniforms, heraldry, and named formations;
 - recruitment systems and service obligations;
 - officer training and promotion;
