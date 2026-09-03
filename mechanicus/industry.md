@@ -1,14 +1,31 @@
 # Industry of the Sacratan Mechanicus
 
-> **Purpose:** Canonical home for the industrial logic of the Mechanicus during the Long Vigil: what fails, what can be preserved, how scarcity changes production, and why the Grand Calculus becomes necessary.
+> **Purpose:** Canonical home for the industrial logic of the Mechanicus during the Long Vigil: Sacratus's production role, the named industrial crises it survives, how scarcity changes production, and why the Grand Calculus becomes necessary.
 
 ## Industrial inheritance
 
 Pre-Breaking Sacratus is an important industrial and logistical nexus, but importance should not be confused with complete autarky.
 
-The Forge World is part of a wider Imperial system of exchange. Some processes can depend on external raw materials, specialist components, replacement expertise, shipping, or redundancy elsewhere in the Imperium.
+The Forge World's characteristic strategic role is the production and movement of the **intermediary materiel that keeps campaigns and larger production systems functioning**.
 
-The Breaking does not erase the inherited industrial base. It traps that base inside a system where every dependency extending beyond the storm has effectively become a finite resource or a missing capability.
+Its manufactoria support an enormous variety of lines producing such things as:
+
+- ammunition and munitions components;
+- tank treads and other vehicle consumables;
+- standardized replacement parts and subassemblies;
+- essential mechanical and electrical components;
+- tooling, repair parts, and maintenance stores;
+- countless other intermediate goods intended to be shipped onward to front-line formations, depots, yards, and other industrial centers.
+
+Sacratus can also produce finished products, including complete armored vehicles such as **Leman Russ tanks**. Finished war machines are therefore part of its output, but they are not the best description of its place in Imperial logistics.
+
+Its greater strategic value is that many different armies, depots, repair systems, and production lines can all depend on Sacratan components and throughput at once.
+
+This specialization is possible because pre-Breaking Sacratus is embedded in a wider Imperial system of exchange. It can import large quantities of raw materials, specialist components, replacement expertise, and other inputs rather than requiring every dependency to originate locally.
+
+The Forge World is therefore optimized as a **node**, not as a closed economy.
+
+The Breaking does not erase this industrial base. It traps it inside a system where every dependency extending beyond the storm has effectively become a finite resource or a missing capability, while war asks the same industrial system to maintain or increase output.
 
 ## Continuity under load
 
@@ -18,63 +35,109 @@ Industrial systems are repeatedly asked to produce at wartime intensity while al
 
 Immediate output and long-term survival can therefore conflict.
 
-Running a damaged line for another month may save a fortress today while making the line impossible to restore afterward. Taking a specialist away from training successors may increase current production while worsening context loss. Cannibalizing one machine can return three others to service while ending any possibility of restoring the first.
+Running a damaged line for another month may save a fortress today while making the line impossible to restore afterward. Taking a specialist away from training successors may increase current production while worsening later knowledge loss. Cannibalizing one machine can return three others to service while ending any possibility of restoring the first.
 
 There is rarely a single correct answer independent of strategic context.
 
-## Depletion
+## Named crises and persistent failure modes
 
-**Depletion** is the loss of stocks and inputs faster than equivalent replacements can be generated locally.
+The Sacratan Mechanicus distinguishes between the **capitalized historical crises** and the lower-case industrial processes they reveal.
 
-It can include:
+The sequence of the historical crises is fixed:
+
+> **The Depletion → The Breakdown → The Context Loss**
+
+or, in the underlying logic:
+
+> **materials → production → context**
+
+Their exact dates and boundaries remain **OPEN**. The problems exposed by each crisis continue afterward and interact throughout the Long Vigil.
+
+## The Depletion
+
+**The Depletion** is the first major Mechanicus crisis of the Long Vigil: the crisis of material depth.
+
+Sacratus had been built to consume enormous flows of raw materials, specialist components, consumables, and replacement assemblies moving through the wider Imperium. Once the storm closes, many of those flows become finite inherited stocks.
+
+Wartime demand accelerates their disappearance.
+
+The crisis includes pressure on:
 
 - raw and refined materials;
-- specialist components;
+- specialist alloys and components;
 - fuels, coolants, lubricants, catalysts, and other consumables;
 - spare parts and replacement subassemblies;
-- transport capacity and storage depth;
-- other inputs that were routine when Imperial trade still existed.
+- transport and storage depth;
+- imported inputs that had seemed routine precisely because Sacratus never needed to make all of them itself.
 
-Depletion matters because industrial capacity is relational. A vast machine can become useless because one comparatively minor consumable or component chain disappears.
+The Depletion forces the Mechanicus to map dependencies that had previously been economically invisible. A production line described as Sacratan can still rely on five imported inputs and three externally produced intermediate goods.
 
-The Mechanicus response increasingly emphasizes substitution, reclamation, prioritization, and redesign of support chains around materials that Sacratus can actually continue obtaining.
+The response increasingly emphasizes substitution, reclamation, prioritization, and redesign around materials that Sacratus can continue obtaining.
 
-## Breakdown
+After the named crisis passes, **depletion** remains a recurring condition. What changes is that the Mechanicus no longer assumes missing inputs will eventually arrive from outside.
 
-**Breakdown** is the accumulation of physical failure faster than ideal maintenance and replacement can reverse it.
+## The Breakdown
 
-The problem is not limited to dramatic destruction in battle. Deferred maintenance, overuse, imperfect repairs, declining infrastructure, and the loss of peripheral systems can gradually make a facility more expensive and less reliable even while it remains nominally operational.
+The second major crisis is **The Breakdown**, formally **Cascading Manufactorum Failure**.
 
-Long-Vigil accounting therefore has to distinguish between:
+This is not simply a period in which many machines happen to break.
+
+The industrial network begins to fail **relationally**.
+
+Deferred maintenance, overuse, imperfect substitutions, missing parts, declining support infrastructure, and the exhaustion of backup lines begin interacting. The loss of one comparatively minor process disables several dependent lines; those lines shift demand onto alternatives; the alternatives exceed maintenance tolerances; failures propagate through systems that had appeared separate on local ledgers.
+
+The Breakdown reveals that Sacratan industrial capacity cannot be measured honestly as a sum of individual manufactoria.
+
+Long-Vigil accounting must increasingly distinguish between:
 
 - what physically exists;
 - what can operate now;
 - what can be repaired after failure;
+- what other systems depend on it;
 - what can be supported for another decade or century.
 
 Those numbers are not equivalent.
 
-## Context loss
+The crisis also makes hidden cross-domain dependencies a major strategic concern. A local forge can report acceptable output while remaining dependent on transport, specialists, tooling, or components whose own margins are collapsing elsewhere.
 
-**Context loss** occurs when the knowledge required to operate, repair, reproduce, or correctly interpret a technical system disappears.
+Afterward, **breakdown** remains an enduring process, but the Mechanicus has learned that maintenance burden and dependency structure are themselves measures of industrial strength.
 
-This can involve formal data, but also knowledge embodied in people and institutions: calibration practice, production sequencing, diagnostic experience, ritual procedure, interface knowledge, local adaptations, and understanding of why apparently minor steps matter.
+## The Context Loss
 
-Context loss is especially dangerous because it may remain invisible until a system fails.
+The third major crisis is **The Context Loss**, formally **Operational Knowledge Continuity Failure**.
 
-A machine can survive for centuries while the chain of knowledge required to rebuild one critical subsystem quietly disappears around it.
+It exposes a deeper problem than destroyed machines or missing materials.
 
-The preservation of expertise and documentation is therefore an industrial concern rather than merely an archival one.
+The knowledge required to operate, repair, reproduce, or correctly interpret technical systems can disappear even while the machinery and formal records survive.
 
-## Interacting failure modes
+The lost context can include:
 
-Depletion, breakdown, and context loss rarely occur separately.
+- calibration practice;
+- production sequencing;
+- diagnostic experience;
+- ritual procedure and the practical understanding attached to it;
+- interface knowledge between separate systems;
+- local adaptations accumulated across centuries;
+- understanding of why apparently minor steps matter;
+- knowledge held in personnel networks rather than a single archive.
 
-A missing component can force an improvised repair. The improvised repair can require knowledge held by only a few specialists. Keeping those specialists on emergency work can prevent them from training successors. A later casualty then transforms a manageable material shortage into a permanent capability loss.
+The crisis is especially dangerous because it can remain invisible until failure.
+
+A machine can operate for centuries while the chain of knowledge required to rebuild one critical subsystem quietly disappears around it. A surviving procedure can become unusable because nobody still understands the assumptions under which it was written.
+
+The Context Loss turns training, documentation, redundancy of expertise, and interpretive continuity into industrial concerns rather than merely archival ones.
+
+Afterward, **context loss** remains a recurring threat anywhere knowledge is concentrated too narrowly or emergency demands repeatedly interrupt succession and teaching.
+
+## Interacting pressures
+
+The three crisis mechanisms rarely remain separate.
+
+A depleted component can force an improvised repair. The improvised repair can depend on knowledge held by only a few specialists. Keeping those specialists on emergency work can prevent them from training successors. A later casualty then transforms a manageable material shortage into a permanent capability loss.
 
 The Long Vigil progressively punishes systems with long, opaque, or externally dependent chains.
 
-This pressure helps explain why the Mechanicus increasingly values maintainability and reproducibility rather than treating theoretical peak output as the only meaningful measure of industrial strength.
+This pressure helps explain why the Mechanicus increasingly values maintainability, reproducibility, dependency visibility, and sustainable service rather than treating theoretical peak output as the only meaningful measure of industrial strength.
 
 ## Reclamation and translation
 
@@ -107,7 +170,9 @@ Stable food, population recovery, and reduced strategic pressure allow:
 
 Great Ravenna strengthens this dynamic by reducing the amount of industrial effort indirectly consumed by subsistence pressure.
 
-This is why its later loss matters far beyond agriculture.
+The Mechanicus also invests heavily **into Ravenna itself**. Machinery, tooling, stores, technical manpower, and senior expertise are committed to the century-scale redevelopment rather than simply remaining on the Forge World.
+
+This is why Ravenna's later destruction matters twice over: it removes the abundance that had widened Sacratus's margin and destroys a significant concentration of Mechanicus industrial capital and expertise.
 
 ## Nominal versus sustainable capacity
 
@@ -129,6 +194,7 @@ Its objectives are to:
 
 - identify industrial capacity that can genuinely be sustained;
 - distinguish real service from nominal capability;
+- expose hidden dependencies between production domains;
 - consolidate duplicate or unsupportable infrastructure;
 - salvage machinery and components from facilities that cannot be preserved;
 - translate valuable equipment, specialists, and knowledge into surviving industrial cores;
@@ -167,7 +233,7 @@ The Mechanicus becomes somewhat less brittle before Reintegration, but it does n
 
 ## Reintegration
 
-Restored contact with the wider Imperium creates possibilities the Long Vigil had trained the Mechanicus not to assume: imported components, replacement expertise, new equipment, external supply chains, and assistance from other Forge Worlds.
+Restored contact with the wider Imperium creates possibilities the Long Vigil had trained the Mechanicus not to assume: imported raw materials, specialist components, replacement expertise, new equipment, external supply chains, and assistance from other Forge Worlds.
 
 It also creates uncertainty about what Long-Vigil practices outside authorities will recognize as legitimate, orthodox, or merely necessary adaptations to isolation.
 
