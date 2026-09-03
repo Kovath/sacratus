@@ -30,7 +30,9 @@ Cassian comes from a somewhat prominent Augusta family. The background gives him
 
 He follows an ordinary Astartes progression rather than being marked from childhood as a future Constantine.
 
-After becoming a full battle-brother, he later serves as a **10th Company Scout Sergeant**. During Justinian's reclamation of Ravenna, Cassian fulfills his reconnaissance assignment and then identifies additional low-risk actions that prepare the battlefield without wasting his neophytes.
+After becoming a full battle-brother, Cassian spends a period in ordinary line service. Only later, after gaining experience as a full Astartes, does he return to the **10th Company as a Scout Sergeant**.
+
+During Justinian's reclamation of Ravenna, Cassian fulfills his reconnaissance assignment and then identifies additional low-risk actions that prepare the battlefield without wasting his neophytes.
 
 Theophanes notices him before Justinian does.
 
@@ -60,25 +62,33 @@ From John's perspective, he learns almost at once that Justinian obeyed the orde
 
 Cassian becomes the first Constantine to know John's identity as the Repository's final guardian.
 
-## Mature High Vigil
+## Reclamation of Chrysopolis
 
-Cassian inherits the strongest Sacratus of the Long Vigil.
+Cassian inherits the strongest Sacratus of the Long Vigil, but that strength is not simply the product of accumulated abundance. **Dara has bought the system substantial strategic breathing room** by destroying a major source of enemy pressure, even at significant cost to Sacratan and Palatinae forces.
 
-The system has working institutions, restored defenses, growing population, and the strategic space bought by Dara.
+Cassian uses that space aggressively.
 
-His reign therefore becomes expansionist in the limited Sacratan sense: outer watch positions, listening stations, naval anchorages, and the Chrysopolis defenses are strengthened or restored.
+One of the first major victories of his reign is the **reclamation of Chrysopolis**. The Chrysopolis sector had been abandoned during the Breaking rather than merely allowed to decay. Recovering it therefore means reversing one of the original territorial losses of the Long Vigil.
 
-Violence is pushed outward.
+The sector is retaken and its outposts, defenses, and outer watch are restored. Chrysopolis becomes Cassian's first major demonstration that the High Vigil can do more than preserve the central system: territory surrendered during the catastrophe can be brought back into the Sacratan defensive depth.
+
+That victory helps define the mature High Vigil. Outer watch positions, listening stations, naval anchorages, and other strategic infrastructure are strengthened or restored, and violence is pushed farther from the core worlds.
 
 Cassian's success reinforces the belief that Sacratus can shape its future rather than merely respond to enemies.
 
 ## Great Ravenna
 
-As Antiochia and the wider population grow, food becomes the constraint on further development.
+By the mature High Vigil, Cassian sees a problem larger than food production.
 
-Cassian concludes that preparation cannot continue indefinitely without creating new surplus:
+Sacratus is still making net gains, but the margin is steadily narrowing. In the early Reformation, a major setback could be absorbed and followed by gains that more than repaid it. By Cassian's later reign, victories cost more, defeats remove more of what has been rebuilt, and each advance leaves less margin behind.
 
-> **You can prepare for a very long time. You cannot prepare for infinity.**
+A useful shorthand for the trajectory is **sixty-one steps forward for sixty back**: not a literal accounting formula, but a system still progressing only by an increasingly thin margin.
+
+Cassian wants to change that trajectory rather than merely continue winning more expensively.
+
+A restored Ravenna offers the possibility of **positive feedback**. Large agricultural surplus can support population growth; population growth can deepen labor, recruitment, and institutional capacity; reduced subsistence pressure can free industrial resources for defense and expansion; those gains can in turn create still more surplus and strategic depth.
+
+The purpose of Great Ravenna is therefore not simply to solve an immediate food shortage. It is an attempt to restore genuine abundance and make growth generate further growth — to widen the margin again.
 
 Archmagos Logis **Teren-44** independently reaches the same broad conclusion from Mechanicus analysis.
 
@@ -89,6 +99,8 @@ It works.
 Food output rises. Rationing eases. Real food becomes more common. Population grows. Industrial resources previously tied to survival are freed for other purposes.
 
 Ravenna becomes home to billions.
+
+For generations, the positive feedback Cassian sought is real.
 
 ## Fall of Ravenna
 
