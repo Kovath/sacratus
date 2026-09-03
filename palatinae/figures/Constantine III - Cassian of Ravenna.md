@@ -90,7 +90,7 @@ A restored Ravenna offers the possibility of **positive feedback**. Large agricu
 
 The purpose of Great Ravenna is therefore not simply to solve an immediate food shortage. It is an attempt to restore genuine abundance and make growth generate further growth — to widen the margin again.
 
-Archmagos Logis **Teren-44** independently reaches the same broad conclusion from Mechanicus analysis.
+Magos Logis **Teren-44** independently reaches the same broad conclusion from Mechanicus analysis.
 
 The Great Ravenna redevelopment becomes a century-scale project.
 
