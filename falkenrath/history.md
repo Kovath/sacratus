@@ -6,15 +6,15 @@
 
 House Falkenrath is a **Questor Mechanicus** Knight House based outside the Sacratus system.
 
-Shortly before the Breaking, a Falkenrath detachment is present in Sacratus. It comprises roughly **twenty to twenty-five Knights** together with the sacristans, retainers, technical personnel, families, and household support required to sustain a Knight formation away from its principal seat.
+At the time of the Breaking, a Falkenrath **expeditionary group is in transit through Sacratus toward an important destination elsewhere**. It comprises roughly **twenty to twenty-five Knights** together with the sacristans, retainers, technical personnel, families, and household support required to sustain a major Knight expedition away from its principal seat.
 
-This is not the relocation of the entire House and does not create a local Knight World.
+The group is not assigned to Sacratus, and its presence does not represent the relocation of the entire House or the creation of a local Knight World.
 
-**OPEN:** The exact date, mission, circumstances, and intended duration of the detachment's presence remain undeveloped.
+**OPEN:** The expedition's exact destination, mission, route, and intended duration away from the parent House remain undeveloped.
 
 ## The Breaking
 
-When the storm encloses Sacratus in **100.M40**, the detachment is unable to return to its parent House.
+When the storm encloses Sacratus in **100.M40**, the expeditionary group is unable to continue its journey or return to its parent House.
 
 The Knights and the human household around them become a stranded branch inside a system that can no longer assume replacement pilots, new Knight suits, major external repair resources, or ordinary contact with the wider Falkenrath lineage.
 
