@@ -8,6 +8,7 @@ Canonical details live in the linked reference files.
 
 - [`overview.md`](overview.md) — high-level identity, scope, and role in Sacratus.
 - [`history.md`](history.md) — development across the Breaking, Reformation, Ravenna, Contraction, Long Tension, and Reintegration.
+- [`trials.md`](trials.md) — the seven principal Sororitas Trials and the theological development associated with them.
 - [`organization.md`](organization.md) — currently established institutional boundaries and unresolved Order structure.
 - [`culture.md`](culture.md) — Long-Vigil theology, presence, memory, and popular legitimacy.
 - [`figures/`](figures/README.md) — notable Sororitas figures, currently including Canoness Theresa.
