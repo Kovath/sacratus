@@ -14,9 +14,10 @@ For a general introduction, read:
 
 ## Reference
 
-- [Constantines](constantines/README.md) — the Chapter Masters who hold the Constantinian office, their careers, motives, and reigns;
-- [Organization](organization.md) — companies, offices, command structure, recruitment, manpower, and specialist institutions;
+- [Constantines](constantines/README.md) — navigation to the Chapter Masters who hold the Constantinian office;
+- [Organization](organization.md) — companies, offices, command and succession, recruitment, manpower, and specialist institutions;
 - [Culture](culture.md) — beliefs, traditions, memory, religion, generational identity, and lived Chapter culture;
-- [Heraldry](heraldry.md) — colors, Chi-Sword variants, armor provenance, markings, and visual traditions.
+- [Heraldry](heraldry.md) — colors, Chi-Sword variants, armor provenance, markings, and visual traditions;
+- [Repository VIII](repository-viii.md) — established facts, custodial structure, and deliberate unknowns surrounding the Chapter's secret founding inheritance.
 
 These files intentionally overlap at a summary level, but detailed material should live in the document whose subject most directly owns it.

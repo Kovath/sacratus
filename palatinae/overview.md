@@ -6,235 +6,128 @@
 
 The **Palatinae** are a genuine **Second Founding** successor Chapter of the Ultramarines.
 
-Their predecessors were a XIII Legion detachment stationed at Sacratus during the Horus Heresy. After the Second Founding, that detachment became the Palatinae and was assigned a simple public charge:
+Their predecessors were a XIII Legion detachment stationed at Sacratus during the Horus Heresy. After the Second Founding, that detachment became the Palatinae and received the public charge:
 
 > **DEFEND SACRATUS.**
 
-Separate from that public mandate, the first Palatinae Chapter Master also inherits the secret charge of **Repository VIII**, a hidden trust whose contents remain **UNKNOWN IN-UNIVERSE**. The Repository is not the public reason the Chapter was assigned to Sacratus.
-
 The mandate is strategic rather than narrowly geographic. The Chapter may campaign beyond the system when doing so is necessary to protect Sacratus, but it is not free to expose the system recklessly in pursuit of unrelated glory.
 
-The Palatinae do **not** formally rule Sacratus. The Forge World, civil authorities, Ecclesiarchy, military institutions, and other Imperial bodies retain their own jurisdictions. The Chapter nevertheless becomes deeply entangled in nearly every major Sacratan decision because defense intersects logistics, food, transport, industry, population, fortification, intelligence, and interinstitutional coordination.
+The Palatinae do **not** formally rule Sacratus. Their influence grows because defense repeatedly intersects logistics, transport, industry, population, fortification, intelligence, and the jurisdictions of other Imperial institutions.
 
-The Chapter is broadly Codex-compliant in origin and temperament. Its later deviations arise from the practical demands of almost nineteen centuries of isolation rather than rejection of Guilliman's principles.
+They remain broadly Codex-compliant in origin and temperament. Their later deviations arise from the practical demands of almost nineteen centuries of isolation rather than rejection of Guilliman's principles.
 
-## Historical Character
+## Historical character
 
-The Palatinae's Roman and later Byzantine character is the result of institutional development rather than an adopted costume.
+The Palatinae's Roman and later Byzantine character develops historically rather than being adopted as a costume.
 
-Before the Breaking, the Chapter's culture is recognizably Ultramarine: orderly, administrative, strategically minded, and comfortable with systems of civil and military coordination. As Sacratus develops around Augusta, repeated interaction with local jurisdictions turns military administration into durable institutions, offices, rituals, and legal customs.
+Before the Breaking, the Chapter is recognizably Ultramarine: orderly, administrative, strategically minded, and comfortable with civil-military coordination. During the Long Vigil, military necessity turns repeated administrative practices into durable institutions, and those institutions become old enough to acquire ceremony, precedent, and ancestral authority.
 
-During the Long Vigil, those institutions become old enough to become tradition. Administrative continuity acquires ceremonial weight. Titles and practices that were once practical become ancestral. By the Low Vigil, the Chapter resembles a far-future continuation of an Eastern Roman state not because it set out to imitate one, but because centuries of emergency government, written procedure, inheritance, office, and ritual have accumulated around survival.
-
-The Chapter's religious life intensifies along the same path. The Long Vigil leaves Sacratus isolated from the wider Imperium while the Astronomican remains visible through the storm as a single distant Light. The Palatinae do not interpret that Light as proof of rescue or protection. It is evidence that Terra and the Emperor still exist, and therefore that their obligations remain.
+The same process shapes the Chapter's religious life. During the Long Vigil, the stars vanish or distort behind the surrounding Warp phenomenon while the Astronomican remains visible as a single distant Light. The Palatinae do not interpret that Light as proof of rescue or protection. It means that Terra and the Emperor still exist and that duty therefore remains.
 
 A central expression of that worldview is:
 
 > **The Light remained. So shall we.**
 
-## Strategic Role
+The causal development of the Chapter across the Breaking, Reformation, High Vigil, Ravenna, Contraction, Long Siege, and Reintegration is detailed in [`history.md`](history.md).
+
+## Strategic role
 
 The Palatinae are not the mass army of Sacratus.
 
-The system's defense depends on mortal soldiers, naval forces, Mechanicus assets, Sororitas, local garrisons, and other institutions numbering vastly more than the Chapter. The Astartes operate at the strategic level where a small number of Marines can change the outcome of a much larger war.
+The system's defense depends primarily on mortal forces and other Imperial institutions. The Chapter operates where a small number of Astartes can have disproportionate strategic effect.
 
 Typical Palatinae roles include:
 
 - command and coordination during system-wide emergencies;
-- boarding and counter-boarding operations;
-- reinforcement of critical nodes at the moment they are most likely to fail;
+- boarding and counter-boarding;
+- rapid reinforcement of critical nodes;
 - counterattack against enemy elite formations;
 - anti-Astartes and anti-daemonic actions;
-- rapid response where mortal forces require an Astartes nucleus;
 - recovery of gene-seed, veterans, relic wargear, and irreplaceable equipment;
-- strategic planning across otherwise separate Sacratan institutions.
+- strategic planning across otherwise separate institutions.
 
-The Chapter's culture therefore develops around using force at the point where it matters rather than attempting to substitute Astartes for armies that already exist.
+The Chapter therefore develops around applying force at the point where it matters rather than attempting to substitute Space Marines for armies that already exist.
 
-A recurring Palatinae assumption is that information is itself part of defense. An old maxim is:
+## Knowledge, accounting, and recovery
+
+A recurring Palatinae assumption is:
 
 > **That which is not known cannot be defended.**
 
-This contributes to a culture of inventories, provenance, casualty accounting, after-action records, salvage, and institutional memory.
+Accurate inventories, casualty accounting, provenance, after-action records, and capability reporting carry moral as well as administrative weight. In a closed system, a false number can kill people somewhere else.
 
-## Relationship to Sacratan Institutions
+The same scarcity produces a strong culture of reclamation. Gene-seed, bodies, armor, weapons, vehicles, and useful components are recovered whenever circumstances permit. Visible repair is not shameful; continued service is itself evidence of successful preservation.
 
-The Palatinae's influence over Sacratus rests on military necessity, prestige, and the constitutional framework of the **Concordat of Sacratus**, not on ordinary sovereign ownership of the system.
+These practices, together with the Light, generational identities, and Low-Vigil attitudes toward duty, are developed further in [`culture.md`](culture.md).
 
-The Chapter holds one seat in the five-part **Consistorium**, alongside Mechanicus, Ecclesiastical, civil, and military representation.
+## Relationship to Sacratan institutions
 
-The Concordat also contains the emergency provision known as **Ultimum**. In an existential defense emergency, the Chapter Master may be recognized as **Autokrator**, giving him supreme authority over matters necessary to the defense of Sacratus. Ultimum is not a grant of permanent total sovereignty.
+The Chapter's influence rests on military necessity, prestige, and the constitutional framework of the **Concordat of Sacratus**, not on ordinary sovereign ownership of the system.
 
-It is not invoked until the Breaking, when John Constantine uses it immediately because the system has hours rather than days to mobilize. The Long Vigil then turns the definition of "defense" into a constitutional problem: food, evacuation, industry, transport, population movement, and institutional survival can all become military necessities.
+The Palatinae hold one seat in the five-part **Consistorium**. The Concordat also contains the emergency provision known as **Ultimum**. In an existential defense emergency, the Chapter Master may be recognized as **Autokrator**, granting extraordinary authority over matters necessary to the defense of Sacratus.
 
-Later Constantines use or restrain Ultimum differently, and the consequences become one of the defining political tensions of the Low Vigil.
+Ultimum is first invoked by John Constantine during the Breaking. The Long Vigil then makes the meaning of "defense" increasingly difficult to limit: food, evacuation, transport, population movement, and industrial survival can all become military necessities.
+
+Different Constantines use or restrain that authority differently, contributing to the political tensions of the Low Vigil.
 
 ## The Constantine
 
-"Constantine" is not the original title of the Palatinae Chapter Master.
+The Palatinae Chapter Master eventually bears the title **Constantine**.
 
-The name originates with **John Constantine**, the Chapter Master who commands during the Breaking and is believed to die in Constantine's Stand. During the early Long Vigil, Sacratan mortals increasingly use *Constantine* as a title for the man who defended the system. The usage eventually passes into Chapter tradition and becomes the formal style of later Chapter Masters.
+The title develops from the memory of **John Constantine**, who is publicly believed to die during Constantine's Stand. Sacratan usage gradually turns his personal name into a title for the defender of the system, and the Chapter later formalizes that tradition.
 
-The transition is gradual. John did not establish a dynastic title for himself, and his immediate successor initially remains Justinian rather than automatically being addressed as Constantine II.
+The transition is not immediate: Justinian succeeds John under his own name before later history numbers him as Constantine II.
 
-By later centuries, however, the Constantinian sequence has become one of the principal ways Sacratans periodize their own history.
+For the office, succession practice, and Chapter command structure, see [`organization.md`](organization.md). For individual Chapter Masters, see the [`constantines/`](constantines/README.md) biographies.
 
-See the [Constantines directory](constantines/README.md) for the Constantine I–VIII record and individual biographies.
+## Repository VIII
 
-## Heraldry and Colours
+Separate from **DEFEND SACRATUS**, the first Palatinae Chapter Master inherits the secret charge of **Repository VIII**.
 
-The Chapter's primary colours are:
+The Repository's contents and purpose remain **UNKNOWN IN-UNIVERSE**. Its custody becomes one of the Chapter's deepest compartmentalized responsibilities and eventually involves the Constantine, the Chartophylax, the eight Varangians, and John Constantine as its hidden final guardian.
 
-- **dark Tyrian / aubergine / wine purple** as the dominant field;
-- **ivory or white** as a substantial secondary colour;
-- **antique gold** for trim and ornament.
+Repository VIII does not explain the Chapter's public assignment to Sacratus and should not be treated as a general explanation for unrelated Sacratan mysteries.
 
-The intended purple is dark and imperial rather than bright magenta or pink. Black is not the dominant secondary colour.
+See [`repository-viii.md`](repository-viii.md) for the established facts and deliberate unknowns.
 
-### The Chi-Sword
+## Heraldry
 
-The Palatinae Chapter badge is the **Chi-Sword**: a Chi-like form in which the central element is rendered as a sword.
+The Chapter's primary colors are **dark Tyrian / aubergine / wine purple**, substantial **ivory or white**, and **antique gold**.
 
-Three principal forms coexist:
+Its badge is the **Chi-Sword**, a Chi-like form centered on a sword. Three principal historical forms coexist because old wargear retains provenance rather than being repainted merely for consistency:
 
-1. **Unbroken form** — the plain Chi-Sword without halo or radiance.
-2. **Vigil-Born form** — the Chi-Sword with a small disc or halo representing the Emperor's Light seen through the storm.
-3. **Later radiant form** — the Chi-Sword surrounded by fuller rays or radiance, associated with the later Long Vigil and especially Ash-Born visual culture.
+- the plain **Unbroken** form from before the Breaking;
+- the **Vigil-Born** form with a small disc or halo representing the Light;
+- the later fully **radiant** form associated especially with the later Long Vigil and Ash-Born visual culture.
 
-These are not successive replacements where old armor must be updated. Armor provenance matters. An ancient suit may retain the heraldry of the era in which it was marked, making several versions simultaneously legitimate.
+The irony is deliberate: sacred visual language becomes richer as Sacratus becomes materially poorer.
 
-The irony is deliberate: the oldest badge is the simplest, while increasingly elaborate sacred ornament appears as Sacratus becomes materially poorer.
-
-John Constantine's Dreadnought retains the ancient unhaloed form.
-
-## Generational and Cultural Terms
-
-### Unbroken
-
-**Unbroken** refers to Marines who already existed before the Breaking.
-
-The term is demographic and historical. As the Long Vigil continues, the Unbroken become progressively rarer until almost none remain.
-
-### Vigil-Born
-
-**Vigil-Born** refers to Marines born or recruited during the Long Vigil.
-
-It is a generational category rather than a specific ideological faction. By the Low Vigil, essentially the entire active Chapter is Vigil-Born except for the most ancient survivors.
-
-### Ash-Born
-
-**Ash-Born** is a later cultural term associated with the post-Ravenna and Low-Vigil Palatinae rather than a sharply bounded generation.
-
-It refers to Marines and Sacratans formed by a society in which deprivation, reclamation, and managed contraction have become normal. The name also overlaps with popular gallows language around the grey-black processed nutrient compounds common in the poorest periods of the Vigil.
-
-## Chapter Culture
-
-### Accounting as responsibility
-
-Palatinae accounting is not intended as sterile bureaucracy. In a closed system, false numbers kill people somewhere else.
-
-Ammunition spent in one defense cannot be assumed to reappear. A transport assigned to one evacuation cannot simultaneously perform another. A dead Apothecary or damaged plasma weapon may represent a capability that cannot be replaced for generations.
-
-This produces a culture in which inventories, casualty reports, force availability, and logistical truth carry moral weight.
-
-### Reclamation
-
-The Chapter develops an unusually strong culture of recovery and salvage.
-
-Gene-seed, bodies, armor, vehicles, weapons, and recoverable components are retrieved whenever the tactical situation permits. Irreparable equipment can still become parts for something else. Visible repair is not shameful; surviving service is itself evidence of honorable continuity.
-
-The principle is practical before it becomes ceremonial.
-
-### The Light
-
-During the Long Vigil, the Astronomican remains visible through the otherwise impassable storm.
-
-The Palatinae continue the practice of orienting prayer toward the Light. After Reintegration, when the storm is gone and the stars have returned, the practice continues by facing the calculated direction of Terra.
-
-The Light is not understood as a promise that Sacratus will be spared. Billions die while it remains visible.
-
-Its meaning is closer to continuity:
-
-> The Emperor still exists. Terra still exists. Duty therefore still exists.
+Detailed visual conventions belong in [`heraldry.md`](heraldry.md).
 
 ## Organization
 
-### Codex inheritance
+The Palatinae begin with conventional Codex-derived company organization. Long-Vigil demographic collapse later forces major adaptation.
 
-The Palatinae begin as a conventional Second Founding Chapter organized along Ultramarines-derived Codex principles.
+Under Leontios, the **5th, 8th, and 9th Companies** are suspended. The **6th and 7th** evolve into generalized reserve and full-brother training formations. Suspension of the **4th Company** during the Long Siege remains **PROVISIONAL**.
 
-The Long Vigil gradually changes the meaning of several formations because the Chapter becomes too small to sustain every specialization as a full company.
+The Chapter retains an unusually large stock of ancient Terminator armor relative to its late-Vigil manpower. During the Low Vigil, surviving suits can outnumber qualified First Company veterans, allowing every serving First Company brother of that period to have a suit assigned. This is a historical consequence of demographic collapse, not a timeless or current entitlement.
 
-### Leontian reorganization
+The **Varangian Guard** consists of exactly eight Marines dedicated to Repository VIII. The Chief Librarian eventually bears the custodial role of **Chartophylax**.
 
-During Constantine V Leontios's reign, the Chapter applies the same contraction imposed on Sacratus to itself.
+Detailed company roles, succession, specialist institutions, recruitment, and manpower belong in [`organization.md`](organization.md).
 
-By the Low Vigil, Chapter strength has fallen into the low hundreds and the Palatinae can no longer sustain a full ten-company structure.
+## Generational terms
 
-The **5th, 8th, and 9th Companies are suspended**. Their identities and standards are retained rather than abolished, but there are no longer enough Marines to justify maintaining them as independent formations.
+Three recurring terms summarize parts of the Chapter's historical experience:
 
-The surviving structure increasingly functions as:
-
-- **1st Company** — veteran formation and custodian of the Chapter's concentrated Terminator capability;
-- **2nd–4th Companies** — principal Battle Companies;
-- **5th Company** — suspended;
-- **6th–7th Companies** — generalized reserve and full-brother training formations rather than narrowly specialized Codex reserves;
-- **8th–9th Companies** — suspended;
-- **10th Company** — neophyte and Scout pipeline with full-Astartes training cadre.
-
-The logic is institutional continuity rather than perfect numerical symmetry. When there are too few Battle Companies, the senior surviving identities are preserved rather than constantly renumbering units to make the roster look neat.
-
-During the Long Siege, the **4th Company is also likely suspended** — **PROVISIONAL** until the later manpower history is finalized.
-
-### Sixth and Seventh Companies
-
-The 6th and 7th become especially important during the Low Vigil.
-
-Their purpose is increasingly to turn a newly elevated full battle-brother into a complete **Palatinae** who can be detached into whatever role the Chapter actually needs. They maintain cross-training, operational flexibility, and institutional redundancy that would otherwise disappear as specialist companies vanish.
-
-A useful shorthand is:
-
-- **10th:** become an Astartes;
-- **6th/7th:** become a Palatinae;
-- **Battle Companies:** fight as the Palatinae;
-- **1st:** embody the surviving veteran tradition.
-
-### First Company and Terminator armour
-
-The Palatinae retain an unusually large stock of Terminator armour relative to their late-Vigil manpower because ancient equipment accumulates while the number of qualified veterans falls.
-
-During the Low Vigil, veteran numbers become low enough that every serving First Company battle-brother can have a Terminator suit assigned. This is a consequence of the suits outnumbering the veterans available to wear them, not a permanent entitlement of First Company service and not a rule that necessarily survives into current times.
-
-Assignment does not mean every mission is fought in Terminator armour, nor that every assigned suit is simultaneously serviceable. The Chapter can plausibly possess more surviving or repairable suits than veterans available to wear them without possessing any special manufacturing capability.
-
-The broader late-Vigil pattern is simple: the Chapter becomes better at preserving ancient wargear than at replacing the battle-brothers who use it. Armouria can remain stocked while barracks stand empty.
-
-## The Varangian Guard
-
-The **Varangian Guard** consists of exactly **eight** Palatinae.
-
-They are a permanent elite formation charged with the secret defense of **Repository VIII**. They are not an eleventh company and do not exist as an ordinary political or battlefield command body.
-
-A Varangian leaves the normal company promotion structure. Varangians cannot become Captains, First Captain, or Constantine while serving in the Guard. The office is deliberately trusted *without* conventional command authority.
-
-A later Palatinae formulation captures the distinction:
-
-> **A Captain is trusted with command; a Varangian is trusted without it.**
-
-The Guard's sword-and-shield tradition descends from the First Company and honor veterans who died with John Constantine on the approach to Repository VIII during the Breaking.
-
-The Varangians are created after the Breaking when the Chapter recognizes that Repository security can no longer depend on whichever officers happen to be available. Their exact date of formal establishment remains **OPEN**, though it belongs to the early Reformation rather than the pre-Breaking Chapter.
-
-Only a tiny number of Palatinae know the Repository's significance. The contents of Repository VIII remain **UNKNOWN IN-UNIVERSE**.
+- **Unbroken** — Marines who already existed before the Breaking;
+- **Vigil-Born** — Marines born or recruited during the Long Vigil;
+- **Ash-Born** — a later cultural identity associated with the post-Ravenna and Low-Vigil world of inherited damage, reclamation, and normalized scarcity rather than a sharply bounded generation.
 
 ## Reintegration
 
 The return of the wider Imperium changes the conditions that created many Palatinae adaptations.
 
-The Chapter accepts Primaris reinforcements rather than rejecting them on traditionalist grounds. Increased manpower makes restoration of suspended companies possible.
+The Chapter accepts Primaris reinforcements rather than rejecting them on traditionalist grounds. Suspended companies can return as manpower permits, while some Long-Vigil institutions — particularly the generalized role of the 6th and 7th Companies — may remain useful rather than disappearing simply because their original emergency has ended.
 
-The intended direction is:
-
-- restore the **4th** and **5th** as Battle Companies when numbers permit;
-- eventually restore the **8th** and **9th** as specialized reserve formations;
-- retain much of the 6th and 7th Companies' generalized training identity because it has become a useful Palatinae institution in its own right.
+The central post-Vigil problem is therefore adaptation in the opposite direction: determining which habits of scarcity remain virtues and which become liabilities once reinforcement, outside authority, and greater resources exist again.
