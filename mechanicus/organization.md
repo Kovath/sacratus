@@ -54,9 +54,7 @@ The Breakdown and Grand Calculus establish the importance of **Logis** expertise
 
 Industrial survival requires more than measuring theoretical output. The priesthood must account for maintenance burden, replacement cycles, supply dependencies, specialist personnel, repairability, transport, and the consequences of losing one process for every other process that depends upon it.
 
-The career of [**Teren-44**](figures/Teren-44.md) demonstrates why this matters institutionally. As a comparatively mid-ranking Magos Logis, he is the first established figure to recognize that the failures of **The Breakdown** are not isolated local problems but one system-wide crisis propagating through hidden dependencies. His later Great Ravenna work grows from that Breakdown-era analysis rather than constituting his original contribution.
-
-Teren rises to Archmagos Logis sometime after Ravenna and is a senior internal Mechanicus figure during the Grand Calculus.
+The recognition during **The Breakdown** that accurate local reporting could still conceal dangerous system-wide dependencies is one established example of why this work matters. The individual associated with that discovery is documented under [**Teren-44**](figures/Teren-44.md).
 
 This is one reason nominal capacity becomes an increasingly dangerous measure during the Low Vigil. A machine or manufactorium that exists but cannot be supplied or repaired can consume more strategic capacity than it produces.
 
