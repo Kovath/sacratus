@@ -6,11 +6,13 @@
 
 **House Falkenrath** is a **Questor Mechanicus** Knight House whose principal seat lies outside the Sacratus system.
 
-The Falkenrath presence within Sacratus begins as a **detachment**, not as the transplantation of the entire House. Shortly before the Breaking, roughly **twenty to twenty-five Knights** are present in the system together with the sacristans, retainers, technical personnel, families, and other household support required to sustain them.
+The Falkenrath presence within Sacratus begins with an **expeditionary group in transit**, not a force assigned to defend or serve Sacratus. Roughly **twenty to twenty-five Knights** are passing through the system on their way to an important destination elsewhere, together with the sacristans, retainers, technical personnel, families, and other household support required to sustain them.
 
-When the Breaking isolates Sacratus in **100.M40**, that detachment is trapped inside the storm.
+When the Breaking isolates Sacratus in **100.M40**, the expeditionary group is trapped inside the storm before it can continue its journey.
 
 The resulting Sacratan branch is therefore unusual in scale but not a separate Knight World or a newly founded full-strength House. It is an isolated remnant of a larger Questor Mechanicus lineage that must preserve itself for the duration of the Long Vigil without routine access to its parent House or the wider Imperium.
+
+**OPEN:** The expedition's exact destination, mission, route, and circumstances remain undeveloped.
 
 ## Long-Vigil role
 
@@ -53,7 +55,7 @@ The Sacratan branch remains recognizably part of the House, but its archaic habi
 The following are not yet established:
 
 - the parent House's principal seat and detailed external history;
-- the exact reason and date of the original detachment's presence in Sacratus;
+- the expeditionary group's exact destination, mission, route, and intended duration away from the parent House;
 - the individual Knight classes and complete pre-Breaking roster;
 - named pilots, household leaders, and major sacristans;
 - the branch's exact internal succession and command structure;
