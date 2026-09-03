@@ -90,6 +90,14 @@ Formal records call it a civil disturbance. Popular and Sororitas memory calls i
 
 The Sororitas memory does not require the claim that the Palatinae arrived intending to murder civilians. The event matters because forty-three civilians die in an encounter so asymmetrical that technical justification does not settle the moral memory of it.
 
+## Melitene
+
+The **Massacre of Melitene** becomes a central Low-Vigil memory because official and popular descriptions diverge so sharply.
+
+Formal records call it a civil disturbance. Popular and Sororitas memory calls it a massacre.
+
+The Sororitas memory does not require the claim that the Palatinae arrived intending to murder civilians. The event matters because forty-three civilians die in an encounter so asymmetrical that technical justification does not settle the moral memory of it.
+
 ## Legitimacy and resistance
 
 By the post-Leontian period, the Sisters possess political legitimacy that is not reducible to formal constitutional power.
