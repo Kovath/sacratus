@@ -13,7 +13,7 @@ Basilios is intentionally less architecturally elaborate than the Constantines a
 
 He is an exceptional officer whose defining qualities are composure and dependability under deterioration.
 
-Before Ravenna, he earns a reputation as a great warrior and commander on the **Chrysopolis Outposts** and becomes Cassian's primary successor.
+Before Ravenna, he earns a reputation as a great warrior and commander on the **Chrysopolis Outposts**, rises to **First Captain**, and becomes Cassian's primary successor.
 
 The practical trust placed in him is summarized by:
 
