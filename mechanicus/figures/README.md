@@ -6,6 +6,6 @@ For broader institutional context, see [`../organization.md`](../organization.md
 
 ## Figures
 
-- [**Teren-44**](Teren-44.md) — Magos Logis of the mature High Vigil; associated with Great Ravenna; later Archmagos Logis and a senior internal figure during the Grand Calculus.
+- [**Teren-44**](Teren-44.md) — Magos Logis and original discoverer of the systemic character of **The Breakdown**; later associated with Great Ravenna; after Ravenna rises to Archmagos Logis and becomes a senior internal figure during the Grand Calculus.
 
 Additional figure files should be added here as named Mechanicus individuals become sufficiently developed to justify their own canonical record.
