@@ -52,7 +52,7 @@
 | **417.M40** | Accession | Cassian succeeds at roughly 291 years old. Theophanes finally reveals that John survives. John awakens and learns that Justinian ruled for 317 years and died without ever knowing the truth. |
 | **417–~600s.M40** | **Mature High Vigil** | Cassian's proactive reign. The Chrysopolis Belt and outer strategic infrastructure expand. Violence is pushed outward. Sacratus increasingly believes it can shape its own future. |
 | **474.M40** | — | Birth of **Leontios**. |
-| **Mid/late Cassian reign** | **Great Ravenna** | Cassian and Archmagos Teren-44 undertake a massive redevelopment of Ravenna. It succeeds for generations: food surplus grows, rationing eases, population expands and industrial capacity is freed. |
+| **Mid/late Cassian reign** | **Great Ravenna** | Cassian undertakes a massive redevelopment of Ravenna with major Mechanicus participation. It succeeds for generations: food surplus grows, rationing eases, population expands and industrial capacity is freed. |
 | **703.M40** | **Exterminatus of Ravenna** | Accumulated Warp instability becomes a nonlinear catastrophe. Theophanes dies. Cassian concludes that Ravenna is irrecoverable and orders **Exterminatus**, remaining on the world. Billions die. The **High Vigil ends** and the **Low Vigil begins**. |
 
 ## Constantine IV — Basilios
