@@ -30,23 +30,23 @@ The operational figure should not be treated as a statement about the exact numb
 
 The decline is the cumulative result of nearly nineteen centuries of isolation, combat, maintenance burden, and the inability to rely on the wider support structure of the parent House.
 
-## Cultural vocabulary
+## Cultural continuity
 
 Falkenrath retains a deliberately **Germanic and Gothic vocabulary** that stands apart from the increasingly Roman and Byzantine language of Sacratan institutions.
 
-That contrast is intentional. House Falkenrath should not simply be renamed into the dominant Sacratan idiom merely because it remains trapped in the system for centuries.
+More broadly, the stranded branch remains **highly conservative in its traditions**, treating preservation of its pre-Breaking Falkenrath identity as an important form of continuity throughout the Long Vigil. It does not simply adopt the dominant Sacratan idiom because it has remained in the system for centuries.
 
-The exact degree of broader cultural blending, linguistic change, and internal ritual development during the Long Vigil remains **OPEN**.
+The exact rites, customs, linguistic changes, and degree of local cultural blending remain **OPEN** within that generally conservative pattern.
 
 ## Reintegration
 
-Reintegration places the Sacratan branch back in contact with its **parent House** after almost nineteen centuries of independent survival.
+Reintegration places the Sacratan branch back in contact with its **parent House** after almost nineteen centuries of separation.
 
-The branch is recognizably Falkenrath, but it is also an archaic offshoot shaped by generations of isolation, attrition, local obligations, and continuity without ordinary contact with the wider House.
+The parent House **warmly receives** the returned branch. The difficulty is not rejection or hostility: nearly two millennia of separate development have created a real cultural gap between lineages that both understand themselves as Falkenrath.
 
-The resulting relationship is a source of tension rather than an automatic restoration of the pre-Breaking status quo.
+The Sacratan branch remains recognizably part of the House, but its archaic habits and Long-Vigil experience do not simply disappear upon reunion.
 
-**OPEN:** The precise claims of authority, inheritance, seniority, obligation, and identity made by the parent House and the Sacratan branch after Reintegration remain undeveloped.
+**OPEN:** The precise questions of authority, inheritance, seniority, obligation, and long-term accommodation between the parent House and the Sacratan branch remain undeveloped.
 
 ## Still open
 
