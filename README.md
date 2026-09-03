@@ -9,6 +9,7 @@ This README is a human-facing map of the repository. It is intended to help read
 - [`timeline.md`](timeline.md) — setting-wide chronology and major historical periods.
 - [`palatinae/`](palatinae/) — lore concerning the Palatinae Chapter.
 - [`mechanicus/`](mechanicus/) — lore concerning the Mechanicus of Sacratus and the Forge World's industrial history.
+- [`falkenrath/`](falkenrath/) — lore concerning the House Falkenrath Knight branch trapped within Sacratus.
 - [`working/`](working/) — non-canonical scratch material, unresolved ideas, alternatives, and development notes.
 
 As the setting expands, other factions, institutions, places, and major subjects may receive their own directories.
