@@ -28,11 +28,13 @@ The Palatinae intervene where a small number of Space Marines can produce dispro
 
 The defining Long-Vigil distinction is between **Limitanei** and **Comitatenses**.
 
-The distinction develops during Justinian's Reformation by assigning surviving inherited formations to the roles Sacratus now needs them to perform.
+The distinction develops during Justinian's Reformation from the roles surviving inherited formations are forced to perform after the Breaking.
 
-Defense is the more immediate problem after the Breaking. Existing planetary defense forces therefore fall naturally into **Limitanei** roles, while many Imperial Guard formations are also assigned to fixed or local defensive duties to plug gaps left by catastrophic losses. Other formations are assigned **Comitatenses** roles as mobile field armies and strategic reserves that can be shifted between fronts.
+The immediate post-Breaking military is heavily weighted toward defense. Planetary defense forces fall naturally into **Limitanei** roles, while a large majority of surviving conventional formations — including many Imperial Guard units — are committed to fixed, fortress, or local defense to hold threatened positions and replace catastrophic losses.
 
-At first, a formation's original Imperial identity still matters. Over time, however, whether a unit began as planetary defense or Imperial Guard becomes less useful than the role it habitually performs. **Limitanei** and **Comitatenses** consequently become increasingly important institutional identities in their own right.
+A smaller body of formations remains mobile in **Comitatenses** roles, but over the first generations the predominance of static defense erodes some of Sacratus's institutional capacity for large-scale field warfare. Justinian therefore deliberately strengthens and establishes the Comitatenses as a true mobile field-army and strategic-reserve institution rather than relying only on whatever mobile formations survived the initial catastrophe.
+
+Over time, whether a unit began as planetary defense or Imperial Guard becomes less useful than the role it habitually performs. **Limitanei** and **Comitatenses** consequently become increasingly important institutional identities in their own right.
 
 The exact legal and organizational stages by which those roles harden into institutions, the degree to which formations can later change roles, and the treatment of naval and void forces remain **OPEN**.
 
