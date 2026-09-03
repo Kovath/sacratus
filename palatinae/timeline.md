@@ -55,7 +55,7 @@ The principal sequence eventually runs:
 
 **Varro → Aurelian → Marcellus → Valerian → Justinian**
 
-Each predecessor dies before accession. Their detailed careers are recorded in the [Constantines biographies](constantines/README.md) where relevant to Justinian's formation.
+Each predecessor dies before accession. Their detailed careers are recorded in the [Palatinae figures](figures/README.md) where relevant to Justinian's formation.
 
 ## 100.M40 — The Breaking
 

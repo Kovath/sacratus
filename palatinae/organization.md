@@ -16,7 +16,7 @@ The transition is therefore retrospective at its beginning. Justinian succeeds J
 
 The Constantine remains Chapter Master rather than a secular sovereign of Sacratus. Under the Concordat, however, invocation of **Ultimum** can grant the office extraordinary emergency authority over matters necessary to the defense of Sacratus.
 
-For individual holders of the office, see [`constantines/README.md`](constantines/README.md).
+For individual holders of the office, see [`figures/README.md`](figures/README.md).
 
 ### Succession
 

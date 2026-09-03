@@ -1,10 +1,10 @@
-# The Constantines
+# Palatinae Figures
 
-This README is a human-facing navigation page for the Palatinae Chapter Masters known as the **Constantines**. Canonical details live in the individual biographies and the relevant Palatinae reference files.
+This README is a human-facing navigation page for notable individual Palatinae. Canonical details live in the individual figure files and the relevant Palatinae reference documents.
 
-For the title, command structure, and succession practice, see [`../organization.md`](../organization.md). For broader historical context, see the [Palatinae history](../history.md) and [timeline](../timeline.md).
+For Chapter command, the Constantinian office, and succession practice, see [`../organization.md`](../organization.md). For broader historical context, see the [Palatinae history](../history.md) and [timeline](../timeline.md).
 
-## Biographies
+## Constantines
 
 1. [**Constantine I — John Constantine**](Constantine%20I%20-%20John%20Constantine.md) — the Breaking
 2. [**Constantine II — Justinian**](Constantine%20II%20-%20Justinian.md) — Reformation and early High Vigil
@@ -15,7 +15,7 @@ For the title, command structure, and succession practice, see [`../organization
 7. [**Constantine VII — Manuel**](Constantine%20VII%20-%20Manuel.md) — Long Siege
 8. [**Constantine VIII — Alexios**](Constantine%20VIII%20-%20Alexios.md) — Long Siege, Silence, and Reintegration
 
-## Quick chronology
+### Quick chronology
 
 | Constantine | Accession | End of reign |
 |---|---:|---:|
@@ -28,4 +28,4 @@ For the title, command structure, and succession practice, see [`../organization
 | **VII — Manuel** | **386.M41 PROVISIONAL** | **711.M41** |
 | **VIII — Alexios** | **711.M41** | ongoing at **999.M41** |
 
-Use the biographies and [`../timeline.md`](../timeline.md) for status labels, exact dating, and unresolved details rather than treating this summary table as an independent canonical source.
+Use the figure files and [`../timeline.md`](../timeline.md) for status labels, exact dating, and unresolved details rather than treating this summary table as an independent canonical source.
