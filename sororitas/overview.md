@@ -26,6 +26,8 @@ This becomes especially important during the Low Vigil, when material survival a
 
 During the Reformation, she expands Sororitas institutions and helps establish the generational continuity required for the Sisters to remain a functioning institution without dependable reinforcement from the wider Imperium.
 
+Her work is also shaped by the **Years of Ash**, the second of the principal Sororitas Trials, when food scarcity, refugees, hospitals, and relief become defining post-Breaking burdens.
+
 The exact structure she creates, her Order affiliation, and the details of her career remain **OPEN**.
 
 ## Faith during isolation
@@ -34,13 +36,17 @@ A central Sacratan Sororitas formulation is:
 
 > **He has not abandoned us.**
 
-This is not a promise that rescue is imminent, nor proof that the faithful will be protected from catastrophe. Its meaning is obligation: the Emperor, Terra, and the Imperium still exist, therefore duty still exists.
+This is not a promise that rescue is imminent, nor proof that the faithful will be protected from catastrophe. Its mature meaning is obligation: the Emperor, Terra, and the Imperium still exist, therefore duty still exists.
+
+That interpretation develops through the Sororitas tradition of the **Trials**, rather than appearing fully formed at the beginning of the Vigil. The dominant tradition recognizes seven principal Trials, from the Breaking through the ongoing **Seventh Trial — the Return**. Their exact boundaries and some details remain disputed within Sororitas historiography.
 
 The theology is compatible with the wider Sacratan experience of the Astronomican as the distant **Light**, but the Sororitas expression is specifically religious and pastoral rather than merely strategic.
 
+See [`trials.md`](trials.md) for the primary canonical treatment of the Trials.
+
 ## Ravenna, Contraction, and legitimacy
 
-The catastrophe of **Ravenna** is a major Sororitas trauma and point of memory. The exact Sororitas deployments, casualties, and institutional losses during the crisis remain **OPEN**.
+The catastrophe of **Ravenna** is a major Sororitas trauma and the center of the **Sixth Trial**, commonly called the **Trial of the Empty Table**. Sororitas memory encompasses not only Exterminatus but evacuation triage, those who could not be saved, and the scarcity and displacement that followed. The exact Sororitas deployments, casualties, and institutional losses during the crisis remain **OPEN**.
 
 During **Leontios's Contraction**, the Sisters become increasingly associated with the people and communities Sacratus can no longer materially save. They provide Hospitallers, rites, child evacuation, camps, names, and presence even where the state has decided that continued defense or support is impossible.
 
@@ -64,7 +70,9 @@ The exact constitutional relationship between the Sororitas, the broader Ecclesi
 
 Reintegration reconnects the Sacratan Sororitas with an outside Ecclesiarchy and Adepta Sororitas that have continued to develop for almost nineteen centuries.
 
-The exact treatment of the local institutions, Order relationships, authority, seniority, and customs after contact is restored remains **OPEN**.
+Sacratan tradition treats this not as the end of the Trials but as the beginning of the **Seventh Trial — the Return**: the ongoing test of reconciling nearly nineteen centuries of locally developed Imperial faith with the institutions of the wider Imperium now physically present again.
+
+The exact treatment of the local institutions, Order relationships, authority, seniority, customs, and theological disputes after contact is restored remains **OPEN**.
 
 ## Still open
 
