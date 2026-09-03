@@ -36,14 +36,6 @@ This distinction enters popular memory as:
 
 The saying is not a complete condemnation of the Constantine. It records a difference between the institution that must decide what can be saved and the institution that remains with those who cannot be.
 
-## Melitene
-
-The **Massacre of Melitene** becomes a central Low-Vigil memory because official and popular descriptions diverge so sharply.
-
-Formal records call it a civil disturbance. Popular and Sororitas memory calls it a massacre.
-
-The Sororitas memory does not require the claim that the Palatinae arrived intending to murder civilians. The event matters because forty-three civilians die in an encounter so asymmetrical that technical justification does not settle the moral memory of it.
-
 ## Ravenna
 
 **Ravenna** is a major religious and institutional trauma.
@@ -51,6 +43,14 @@ The Sororitas memory does not require the claim that the Palatinae arrived inten
 Its destruction does not receive a simple retrospective explanation in which faith, strategy, or punishment resolves the catastrophe neatly. The world had genuinely improved life across Sacratus before it was lost.
 
 The exact Sororitas rites, memorial practices, and theological interpretations associated with Ravenna remain **OPEN**.
+
+## Melitene
+
+The **Massacre of Melitene** becomes a central Low-Vigil memory because official and popular descriptions diverge so sharply.
+
+Formal records call it a civil disturbance. Popular and Sororitas memory calls it a massacre.
+
+The Sororitas memory does not require the claim that the Palatinae arrived intending to murder civilians. The event matters because forty-three civilians die in an encounter so asymmetrical that technical justification does not settle the moral memory of it.
 
 ## Legitimacy and resistance
 
