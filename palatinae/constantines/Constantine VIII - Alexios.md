@@ -5,7 +5,7 @@
 - born **438.M41**;
 - accedes **711.M41**, approximately age 273;
 - age at Reintegration in **999.M41**: approximately 561;
-- preferred Chapter strength at accession: approximately **217 full battle-brothers — PROVISIONAL exact figure**.
+- Chapter strength at accession: approximately **217 full battle-brothers — PROVISIONAL exact figure**.
 
 ## Siege-born Constantine
 
