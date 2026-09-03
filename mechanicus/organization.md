@@ -1,6 +1,6 @@
 # Organization of the Sacratan Mechanicus
 
-> **Purpose:** Canonical home for the institutional role and known organization of the Mechanicus of Sacratus. Detailed industrial systems belong primarily in [`industry.md`](industry.md); historical development belongs in [`history.md`](history.md).
+> **Purpose:** Canonical home for the institutional role and known organization of the Mechanicus of Sacratus. Detailed industrial systems belong primarily in [`industry.md`](industry.md); historical development belongs in [`history.md`](history.md); individual figures belong in [`figures/`](figures/README.md).
 
 ## Forge World authority
 
@@ -36,30 +36,6 @@ A later Mechanicus objection captures the problem:
 
 The exact constitutional mechanics by which the Fabricator-General and other Mechanicus authorities participate in or contest Ultimum remain **OPEN** beyond what is established in the Grand Calculus.
 
-## Teren-44
-
-**Teren-44** is the most developed individual Mechanicus figure currently established.
-
-During the mature High Vigil he is a **Magos Logis of comparatively modest institutional rank**, not yet an Archmagos.
-
-This limited position is important to his role in Great Ravenna. His work requires him to compare logistical and production information crossing industrial domains that are otherwise managed and reported in relative isolation. He notices that local figures can remain apparently acceptable while hidden dependencies between domains are steadily eroding the system's overall margin.
-
-His significance at this stage lies in **recognition and warning rather than command authority**. He does not personally possess the institutional power to redesign Sacratan industry or order Great Ravenna into existence.
-
-Teren's analysis independently converges with Cassian's broader strategic conclusion: Sacratus needs a way to restore real surplus and positive feedback rather than simply demand greater output from systems already consuming their own depth.
-
-He becomes deeply associated with Great Ravenna as the project develops, while the Mechanicus commits substantial industrial plant, tooling, stores, manpower, and expertise to the world.
-
-Teren survives Ravenna and rises to **Archmagos Logis only sometime after its destruction in 703.M40**. The exact date, mechanism, and political circumstances of his advancement remain **OPEN**.
-
-By Leontios's reign he is an important senior internal Mechanicus figure during the **Grand Calculus**.
-
-His career therefore spans a meaningful institutional reversal: he begins as a mid-ranking Logis priest who identifies a systemic problem hidden by siloed reporting, and later confronts the diminished post-Ravenna system as an Archmagos during its forced contraction.
-
-Teren-44 should not be treated merely as a Mechanicus spokesman for Constantinian policy. His presence on both projects is useful precisely because the same priest participates in expansive High-Vigil investment and later in the accounting of what can no longer be sustained.
-
-**OPEN:** His origin, exact offices before becoming Archmagos Logis, personal theology, relationship with successive Fabricator-Generals, detailed actions during the Ravenna catastrophe, and final fate remain to be developed.
-
 ## Manufactoria and industrial domains
 
 The Mechanicus industrial presence is larger than any single forge complex.
@@ -78,7 +54,7 @@ The High Vigil and Grand Calculus establish the importance of **Logis** expertis
 
 Industrial survival requires more than measuring theoretical output. The priesthood must account for maintenance burden, replacement cycles, supply dependencies, specialist personnel, repairability, transport, and the consequences of losing one process for every other process that depends upon it.
 
-Teren-44's early role demonstrates why this matters institutionally. Information can be accurate within individual domains while the system-level picture remains dangerously incomplete if nobody is positioned to compare dependencies across those domains.
+The career of [**Teren-44**](figures/Teren-44.md) demonstrates why this matters institutionally. As a comparatively mid-ranking Magos Logis during the mature High Vigil, he recognizes that accurate local reporting can still conceal dangerous system-wide dependencies. He later rises to Archmagos Logis sometime after Ravenna and is a senior internal Mechanicus figure during the Grand Calculus.
 
 This is one reason nominal capacity becomes an increasingly dangerous measure during the Low Vigil. A machine or manufactorium that exists but cannot be supplied or repaired can consume more strategic capacity than it produces.
 
