@@ -21,7 +21,11 @@ The practical trust placed in him is summarized by:
 
 ## Ravenna
 
-Basilios is initially away from the center of the Ravenna catastrophe and is recalled into the wider defense and quarantine effort.
+When the Ravenna catastrophe begins, Basilios is deployed at **Chrysopolis**, defending the reclaimed outer outposts. Cassian recalls him as the crisis expands beyond the planet itself.
+
+Basilios takes responsibility for the **orbital quarantine around Ravenna**. His task is to prevent the catastrophe from propagating outward while preserving order among the forces attempting to contain, evacuate, reinforce, or withdraw from the world.
+
+The role repeatedly requires brutal containment decisions. Uncertainty cannot be treated as harmless when a single compromised movement may carry corruption beyond Ravenna. Basilios's contribution is therefore less about finding a way to save the planet than about ensuring that Ravenna does not take the rest of Sacratus with it.
 
 He survives Cassian and becomes Constantine IV.
 
