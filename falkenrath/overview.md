@@ -30,13 +30,13 @@ The operational figure should not be treated as a statement about the exact numb
 
 The decline is the cumulative result of nearly nineteen centuries of isolation, combat, maintenance burden, and the inability to rely on the wider support structure of the parent House.
 
-## Cultural distinction
+## Cultural vocabulary
 
-Falkenrath retains a deliberately **Germanic and Gothic vocabulary and identity** that stands apart from the increasingly Roman and Byzantine language of Sacratan institutions.
+Falkenrath retains a deliberately **Germanic and Gothic vocabulary** that stands apart from the increasingly Roman and Byzantine language of Sacratan institutions.
 
 That contrast is intentional. House Falkenrath should not simply be renamed into the dominant Sacratan idiom merely because it remains trapped in the system for centuries.
 
-The exact degree of cultural blending, linguistic change, and internal ritual development during the Long Vigil remains **OPEN**.
+The exact degree of broader cultural blending, linguistic change, and internal ritual development during the Long Vigil remains **OPEN**.
 
 ## Reintegration
 
@@ -52,7 +52,7 @@ The resulting relationship is a source of tension rather than an automatic resto
 
 The following are not yet established:
 
-- the parent House's Knight World and detailed external history;
+- the parent House's principal seat and detailed external history;
 - the exact reason and date of the original detachment's presence in Sacratus;
 - the individual Knight classes and complete pre-Breaking roster;
 - named pilots, household leaders, and major sacristans;
