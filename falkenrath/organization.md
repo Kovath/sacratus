@@ -48,8 +48,8 @@ The branch should not be silently reduced to a Mechanicus military unit, nor sho
 
 ## Reintegration
 
-Reintegration reconnects the Sacratan branch with the wider Falkenrath lineage.
+Reintegration reconnects the Sacratan branch with the wider Falkenrath lineage, which **warmly receives** the returned branch.
 
-The branch's long independent survival creates unresolved questions of authority, inheritance, obligation, and recognition within the parent House.
+Warm reception does not by itself settle the branch's institutional place after almost nineteen centuries of separate development. Questions of authority, inheritance, obligation, and hierarchy within the reunited House remain unresolved.
 
 The exact post-Reintegration hierarchy and settlement remain **OPEN**.
