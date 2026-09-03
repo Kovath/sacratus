@@ -1,32 +1,8 @@
 # The Constantines
 
-> **Canon note:** This directory is the canonical record of the Palatinae Chapter Masters currently known as Constantine I–VIII. Unmarked statements are established canon. Explicit **PROVISIONAL**, **OPEN**, and **UNKNOWN IN-UNIVERSE** labels retain their repository meanings.
+This README is a human-facing navigation page for the Palatinae Chapter Masters known as the **Constantines**. Canonical details live in the individual biographies and the relevant Palatinae reference files.
 
-For broader Palatinae context, see the [Palatinae README](../README.md), [history](../history.md), and [timeline](../timeline.md).
-
-## The title
-
-The Palatinae Chapter Master was not originally called **Constantine**.
-
-The title develops from the memory of **John Constantine**, the Chapter Master who commands Sacratus during the Breaking. John is publicly believed to die in Constantine's Stand, and Sacratan mortals gradually transform his personal name into a title for the defender of the system.
-
-The change is not immediate. Justinian succeeds John as Justinian, and Marines continue using his birth name for some time. Over the early Long Vigil, popular usage, institutional memory, and Chapter tradition converge until later Chapter Masters formally inherit the title.
-
-The sequence is therefore retrospective at its beginning but fully institutional by the later Vigil.
-
-## Succession as an institution
-
-The Palatinae do not treat succession as retirement planning.
-
-John Constantine's approach becomes an important precedent: a Chapter Master is expected to serve while capable, but the Chapter must never be uncertain about command if he dies without warning.
-
-His principle is:
-
-> **A Chapter Master can die at any time. The Chapter cannot be allowed to wonder who commands next.**
-
-Successor candidates therefore exist to preserve an unambiguous chain of command, not because the current Constantine intends to step aside.
-
-Later Constantines do not all use exactly the same mechanism, but the underlying assumption persists: succession is part of readiness.
+For the title, command structure, and succession practice, see [`../organization.md`](../organization.md). For broader historical context, see the [Palatinae history](../history.md) and [timeline](../timeline.md).
 
 ## Biographies
 
@@ -39,15 +15,17 @@ Later Constantines do not all use exactly the same mechanism, but the underlying
 7. [**Constantine VII — Manuel**](Constantine%20VII%20-%20Manuel.md) — Long Siege
 8. [**Constantine VIII — Alexios**](Constantine%20VIII%20-%20Alexios.md) — Long Siege, Silence, and Reintegration
 
-## Current chronological anchors
+## Quick chronology
 
-| Constantine | Accession | End of reign | Status notes |
-|---|---:|---:|---|
-| **I — John** | before Breaking | **100.M40** publicly | birth and exact age **PROVISIONAL**; secretly survives as Dreadnought |
-| **II — Justinian** | **100.M40** | **417.M40** | birth **PROVISIONAL**; 317-year reign established |
-| **III — Cassian** | **417.M40** | **703.M40** | born 126.M40; dies at Ravenna |
-| **IV — Basilios** | **703.M40** | **761.M40** | birth **PROVISIONAL**; 58-year reign |
-| **V — Leontios** | **761.M40** | **096.M41** | born 474.M40; reign approximately 335 years |
-| **VI — Andronikos** | **096.M41** | **386.M41 PROVISIONAL** | biography and transition still substantially **OPEN** |
-| **VII — Manuel** | **386.M41 PROVISIONAL** | **711.M41** | deliberately thin; birth **PROVISIONAL** |
-| **VIII — Alexios** | **711.M41** | ongoing at 999.M41 | born 438.M41; Reintegration-era development still **OPEN** |
+| Constantine | Accession | End of reign |
+|---|---:|---:|
+| **I — John** | before Breaking | **100.M40** publicly |
+| **II — Justinian** | **100.M40** | **417.M40** |
+| **III — Cassian** | **417.M40** | **703.M40** |
+| **IV — Basilios** | **703.M40** | **761.M40** |
+| **V — Leontios** | **761.M40** | **096.M41** |
+| **VI — Andronikos** | **096.M41** | **386.M41 PROVISIONAL** |
+| **VII — Manuel** | **386.M41 PROVISIONAL** | **711.M41** |
+| **VIII — Alexios** | **711.M41** | ongoing at **999.M41** |
+
+Use the biographies and [`../timeline.md`](../timeline.md) for status labels, exact dating, and unresolved details rather than treating this summary table as an independent canonical source.
