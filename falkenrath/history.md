@@ -38,16 +38,16 @@ Falkenrath's isolation creates an unusual form of continuity.
 
 The branch remains part of a Questor Mechanicus lineage, yet every practical question of succession, maintenance, household continuity, and local obligation must be answered without routine access to the parent House for almost nineteen centuries.
 
-Its Germanic and Gothic vocabulary remains visibly distinct from the Roman and Byzantine language that increasingly characterizes Sacratan institutions.
+Its response is generally **highly conservative**. Falkenrath holds closely to the traditions and identity it possessed before the Breaking, treating continuity with the pre-isolation House as something to be preserved rather than allowing the stranded branch simply to become culturally Sacratan.
 
-The exact changes in Falkenrath custom, ritual, hierarchy, and relationship with the Sacratan Mechanicus during this period remain **OPEN**.
+Its Germanic and Gothic vocabulary remains one visible expression of that continuity. The exact evolution of individual rites, customs, hierarchy, and its relationship with the Sacratan Mechanicus remain **OPEN**.
 
 ## Reintegration
 
 When the Long Vigil ends in **999.M41**, the Sacratan branch encounters its parent House again after almost nineteen centuries of separation.
 
-The result is not simple reunion. The isolated branch has preserved a recognizable Falkenrath identity while also becoming an archaic lineage shaped by local survival, severe attrition, and obligations accumulated inside Sacratus.
+The parent House **warmly receives** the returned branch. Reintegration is therefore not a story of rejection by a lineage that considers the Sacratan survivors illegitimate.
 
-Reintegration therefore creates tension over how the branch relates to the wider House after so long without ordinary hierarchy or contact.
+The difficulty is cultural distance. The stranded branch has spent almost nineteen centuries deliberately preserving an old Falkenrath identity while the parent House has continued developing beyond the storm. Both remain Falkenrath, but neither is exactly the House the other remembers.
 
-**OPEN:** The exact dispute, the parent House's position, the Sacratan branch's claims, and the final settlement remain undeveloped.
+**OPEN:** The detailed cultural accommodations, questions of authority and obligation, and final long-term settlement remain undeveloped.
