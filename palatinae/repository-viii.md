@@ -30,9 +30,7 @@ The message is not treated as proof that the Emperor personally authored or tran
 
 The physical key has never been used.
 
-What it opens, how it functions, and whether it is sufficient by itself to enter Repository VIII are **UNKNOWN IN-UNIVERSE**.
-
-The Repository's contents, purpose, internal architecture, and reason for being placed on Sacratus are likewise **UNKNOWN IN-UNIVERSE**.
+How the key functions is **UNKNOWN IN-UNIVERSE**. The Repository's contents and purpose are likewise **UNKNOWN IN-UNIVERSE**.
 
 No later emergency, including the Breaking, Ravenna, the Contraction, the Long Siege, or the Final Hell, has been accepted as justification to test the key or open the Repository.
 
@@ -78,7 +76,7 @@ John remains the final guardian beneath that living structure.
 
 These roles do not imply that every participant knows every part of the secret. Repository custody remains compartmentalized even among those responsible for preserving it.
 
-The **Varangian Guard** develops during the early Reformation because security can no longer depend on whichever company officers happen to be available. The formal Chartophylax role develops later, with Niketas becoming the first formal holder after Ravenna; Theophanes is its predecessor in function.
+The **Varangian Guard** develops during the early Reformation because security can no longer depend on whichever company officers happen to be available. Its exact date of formalization remains **OPEN**. The formal Chartophylax role develops later, with Niketas becoming the first formal holder after Ravenna; Theophanes is its predecessor in function.
 
 For the institutional details of those offices, see [`organization.md`](organization.md).
 
@@ -98,10 +96,7 @@ The following are **UNKNOWN IN-UNIVERSE** and should remain unresolved unless ex
 
 - who sent the founding instruction;
 - why Repository VIII exists;
-- why it is located on Sacratus;
 - what the Repository contains;
-- what the physical key actually does;
-- what conditions, if any, would constitute the Emperor's arrival for purposes of the final instruction;
-- whether anyone outside the known custodial tradition possesses independent knowledge of the Repository.
+- what the physical key actually does.
 
 Repository VIII should not become a general explanation for unrelated Sacratan mysteries, nor should later institutions be retroactively treated as part of a detailed founding plan. Its significance lies partly in the fact that the Palatinae have preserved a command for millennia without knowing why it was given.
