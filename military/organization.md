@@ -14,7 +14,7 @@ The Military jurisdiction is distinct from the Civil jurisdiction within Sacrata
 
 The **Limitanei** emerge during the Reformation from forces assigned primarily to fixed and local defense.
 
-Planetary defense forces naturally fall into this role after the Breaking. Because immediate defense is the dominant problem, a large majority of surviving conventional formations are committed to Limitanei duties, including many Imperial Guard / Astra Militarum formations reassigned to reinforce threatened local defenses and fill gaps left by catastrophic losses.
+Planetary defense forces naturally fall into this role after the Breaking. Because immediate defense is the dominant problem, a large majority of surviving conventional formations are committed to Limitanei duties, including many **Astra Militarum (Imperial Guard)** formations reassigned to reinforce threatened local defenses and fill gaps left by catastrophic losses.
 
 Their defining responsibilities include:
 
@@ -41,7 +41,7 @@ The Comitatenses consequently develop from an early assigned role into a conscio
 
 ## From inherited formations to role identities
 
-Immediately after the Breaking, distinctions such as planetary defense force and Imperial Guard remain meaningful descriptions of where formations came from.
+Immediately after the Breaking, distinctions such as planetary defense force and Guard remain meaningful descriptions of where formations came from.
 
 As the Long Vigil continues, those inherited origins become progressively less useful for describing what a formation actually does. The more important distinction becomes whether it serves within the **Limitanei** defensive structure or the **Comitatenses** mobile field force.
 
@@ -51,7 +51,7 @@ This is a gradual institutional evolution rather than a single moment when every
 
 ## Other inherited forces
 
-Pre-Breaking Sacratus contains planetary defense forces, Imperial Guard / Astra Militarum formations, naval forces, fortress personnel, and other conventional Imperial military bodies.
+Pre-Breaking Sacratus contains planetary defense forces, Astra Militarum formations, naval forces, fortress personnel, and other conventional Imperial military bodies.
 
 The later military grows from those inheritances. Canon does not yet define exactly how every pre-Breaking institution maps onto the mature Limitanei/Comitatenses system.
 
