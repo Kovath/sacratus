@@ -9,7 +9,7 @@
 
 Leontios is born during the High Vigil and remembers a Sacratus that possessed real surplus.
 
-He is Cassian's **secondary successor candidate behind Basilios** and later serves Basilios loyally for his entire 58-year reign.
+He serves as **Captain of the 4th Company** during Ravenna, is Cassian's **secondary successor candidate behind Basilios**, and later serves Basilios loyally for his entire 58-year reign.
 
 ## Core trait
 
