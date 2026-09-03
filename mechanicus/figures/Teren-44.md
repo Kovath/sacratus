@@ -6,11 +6,9 @@
 
 **Teren-44** is the most developed named Mechanicus figure presently established in Sacratus lore.
 
-His defining early contribution is not Great Ravenna. It is **The Breakdown**, formally **Cascading Manufactorum Failure**.
+His defining early contribution occurs during **The Breakdown**, formally **Cascading Manufactorum Failure**. At the time he is a **Magos Logis of comparatively modest institutional standing**, without the authority to direct the Forge World as a whole.
 
-During the crisis he is a **Magos Logis of comparatively modest institutional standing**. He does not command the Sacratan Mechanicus and does not possess the authority to redesign the Forge World's industrial system.
-
-What makes him important is that he is the first to recognize that a growing pattern of apparently separate manufactorum failures is in fact a **single system-wide crisis of interdependence**.
+His importance comes from recognizing that a growing pattern of apparently separate manufactorum failures is in fact a single system-wide crisis of interdependence.
 
 ## The Breakdown
 
@@ -22,33 +20,27 @@ Teren's Logis work requires him to compare information crossing several of these
 
 He is the **original discoverer of the systemic character of The Breakdown**: the first established figure to recognize that failures being treated locally are propagating through hidden dependencies across the wider industrial network.
 
-His contribution is therefore diagnosis and legibility rather than command.
-
-Teren cannot solve the crisis by decree. He can demonstrate that the Mechanicus is no longer facing a collection of isolated maintenance problems and that local measures of success are insufficient to describe the health of the whole system.
+His contribution is diagnosis and legibility rather than command. He demonstrates that the Mechanicus is facing a network failure rather than a collection of isolated maintenance problems, and that local measures of success are insufficient to describe the health of the whole system.
 
 The exact path by which his analysis reaches senior Mechanicus and Sacratan decision-makers remains **OPEN**.
 
 ## Reputation and systemic thinking
 
-Teren's work during The Breakdown establishes the intellectual and institutional basis of his later importance.
+Teren's work during The Breakdown gives him a reputation for seeing dependencies and system-level consequences that narrower industrial accounting can miss.
 
-The crisis teaches him that Sacratan capacity cannot be understood simply by adding together functioning manufactoria or headline output. Industrial strength depends on the condition of the dependencies connecting production, transport, maintenance, specialist knowledge, materials, labor, and other supporting systems.
+The crisis establishes a perspective that remains important throughout his later career: Sacratan capacity cannot be understood simply by adding together functioning manufactoria or headline output. Industrial strength depends on the condition of the relationships connecting production, transport, maintenance, specialist knowledge, materials, labor, and other supporting systems.
 
-This does not immediately make him a senior priest. He remains a comparatively modest Magos Logis, but his diagnosis gives him a reputation for seeing system-level consequences that can remain invisible inside narrower industrial domains.
-
-That reputation and analytic framework later carry forward into the mature High Vigil.
+This does not immediately make him a senior priest. He remains a comparatively modest Magos Logis after the initial diagnosis.
 
 ## Great Ravenna
 
-Teren's later connection to **Great Ravenna** grows out of his Breakdown-era work rather than replacing it as his original contribution.
-
-By Constantine III Cassian's mature High Vigil, Teren already understands how apparently healthy local systems can be undermined by shrinking margins elsewhere. That experience makes the wider problem of Sacratan strategic margin legible to him in specifically Mechanicus terms.
+By Constantine III Cassian's mature High Vigil, Teren's earlier work makes the wider problem of Sacratan strategic margin legible to him in specifically Mechanicus terms.
 
 His analysis later converges with Cassian's broader conclusion that Sacratus cannot indefinitely improve its position merely by demanding incrementally greater output from systems already consuming their own depth. A major source of agricultural surplus offers the possibility of positive feedback across population, labor, logistics, and industry.
 
-Teren therefore becomes associated with Great Ravenna as the project develops, but he is **not established as the originator of the project** and should not be treated as though his historical importance begins with it.
+Teren becomes associated with **Great Ravenna** as the project develops. He is not established as its originator.
 
-Great Ravenna is also not merely an agricultural project from which the Mechanicus passively benefits. The priesthood commits substantial machinery, tooling, stores, technical manpower, and senior expertise to the century-scale redevelopment. For generations, the project succeeds, widening the system's margin and freeing industrial capacity for maintenance, investment, defense, and expansion.
+Great Ravenna is a major direct Mechanicus investment. The priesthood commits substantial machinery, tooling, stores, technical manpower, and senior expertise to the century-scale redevelopment. For generations, the project succeeds, widening the system's margin and freeing industrial capacity for maintenance, investment, defense, and expansion.
 
 ## Ravenna
 
@@ -62,21 +54,13 @@ The loss is particularly severe for the Mechanicus because generations of indust
 
 Teren rises to **Archmagos Logis only sometime after Ravenna**.
 
-This later promotion is an important distinction in his career. The priest who first diagnoses The Breakdown is comparatively mid-ranking; the figure who later confronts the diminished post-Ravenna industrial system possesses substantially greater institutional weight.
-
-**OPEN:** The exact date, mechanism, political circumstances, and immediate cause of Teren's promotion remain undeveloped.
+The exact date, mechanism, political circumstances, and immediate cause of his promotion remain **OPEN**.
 
 ## The Grand Calculus
 
 By the reign of Constantine V **Leontios**, Teren is an **Archmagos Logis** and an important senior internal Mechanicus figure during the **Grand Calculus of Necessary Diminution, Translation, and Continuance of the Sacred Manufactoria of Sacratus**.
 
-His career therefore spans three related but distinct stages of Mechanicus history:
-
-- as a comparatively modest Magos Logis, he first identifies the systemic nature of **The Breakdown**;
-- his Breakdown-era understanding of hidden dependencies later informs his participation in the expansive logic surrounding **Great Ravenna**;
-- as an Archmagos Logis after Ravenna, he participates in the era in which the Mechanicus must determine what can no longer be sustained and how useful service can survive contraction.
-
-Teren should not be treated merely as a Mechanicus spokesman for Constantinian policy. His importance comes from carrying a specifically Mechanicus understanding of system-wide dependency across expansion, catastrophe, and contraction.
+His career therefore spans three distinct phases of Mechanicus history: diagnosis during The Breakdown, participation in the expansive High-Vigil logic surrounding Great Ravenna, and senior involvement in the later contraction of the industrial system after Ravenna.
 
 The detailed extent of his authority, his precise position within the Grand Calculus, and his personal judgment of Leontios's coercive use of defense authority remain **OPEN**.
 
