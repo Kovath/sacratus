@@ -9,7 +9,7 @@
 | **Great Crusade / pre-Breaking** | Sacratus functions as a major Mechanicum logistics and industrial nexus specializing heavily in intermediary campaign materiel while depending on wider Imperial inputs and shipping. |
 | **The Breaking** | External industrial depth disappears while wartime demand asks the Forge World to maintain or increase output. |
 | **The Reformation** | The Forge World adapts from an Imperial network node into part of a closed Sacratan industrial ecology. |
-| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; Magos Logis Teren-44 identifies hidden system-wide dependencies and Great Ravenna creates genuine surplus. |
+| **High Vigil** | Industry recovers sufficiently for maintenance, investment, and expansion; the named industrial crises expose progressively deeper dependencies; Great Ravenna later creates genuine surplus. |
 | **Ravenna / Stabilization** | Ravenna's destruction removes a major engine of abundance and destroys substantial Mechanicus investment, manpower, and expertise concentrated there. |
 | **The Contraction** | The Grand Calculus reduces the industrial footprint to a smaller sustainable core and leaves deep institutional resentment. |
 | **Long Tension / Long Siege** | Mechanicus compartmentalization rises while surviving industrial capacity is maintained under continuous pressure. |
@@ -83,19 +83,19 @@ Sacratan industry recovers sufficiently to create real maintenance and investmen
 
 The Mechanicus can again expand selected capabilities rather than consuming inherited industrial depth faster than it can be restored.
 
-## Cassianic High Vigil — Teren-44 and Great Ravenna
+The exact placement of the named industrial crises within the broader era remains **OPEN**.
 
-**Teren-44 is a Magos Logis of comparatively modest institutional rank during the mature High Vigil.**
+## The Breakdown — exact date OPEN
 
-His Logis work crosses reports from otherwise siloed industrial domains. He notices that apparently healthy local figures can conceal system-wide dependencies whose margins are deteriorating.
+During **The Breakdown**, comparatively mid-ranking **Magos Logis Teren-44** is the first established figure to recognize that apparently separate manufactorum failures are propagating through hidden dependencies as one system-wide crisis.
 
-His importance at this stage is recognition and warning rather than senior authority.
+His contribution is diagnosis and warning rather than senior command authority.
 
-Teren-44 independently reaches the same broad strategic conclusion as Cassian: a major agricultural surplus can create positive feedback across population, labor, logistics, and industrial capacity.
+## Cassianic High Vigil — Great Ravenna
 
-The Mechanicus commits heavily to the Great Ravenna project itself, including industrial plant, tooling, stores, technical manpower, and senior expertise.
+The Mechanicus participates in the century-scale Great Ravenna project and commits substantial industrial plant, tooling, stores, technical manpower, and senior expertise to its development.
 
-The project succeeds for generations and frees industrial resources previously consumed by subsistence pressure.
+The project succeeds for generations. Agricultural surplus supports population and labor while freeing industrial resources previously consumed by subsistence pressure.
 
 ## 703.M40 — Ravenna
 
@@ -106,8 +106,6 @@ The loss removes one of the principal engines of High-Vigil abundance.
 It also destroys a significant concentration of Mechanicus investment: machinery, materiel, technical personnel, and expertise deliberately committed to Ravenna over generations.
 
 The Mechanicus therefore enters Stabilization having lost both the surplus Ravenna created and part of the industrial capacity that would otherwise have helped absorb its loss.
-
-Teren-44 survives Ravenna and rises to **Archmagos Logis only sometime afterward**. His exact promotion date and circumstances remain **OPEN**.
 
 ## 703–761.M40 — Stabilization
 
@@ -130,8 +128,6 @@ Approximate aggregate scale — **PROVISIONAL exact figures**:
 - roughly **60% of maintained industrial footprint** lost, abandoned, or translated;
 - nominal capacity falls toward roughly **one third** of its earlier level;
 - genuinely useful sustainable output falls less sharply than nominal capacity because unsupportable capacity is deliberately removed.
-
-Teren-44, by then an **Archmagos Logis**, is an important internal Mechanicus figure during the process.
 
 The Grand Calculus becomes a lasting source of resentment over the degree to which Constantinian defense authority can force Mechanicus decisions.
 

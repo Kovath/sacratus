@@ -56,19 +56,13 @@ That interdependence is productive during the Reformation and High Vigil but bec
 
 The Reformation eventually restores enough stability for Sacratan industry to recover rather than merely consume inherited capacity.
 
-During the mature High Vigil, **Teren-44 is still a Magos Logis rather than an Archmagos**. He is a comparatively mid-level figure whose work crosses enough otherwise siloed industrial reporting to notice a problem that senior institutions can miss: individual domains can appear functional while hidden dependencies between them make the system as a whole progressively more brittle.
-
-His initial importance is therefore recognition and warning, not the authority to impose a solution.
-
-Teren-44 independently reaches the same broad strategic conclusion as Cassian regarding Great Ravenna: genuine agricultural surplus can create positive feedback across population, labor, logistics, and industry rather than merely relieving an immediate food shortage.
+Great Ravenna becomes one of the largest expressions of High-Vigil confidence. Agricultural surplus is intended to create positive feedback across population, labor, logistics, and industry rather than merely relieve an immediate food shortage.
 
 Great Ravenna is also a major **Mechanicus investment**, not merely an agricultural project from which the Forge World passively benefits. Over its century-scale development, the Mechanicus commits substantial industrial plant, tooling, stores, technical manpower, and senior expertise to Ravenna.
 
 The project works for generations. Reduced subsistence pressure frees industrial capacity for maintenance, defense, expansion, and long-term investment, while Ravenna itself becomes a concentration of Mechanicus capital and expertise.
 
 Its destruction in **703.M40** therefore inflicts a double loss: Sacratus loses a major engine of abundance, and the Mechanicus loses a significant body of machinery, materiel, manpower, and expertise that had been deliberately concentrated there.
-
-Teren-44 rises to **Archmagos Logis only sometime after Ravenna**. The exact date and circumstances of that promotion remain **OPEN**.
 
 ## The Grand Calculus
 

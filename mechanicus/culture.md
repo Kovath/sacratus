@@ -92,8 +92,6 @@ Nominal capacity can likewise become dangerous if it conceals the maintenance bu
 
 The Grand Calculus gives this principle its harshest expression: an industrial system can look larger on paper while becoming less capable of surviving another century.
 
-Teren-44's later reputation as an **Archmagos Logis** grows partly from an earlier history in which, as a comparatively mid-ranking Magos Logis, he recognized system-wide dependencies hidden by siloed reporting.
-
 ## Great Ravenna and institutional memory
 
 Great Ravenna is remembered by the Mechanicus not only as a period in which abundance benefited industry but as one of its own greatest High-Vigil investments.
